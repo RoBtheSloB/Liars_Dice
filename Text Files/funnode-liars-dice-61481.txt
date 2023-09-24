@@ -1,0 +1,18 @@
+[Date 2023/07/22]
+[Site www.FunNode.com]
+[P0 doubleyo7]
+[P0-Elo 0.0]
+[P1 RoB_the_SloB]
+[P1-Elo 0.0]
+[P2 donny34]
+[P2-Elo 0.0]
+[Timer Fischer]
+[Timers -1 + 0]
+[Re-roll false]
+[Spot On false]
+[Wild Ones false]
+[First to play loser]
+[Loser loses 1]
+[Result donny34 wins in 13 rounds. doubleyo7, RoB_the_SloB lose]
+
+doubleyo7 - 5 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-5 ) .. there were 3, doubleyo7 - 3 x 4, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 3, RoB_the_SloB - 3 x 2, donny34 - 6 x 2, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 2, doubleyo7 - 5 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-5 ) .. there were 4, RoB_the_SloB - 3 x 2, donny34 - 6 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-6 ) .. there were 3, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 4, RoB_the_SloB - 5 x 1, donny34 - 6 x 1, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, donny34 - 4 x 1, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 3, RoB_the_SloB - 2 x 1, donny34 - 4 x 2, doubleyo7 - 5 x 2, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 4, donny34 - 6 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-6 ) .. there was 1, doubleyo7 - 1 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-1 ) .. there was 1, RoB_the_SloB - 3 x 1, donny34 - 6 x 1, RoB_the_SloB - 4 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 2, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1

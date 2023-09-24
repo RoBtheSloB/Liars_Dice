@@ -1,0 +1,1191 @@
+info,source,game_num
+[Site www.FunNode.com],funnode-liars-dice-60897.txt,60897
+[P0 RoB_the_SloB],funnode-liars-dice-60897.txt,60897
+[P0-Elo 0.0],funnode-liars-dice-60897.txt,60897
+[P1 doubleyo7],funnode-liars-dice-60897.txt,60897
+[P1-Elo 0.0],funnode-liars-dice-60897.txt,60897
+[P2 donny34],funnode-liars-dice-60897.txt,60897
+[P2-Elo 0.0],funnode-liars-dice-60897.txt,60897
+[Timer Fischer],funnode-liars-dice-60897.txt,60897
+[Timers -1 + 0],funnode-liars-dice-60897.txt,60897
+[Re-roll false],funnode-liars-dice-60897.txt,60897
+[Spot On false],funnode-liars-dice-60897.txt,60897
+[Wild Ones false],funnode-liars-dice-60897.txt,60897
+[First to play next],funnode-liars-dice-60897.txt,60897
+[Loser loses 1],funnode-liars-dice-60897.txt,60897
+"[Result RoB_the_SloB wins in 11 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-60897.txt,60897
+"RoB_the_SloB - 1 x 1, doubleyo7 - 1 x 2, donny34 - 2 x 3, RoB_the_SloB - 1 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-1 ) .. there were 2, donny34 - 5 x 2, RoB_the_SloB - 3 x 3, doubleyo7 - 5 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-5 ) .. there were 2, RoB_the_SloB - 1 x 1, doubleyo7 - 3 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-3 ) .. there were 2, RoB_the_SloB - 1 x 1, doubleyo7 - 3 x 2, donny34 - 6 x 2, RoB_the_SloB - 3 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-3 ) .. there were 3, donny34 - 1 x 1, RoB_the_SloB - 2 x 1, doubleyo7 - 4 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-4 ) .. there were 4, RoB_the_SloB - 1 x 1, doubleyo7 - 5 x 1, donny34 - 5 x 2, RoB_the_SloB - 5 x 3, doubleyo7 - 4 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-4 ) .. there were 3, RoB_the_SloB - 2 x 1, doubleyo7 - 3 x 1, donny34 - 1 x 3, RoB_the_SloB - 3 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-3 ) .. there were 3, donny34 - 3 x 1, RoB_the_SloB - 4 x 1, donny34 - 6 x 1, RoB_the_SloB - 3 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-3 ) .. there were 3, RoB_the_SloB - 3 x 1, donny34 - 1 x 2, RoB_the_SloB - 2 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-2 ) .. there were 2, RoB_the_SloB - 1 x 1, donny34 - 6 x 1, RoB_the_SloB - 1 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-1 ) .. there were 2, RoB_the_SloB - 2 x 1, donny34 - 6 x 1, RoB_the_SloB - 3 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-3 ) .. there were 2",funnode-liars-dice-60897.txt,60897
+[Site www.FunNode.com],funnode-liars-dice-60898.txt,60898
+[P0 donny34],funnode-liars-dice-60898.txt,60898
+[P0-Elo 0.0],funnode-liars-dice-60898.txt,60898
+[P1 doubleyo7],funnode-liars-dice-60898.txt,60898
+[P1-Elo 0.0],funnode-liars-dice-60898.txt,60898
+[P2 RoB_the_SloB],funnode-liars-dice-60898.txt,60898
+[P2-Elo 0.0],funnode-liars-dice-60898.txt,60898
+[Timer Fischer],funnode-liars-dice-60898.txt,60898
+[Timers -1 + 0],funnode-liars-dice-60898.txt,60898
+[Re-roll false],funnode-liars-dice-60898.txt,60898
+[Spot On false],funnode-liars-dice-60898.txt,60898
+[Wild Ones false],funnode-liars-dice-60898.txt,60898
+[First to play next],funnode-liars-dice-60898.txt,60898
+[Loser loses 1],funnode-liars-dice-60898.txt,60898
+"[Result donny34 wins in 13 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-60898.txt,60898
+"donny34 - 1 x 3, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 3, donny34 - 1 x 3, doubleyo7 - 5 x 3, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 4, doubleyo7 - 3 x 3, RoB_the_SloB - 3 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 5, doubleyo7 - 4 x 2, RoB_the_SloB - 4 x 3, donny34 - 5 x 3, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there was 1, donny34 - 6 x 2, doubleyo7 - 2 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-2 ) .. there were 2, donny34 - 5 x 2, doubleyo7 - 5 x 3, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 3, doubleyo7 - 3 x 3, RoB_the_SloB - 3 x 4, donny34 - 3 x 5, doubleyo7 - 3 x 6, liar, RoB_the_SloB accuses doubleyo7 ( 6 x d-3 ) .. there were 4, donny34 - 6 x 1, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, doubleyo7 - 3 x 2, RoB_the_SloB - 3 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-3 ) .. there was 1, doubleyo7 - 3 x 1, donny34 - 5 x 1, doubleyo7 - 6 x 1, liar, donny34 accuses doubleyo7 ( 1 x d-6 ) .. there were 0, doubleyo7 - 2 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-2 ) .. there was 1",funnode-liars-dice-60898.txt,60898
+[Site www.FunNode.com],funnode-liars-dice-60899.txt,60899
+[P0 RoB_the_SloB],funnode-liars-dice-60899.txt,60899
+[P0-Elo 0.0],funnode-liars-dice-60899.txt,60899
+[P1 doubleyo7],funnode-liars-dice-60899.txt,60899
+[P1-Elo 0.0],funnode-liars-dice-60899.txt,60899
+[P2 donny34],funnode-liars-dice-60899.txt,60899
+[P2-Elo 0.0],funnode-liars-dice-60899.txt,60899
+[Timer Fischer],funnode-liars-dice-60899.txt,60899
+[Timers -1 + 0],funnode-liars-dice-60899.txt,60899
+[Re-roll false],funnode-liars-dice-60899.txt,60899
+[Spot On false],funnode-liars-dice-60899.txt,60899
+[Wild Ones false],funnode-liars-dice-60899.txt,60899
+[First to play next],funnode-liars-dice-60899.txt,60899
+[Loser loses 1],funnode-liars-dice-60899.txt,60899
+"[Result donny34 wins in 14 rounds. RoB_the_SloB, doubleyo7 lose]",funnode-liars-dice-60899.txt,60899
+"RoB_the_SloB - 1 x 1, doubleyo7 - 5 x 4, donny34 - 5 x 5, liar, RoB_the_SloB accuses donny34 ( 5 x d-5 ) .. there were 5, doubleyo7 - 5 x 2, donny34 - 3 x 3, RoB_the_SloB - 1 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-1 ) .. there were 5, donny34 - 6 x 2, RoB_the_SloB - 3 x 3, doubleyo7 - 4 x 3, donny34 - 5 x 3, RoB_the_SloB - 3 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 2, donny34 - 4 x 2, RoB_the_SloB - 6 x 3, doubleyo7 - 3 x 4, donny34 - 5 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-5 ) .. there were 4, doubleyo7 - 6 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-6 ) .. there were 5, RoB_the_SloB - 5 x 3, doubleyo7 - 3 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-3 ) .. there were 2, RoB_the_SloB - 6 x 2, doubleyo7 - 3 x 3, donny34 - 3 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-3 ) .. there were 3, doubleyo7 - 4 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-4 ) .. there were 3, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, donny34 - 6 x 1, RoB_the_SloB - 5 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-5 ) .. there was 1, donny34 - 5 x 1, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there was 1, doubleyo7 - 1 x 1, donny34 - 4 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-4 ) .. there were 0, donny34 - 4 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-4 ) .. there was 1, donny34 - 6 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-6 ) .. there was 1",funnode-liars-dice-60899.txt,60899
+[Site www.FunNode.com],funnode-liars-dice-60900.txt,60900
+[P0 donny34],funnode-liars-dice-60900.txt,60900
+[P0-Elo 0.0],funnode-liars-dice-60900.txt,60900
+[P1 doubleyo7],funnode-liars-dice-60900.txt,60900
+[P1-Elo 0.0],funnode-liars-dice-60900.txt,60900
+[P2 RoB_the_SloB],funnode-liars-dice-60900.txt,60900
+[P2-Elo 0.0],funnode-liars-dice-60900.txt,60900
+[Timer Fischer],funnode-liars-dice-60900.txt,60900
+[Timers -1 + 0],funnode-liars-dice-60900.txt,60900
+[Re-roll false],funnode-liars-dice-60900.txt,60900
+[Spot On false],funnode-liars-dice-60900.txt,60900
+[Wild Ones false],funnode-liars-dice-60900.txt,60900
+[First to play next],funnode-liars-dice-60900.txt,60900
+[Loser loses 1],funnode-liars-dice-60900.txt,60900
+"[Result RoB_the_SloB wins in 14 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-60900.txt,60900
+"donny34 - 6 x 3, doubleyo7 - 4 x 4, RoB_the_SloB - 6 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-6 ) .. there was 1, doubleyo7 - 5 x 2, RoB_the_SloB - 1 x 3, donny34 - 5 x 3, doubleyo7 - 2 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-2 ) .. there were 3, donny34 - 1 x 2, doubleyo7 - 3 x 3, RoB_the_SloB - 3 x 4, donny34 - 3 x 5, liar, doubleyo7 accuses donny34 ( 5 x d-3 ) .. there were 5, RoB_the_SloB - 1 x 1, donny34 - 5 x 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 2, donny34 - 2 x 2, doubleyo7 - 3 x 2, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-6 ) .. there were 4, RoB_the_SloB - 1 x 1, donny34 - 2 x 2, doubleyo7 - 1 x 3, RoB_the_SloB - 5 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 3, doubleyo7 - 1 x 2, RoB_the_SloB - 1 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-1 ) .. there were 3, doubleyo7 - 1 x 2, RoB_the_SloB - 1 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-1 ) .. there were 2, doubleyo7 - 1 x 2, RoB_the_SloB - 4 x 2, donny34 - 1 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-1 ) .. there were 4, RoB_the_SloB - 5 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-5 ) .. there were 2, RoB_the_SloB - 4 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 2, RoB_the_SloB - 1 x 1, donny34 - 5 x 1, RoB_the_SloB - 1 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-1 ) .. there was 1, RoB_the_SloB - 2 x 1, donny34 - 4 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-4 ) .. there was 1, donny34 - 6 x 1, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2",funnode-liars-dice-60900.txt,60900
+[Site www.FunNode.com],funnode-liars-dice-60901.txt,60901
+[P0 RoB_the_SloB],funnode-liars-dice-60901.txt,60901
+[P0-Elo 0.0],funnode-liars-dice-60901.txt,60901
+[P1 doubleyo7],funnode-liars-dice-60901.txt,60901
+[P1-Elo 0.0],funnode-liars-dice-60901.txt,60901
+[P2 donny34],funnode-liars-dice-60901.txt,60901
+[P2-Elo 0.0],funnode-liars-dice-60901.txt,60901
+[Timer Fischer],funnode-liars-dice-60901.txt,60901
+[Timers -1 + 0],funnode-liars-dice-60901.txt,60901
+[Re-roll false],funnode-liars-dice-60901.txt,60901
+[Spot On false],funnode-liars-dice-60901.txt,60901
+[Wild Ones false],funnode-liars-dice-60901.txt,60901
+[First to play next],funnode-liars-dice-60901.txt,60901
+[Loser loses 1],funnode-liars-dice-60901.txt,60901
+"[Result doubleyo7 wins in 13 rounds. RoB_the_SloB, donny34 lose]",funnode-liars-dice-60901.txt,60901
+"RoB_the_SloB - 1 x 1, doubleyo7 - 6 x 2, donny34 - 4 x 3, RoB_the_SloB - 4 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 2, donny34 - 6 x 2, RoB_the_SloB - 6 x 3, doubleyo7 - 3 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-3 ) .. there were 4, RoB_the_SloB - 1 x 3, doubleyo7 - 2 x 3, donny34 - 4 x 3, RoB_the_SloB - 2 x 4, doubleyo7 - 2 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-2 ) .. there were 5, RoB_the_SloB - 6 x 2, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 3, RoB_the_SloB - 1 x 1, doubleyo7 - 4 x 3, donny34 - 4 x 4, RoB_the_SloB - 4 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-4 ) .. there were 4, donny34 - 3 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 3 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-3 ) .. there were 3, RoB_the_SloB - 1 x 1, doubleyo7 - 4 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-4 ) .. there were 4, RoB_the_SloB - 3 x 1, doubleyo7 - 2 x 3, donny34 - 2 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-2 ) .. there were 4, doubleyo7 - 4 x 2, donny34 - 5 x 2, RoB_the_SloB - 5 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 3, donny34 - 6 x 1, RoB_the_SloB - 1 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-1 ) .. there was 1, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 1 x 1, doubleyo7 - 3 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-3 ) .. there were 2, RoB_the_SloB - 5 x 1, doubleyo7 - 3 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-3 ) .. there were 2",funnode-liars-dice-60901.txt,60901
+[Site www.FunNode.com],funnode-liars-dice-60902.txt,60902
+[P0 donny34],funnode-liars-dice-60902.txt,60902
+[P0-Elo 0.0],funnode-liars-dice-60902.txt,60902
+[P1 doubleyo7],funnode-liars-dice-60902.txt,60902
+[P1-Elo 0.0],funnode-liars-dice-60902.txt,60902
+[P2 RoB_the_SloB],funnode-liars-dice-60902.txt,60902
+[P2-Elo 0.0],funnode-liars-dice-60902.txt,60902
+[Timer Fischer],funnode-liars-dice-60902.txt,60902
+[Timers -1 + 0],funnode-liars-dice-60902.txt,60902
+[Re-roll false],funnode-liars-dice-60902.txt,60902
+[Spot On false],funnode-liars-dice-60902.txt,60902
+[Wild Ones false],funnode-liars-dice-60902.txt,60902
+[First to play next],funnode-liars-dice-60902.txt,60902
+[Loser loses 1],funnode-liars-dice-60902.txt,60902
+"[Result RoB_the_SloB wins in 14 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-60902.txt,60902
+"donny34 - 5 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-5 ) .. there was 1, RoB_the_SloB - 3 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 4, doubleyo7 - 1 x 2, RoB_the_SloB - 6 x 2, donny34 - 1 x 3, doubleyo7 - 3 x 3, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 3, doubleyo7 - 2 x 3, RoB_the_SloB - 5 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 3, doubleyo7 - 6 x 3, RoB_the_SloB - 6 x 4, donny34 - 6 x 5, liar, doubleyo7 accuses donny34 ( 5 x d-6 ) .. there were 4, RoB_the_SloB - 6 x 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 4, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, doubleyo7 - 6 x 4, RoB_the_SloB - 6 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-6 ) .. there were 4, RoB_the_SloB - 2 x 1, doubleyo7 - 2 x 3, RoB_the_SloB - 2 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 3, RoB_the_SloB - 1 x 1, doubleyo7 - 2 x 2, RoB_the_SloB - 2 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 3, RoB_the_SloB - 1 x 1, doubleyo7 - 3 x 4, RoB_the_SloB - 3 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-3 ) .. there were 4, RoB_the_SloB - 2 x 1, doubleyo7 - 6 x 1, RoB_the_SloB - 4 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 2, RoB_the_SloB - 3 x 1, doubleyo7 - 3 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-3 ) .. there was 1, doubleyo7 - 6 x 1, RoB_the_SloB - 5 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-5 ) .. there were 2, RoB_the_SloB - 4 x 1, doubleyo7 - 4 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-4 ) .. there was 1",funnode-liars-dice-60902.txt,60902
+[Site www.FunNode.com],funnode-liars-dice-60904.txt,60904
+[P0 RoB_the_SloB],funnode-liars-dice-60904.txt,60904
+[P0-Elo 0.0],funnode-liars-dice-60904.txt,60904
+[P1 doubleyo7],funnode-liars-dice-60904.txt,60904
+[P1-Elo 0.0],funnode-liars-dice-60904.txt,60904
+[P2 donny34],funnode-liars-dice-60904.txt,60904
+[P2-Elo 0.0],funnode-liars-dice-60904.txt,60904
+[Timer Fischer],funnode-liars-dice-60904.txt,60904
+[Timers -1 + 0],funnode-liars-dice-60904.txt,60904
+[Re-roll false],funnode-liars-dice-60904.txt,60904
+[Spot On false],funnode-liars-dice-60904.txt,60904
+[Wild Ones false],funnode-liars-dice-60904.txt,60904
+[First to play next],funnode-liars-dice-60904.txt,60904
+[Loser loses 1],funnode-liars-dice-60904.txt,60904
+"[Result doubleyo7 wins in 12 rounds. RoB_the_SloB, donny34 lose]",funnode-liars-dice-60904.txt,60904
+"RoB_the_SloB - 1 x 1, doubleyo7 - 1 x 4, donny34 - 6 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-6 ) .. there were 5, doubleyo7 - 5 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-5 ) .. there were 6, RoB_the_SloB - 1 x 1, doubleyo7 - 1 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-1 ) .. there were 4, RoB_the_SloB - 6 x 2, doubleyo7 - 3 x 3, donny34 - 3 x 4, RoB_the_SloB - 6 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 2, donny34 - 6 x 2, RoB_the_SloB - 5 x 3, doubleyo7 - 5 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-5 ) .. there were 4, RoB_the_SloB - 1 x 1, doubleyo7 - 3 x 3, donny34 - 3 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-3 ) .. there were 5, doubleyo7 - 4 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-4 ) .. there were 3, RoB_the_SloB - 1 x 1, doubleyo7 - 3 x 2, donny34 - 4 x 2, RoB_the_SloB - 5 x 2, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 1 x 2, doubleyo7 - 6 x 2, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 4, doubleyo7 - 3 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-3 ) .. there were 2, RoB_the_SloB - 6 x 1, doubleyo7 - 3 x 2, donny34 - 3 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-3 ) .. there were 3, doubleyo7 - 1 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-1 ) .. there were 2",funnode-liars-dice-60904.txt,60904
+[Site www.FunNode.com],funnode-liars-dice-60906.txt,60906
+[P0 donny34],funnode-liars-dice-60906.txt,60906
+[P0-Elo 0.0],funnode-liars-dice-60906.txt,60906
+[P1 doubleyo7],funnode-liars-dice-60906.txt,60906
+[P1-Elo 0.0],funnode-liars-dice-60906.txt,60906
+[P2 RoB_the_SloB],funnode-liars-dice-60906.txt,60906
+[P2-Elo 0.0],funnode-liars-dice-60906.txt,60906
+[Timer Fischer],funnode-liars-dice-60906.txt,60906
+[Timers -1 + 0],funnode-liars-dice-60906.txt,60906
+[Re-roll false],funnode-liars-dice-60906.txt,60906
+[Spot On false],funnode-liars-dice-60906.txt,60906
+[Wild Ones false],funnode-liars-dice-60906.txt,60906
+[First to play next],funnode-liars-dice-60906.txt,60906
+[Loser loses 1],funnode-liars-dice-60906.txt,60906
+"[Result doubleyo7 wins in 12 rounds. donny34, RoB_the_SloB lose]",funnode-liars-dice-60906.txt,60906
+"donny34 - 2 x 3, doubleyo7 - 4 x 3, RoB_the_SloB - 5 x 3, donny34 - 3 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-3 ) .. there were 5, RoB_the_SloB - 1 x 2, donny34 - 6 x 2, doubleyo7 - 1 x 3, RoB_the_SloB - 6 x 3, donny34 - 2 x 4, doubleyo7 - 3 x 4, RoB_the_SloB - 3 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-3 ) .. there were 3, doubleyo7 - 4 x 3, RoB_the_SloB - 6 x 3, donny34 - 5 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-5 ) .. there were 3, RoB_the_SloB - 2 x 2, donny34 - 5 x 2, doubleyo7 - 5 x 3, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 4, doubleyo7 - 4 x 2, RoB_the_SloB - 3 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 4, doubleyo7 - 1 x 3, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there was 1, doubleyo7 - 3 x 3, RoB_the_SloB - 3 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 5, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 2, donny34 - 6 x 1, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, doubleyo7 - 3 x 2, RoB_the_SloB - 5 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-5 ) .. there was 1, RoB_the_SloB - 3 x 1, doubleyo7 - 6 x 1, RoB_the_SloB - 1 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-1 ) .. there was 1, RoB_the_SloB - 2 x 1, doubleyo7 - 4 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-4 ) .. there were 2",funnode-liars-dice-60906.txt,60906
+[Site www.FunNode.com],funnode-liars-dice-60907.txt,60907
+[P0 RoB_the_SloB],funnode-liars-dice-60907.txt,60907
+[P0-Elo 0.0],funnode-liars-dice-60907.txt,60907
+[P1 doubleyo7],funnode-liars-dice-60907.txt,60907
+[P1-Elo 0.0],funnode-liars-dice-60907.txt,60907
+[P2 donny34],funnode-liars-dice-60907.txt,60907
+[P2-Elo 0.0],funnode-liars-dice-60907.txt,60907
+[Timer Fischer],funnode-liars-dice-60907.txt,60907
+[Timers -1 + 0],funnode-liars-dice-60907.txt,60907
+[Re-roll false],funnode-liars-dice-60907.txt,60907
+[Spot On false],funnode-liars-dice-60907.txt,60907
+[Wild Ones false],funnode-liars-dice-60907.txt,60907
+[First to play next],funnode-liars-dice-60907.txt,60907
+[Loser loses 1],funnode-liars-dice-60907.txt,60907
+"[Result doubleyo7 wins in 13 rounds. RoB_the_SloB, donny34 lose]",funnode-liars-dice-60907.txt,60907
+"RoB_the_SloB - 3 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 3, donny34 - 3 x 4, RoB_the_SloB - 3 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-3 ) .. there were 3, donny34 - 6 x 2, RoB_the_SloB - 5 x 3, doubleyo7 - 5 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-5 ) .. there were 5, RoB_the_SloB - 6 x 2, doubleyo7 - 3 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-3 ) .. there were 5, RoB_the_SloB - 1 x 1, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 4, RoB_the_SloB - 1 x 1, doubleyo7 - 5 x 3, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 2, doubleyo7 - 3 x 3, donny34 - 3 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-3 ) .. there were 2, doubleyo7 - 2 x 2, RoB_the_SloB - 2 x 3, doubleyo7 - 2 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-2 ) .. there were 2, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 3 x 1, doubleyo7 - 3 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-3 ) .. there was 1, doubleyo7 - 4 x 2, RoB_the_SloB - 2 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 2, RoB_the_SloB - 4 x 1, doubleyo7 - 4 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-4 ) .. there was 1, doubleyo7 - 1 x 2, RoB_the_SloB - 1 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-1 ) .. there were 2",funnode-liars-dice-60907.txt,60907
+[Site www.FunNode.com],funnode-liars-dice-60909.txt,60909
+[P0 donny34],funnode-liars-dice-60909.txt,60909
+[P0-Elo 0.0],funnode-liars-dice-60909.txt,60909
+[P1 doubleyo7],funnode-liars-dice-60909.txt,60909
+[P1-Elo 0.0],funnode-liars-dice-60909.txt,60909
+[P2 RoB_the_SloB],funnode-liars-dice-60909.txt,60909
+[P2-Elo 0.0],funnode-liars-dice-60909.txt,60909
+[Timer Fischer],funnode-liars-dice-60909.txt,60909
+[Timers -1 + 0],funnode-liars-dice-60909.txt,60909
+[Re-roll false],funnode-liars-dice-60909.txt,60909
+[Spot On false],funnode-liars-dice-60909.txt,60909
+[Wild Ones false],funnode-liars-dice-60909.txt,60909
+[First to play next],funnode-liars-dice-60909.txt,60909
+[Loser loses 1],funnode-liars-dice-60909.txt,60909
+"[Result doubleyo7 wins in 13 rounds. donny34, RoB_the_SloB lose]",funnode-liars-dice-60909.txt,60909
+"donny34 - 4 x 3, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 2, donny34 - 1 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-1 ) .. there were 0, RoB_the_SloB - 6 x 2, donny34 - 2 x 3, doubleyo7 - 5 x 3, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, doubleyo7 - 1 x 3, RoB_the_SloB - 2 x 3, donny34 - 3 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-3 ) .. there were 2, RoB_the_SloB - 5 x 3, donny34 - 4 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-4 ) .. there were 2, RoB_the_SloB - 1 x 1, donny34 - 1 x 2, doubleyo7 - 2 x 3, RoB_the_SloB - 3 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-3 ) .. there were 3, doubleyo7 - 3 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 2 x 3, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, RoB_the_SloB - 6 x 2, doubleyo7 - 2 x 3, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 2 x 1, doubleyo7 - 1 x 2, RoB_the_SloB - 3 x 2, doubleyo7 - 4 x 2, RoB_the_SloB - 5 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-5 ) .. there were 0, RoB_the_SloB - 3 x 1, doubleyo7 - 3 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-3 ) .. there were 2, doubleyo7 - 1 x 2, RoB_the_SloB - 1 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-1 ) .. there were 4, RoB_the_SloB - 2 x 1, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 4 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-4 ) .. there were 0",funnode-liars-dice-60909.txt,60909
+[Site www.FunNode.com],funnode-liars-dice-60911.txt,60911
+[P0 RoB_the_SloB],funnode-liars-dice-60911.txt,60911
+[P0-Elo 0.0],funnode-liars-dice-60911.txt,60911
+[P1 doubleyo7],funnode-liars-dice-60911.txt,60911
+[P1-Elo 0.0],funnode-liars-dice-60911.txt,60911
+[P2 donny34],funnode-liars-dice-60911.txt,60911
+[P2-Elo 0.0],funnode-liars-dice-60911.txt,60911
+[Timer Fischer],funnode-liars-dice-60911.txt,60911
+[Timers -1 + 0],funnode-liars-dice-60911.txt,60911
+[Re-roll false],funnode-liars-dice-60911.txt,60911
+[Spot On false],funnode-liars-dice-60911.txt,60911
+[Wild Ones false],funnode-liars-dice-60911.txt,60911
+[First to play next],funnode-liars-dice-60911.txt,60911
+[Loser loses 1],funnode-liars-dice-60911.txt,60911
+"[Result donny34 wins in 10 rounds. RoB_the_SloB, doubleyo7 lose]",funnode-liars-dice-60911.txt,60911
+"RoB_the_SloB - 1 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-1 ) .. there were 5, donny34 - 2 x 3, RoB_the_SloB - 4 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 2, donny34 - 2 x 3, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, donny34 - 5 x 2, RoB_the_SloB - 5 x 3, doubleyo7 - 5 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-5 ) .. there were 3, RoB_the_SloB - 1 x 1, doubleyo7 - 6 x 1, donny34 - 6 x 2, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, donny34 - 1 x 2, RoB_the_SloB - 1 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-1 ) .. there were 3, donny34 - 2 x 2, RoB_the_SloB - 3 x 2, doubleyo7 - 2 x 3, donny34 - 4 x 3, RoB_the_SloB - 4 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 4, donny34 - 6 x 1, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 0, donny34 - 6 x 1, RoB_the_SloB - 4 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 3, donny34 - 5 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-5 ) .. there was 1",funnode-liars-dice-60911.txt,60911
+[Site www.FunNode.com],funnode-liars-dice-60912.txt,60912
+[P0 donny34],funnode-liars-dice-60912.txt,60912
+[P0-Elo 0.0],funnode-liars-dice-60912.txt,60912
+[P1 doubleyo7],funnode-liars-dice-60912.txt,60912
+[P1-Elo 0.0],funnode-liars-dice-60912.txt,60912
+[P2 RoB_the_SloB],funnode-liars-dice-60912.txt,60912
+[P2-Elo 0.0],funnode-liars-dice-60912.txt,60912
+[Timer Fischer],funnode-liars-dice-60912.txt,60912
+[Timers -1 + 0],funnode-liars-dice-60912.txt,60912
+[Re-roll false],funnode-liars-dice-60912.txt,60912
+[Spot On false],funnode-liars-dice-60912.txt,60912
+[Wild Ones false],funnode-liars-dice-60912.txt,60912
+[First to play next],funnode-liars-dice-60912.txt,60912
+[Loser loses 1],funnode-liars-dice-60912.txt,60912
+"[Result donny34 wins in 13 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-60912.txt,60912
+"donny34 - 3 x 2, doubleyo7 - 5 x 2, RoB_the_SloB - 5 x 3, donny34 - 5 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-5 ) .. there were 5, RoB_the_SloB - 1 x 1, donny34 - 6 x 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 2, donny34 - 1 x 3, doubleyo7 - 3 x 3, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 3, doubleyo7 - 3 x 2, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-6 ) .. there were 3, RoB_the_SloB - 1 x 1, donny34 - 6 x 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 4, donny34 - 1 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-1 ) .. there were 2, RoB_the_SloB - 1 x 1, donny34 - 1 x 2, doubleyo7 - 1 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-1 ) .. there were 2, donny34 - 4 x 1, RoB_the_SloB - 2 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 2, RoB_the_SloB - 2 x 1, donny34 - 2 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-2 ) .. there were 2, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, donny34 - 3 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-3 ) .. there were 2, donny34 - 4 x 1, RoB_the_SloB - 5 x 2, donny34 - 5 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-5 ) .. there were 3, donny34 - 6 x 1, RoB_the_SloB - 2 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-2 ) .. there were 2, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 0",funnode-liars-dice-60912.txt,60912
+[Site www.FunNode.com],funnode-liars-dice-60913.txt,60913
+[P0 RoB_the_SloB],funnode-liars-dice-60913.txt,60913
+[P0-Elo 0.0],funnode-liars-dice-60913.txt,60913
+[P1 doubleyo7],funnode-liars-dice-60913.txt,60913
+[P1-Elo 0.0],funnode-liars-dice-60913.txt,60913
+[P2 donny34],funnode-liars-dice-60913.txt,60913
+[P2-Elo 0.0],funnode-liars-dice-60913.txt,60913
+[Timer Fischer],funnode-liars-dice-60913.txt,60913
+[Timers -1 + 0],funnode-liars-dice-60913.txt,60913
+[Re-roll false],funnode-liars-dice-60913.txt,60913
+[Spot On false],funnode-liars-dice-60913.txt,60913
+[Wild Ones false],funnode-liars-dice-60913.txt,60913
+[First to play next],funnode-liars-dice-60913.txt,60913
+[Loser loses 1],funnode-liars-dice-60913.txt,60913
+"[Result doubleyo7 wins in 13 rounds. RoB_the_SloB, donny34 lose]",funnode-liars-dice-60913.txt,60913
+"RoB_the_SloB - 1 x 1, doubleyo7 - 6 x 2, donny34 - 6 x 3, RoB_the_SloB - 6 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 5, donny34 - 3 x 2, RoB_the_SloB - 1 x 3, doubleyo7 - 6 x 3, donny34 - 6 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-6 ) .. there were 5, doubleyo7 - 5 x 3, donny34 - 2 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-2 ) .. there were 3, doubleyo7 - 3 x 3, donny34 - 4 x 3, RoB_the_SloB - 2 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 3, donny34 - 3 x 2, RoB_the_SloB - 5 x 2, doubleyo7 - 3 x 3, donny34 - 5 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-5 ) .. there were 3, doubleyo7 - 3 x 2, donny34 - 5 x 2, RoB_the_SloB - 3 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-3 ) .. there were 2, donny34 - 4 x 1, RoB_the_SloB - 2 x 2, doubleyo7 - 5 x 2, donny34 - 4 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-4 ) .. there were 3, doubleyo7 - 3 x 2, donny34 - 2 x 3, doubleyo7 - 3 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-3 ) .. there were 3, doubleyo7 - 4 x 2, donny34 - 4 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-4 ) .. there were 2, donny34 - 5 x 1, doubleyo7 - 3 x 2, donny34 - 5 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-5 ) .. there were 3, donny34 - 6 x 1, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there were 2, doubleyo7 - 2 x 1, donny34 - 6 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-6 ) .. there was 1, donny34 - 5 x 1, doubleyo7 - 6 x 1, liar, donny34 accuses doubleyo7 ( 1 x d-6 ) .. there was 1",funnode-liars-dice-60913.txt,60913
+[Site www.FunNode.com],funnode-liars-dice-61439.txt,61439
+[P0 doubleyo7],funnode-liars-dice-61439.txt,61439
+[P0-Elo 0.0],funnode-liars-dice-61439.txt,61439
+[P1 RoB_the_SloB],funnode-liars-dice-61439.txt,61439
+[P1-Elo 0.0],funnode-liars-dice-61439.txt,61439
+[P2 donny34],funnode-liars-dice-61439.txt,61439
+[P2-Elo 0.0],funnode-liars-dice-61439.txt,61439
+[Timer Fischer],funnode-liars-dice-61439.txt,61439
+[Timers -1 + 0],funnode-liars-dice-61439.txt,61439
+[Re-roll false],funnode-liars-dice-61439.txt,61439
+[Spot On false],funnode-liars-dice-61439.txt,61439
+[Wild Ones false],funnode-liars-dice-61439.txt,61439
+[First to play loser],funnode-liars-dice-61439.txt,61439
+[Loser loses 1],funnode-liars-dice-61439.txt,61439
+"[Result donny34 wins in 13 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61439.txt,61439
+"doubleyo7 - 1 x 3, RoB_the_SloB - 6 x 3, donny34 - 1 x 4, doubleyo7 - 6 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-6 ) .. there were 4, RoB_the_SloB - 5 x 3, donny34 - 5 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-5 ) .. there were 0, donny34 - 6 x 3, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 2, doubleyo7 - 1 x 3, RoB_the_SloB - 3 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-3 ) .. there were 0, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, doubleyo7 - 5 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-5 ) .. there were 3, doubleyo7 - 3 x 2, RoB_the_SloB - 4 x 2, donny34 - 5 x 2, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there was 1, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 2, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-6 ) .. there were 3, RoB_the_SloB - 3 x 2, donny34 - 4 x 2, RoB_the_SloB - 5 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-5 ) .. there was 1, RoB_the_SloB - 2 x 1, donny34 - 6 x 1, RoB_the_SloB - 4 x 2, donny34 - 5 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-5 ) .. there was 1, donny34 - 4 x 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there was 1, donny34 - 6 x 1, RoB_the_SloB - 3 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-3 ) .. there was 1, RoB_the_SloB - 5 x 1, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1",funnode-liars-dice-61439.txt,61439
+[Site www.FunNode.com],funnode-liars-dice-61440.txt,61440
+[P0 donny34],funnode-liars-dice-61440.txt,61440
+[P0-Elo 0.0],funnode-liars-dice-61440.txt,61440
+[P1 RoB_the_SloB],funnode-liars-dice-61440.txt,61440
+[P1-Elo 0.0],funnode-liars-dice-61440.txt,61440
+[P2 doubleyo7],funnode-liars-dice-61440.txt,61440
+[P2-Elo 0.0],funnode-liars-dice-61440.txt,61440
+[Timer Fischer],funnode-liars-dice-61440.txt,61440
+[Timers -1 + 0],funnode-liars-dice-61440.txt,61440
+[Re-roll false],funnode-liars-dice-61440.txt,61440
+[Spot On false],funnode-liars-dice-61440.txt,61440
+[Wild Ones false],funnode-liars-dice-61440.txt,61440
+[First to play loser],funnode-liars-dice-61440.txt,61440
+[Loser loses 1],funnode-liars-dice-61440.txt,61440
+"[Result doubleyo7 wins in 13 rounds. donny34, RoB_the_SloB lose]",funnode-liars-dice-61440.txt,61440
+"donny34 - 4 x 2, RoB_the_SloB - 5 x 2, doubleyo7 - 3 x 3, donny34 - 4 x 3, RoB_the_SloB - 2 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 2, RoB_the_SloB - 3 x 3, doubleyo7 - 4 x 3, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 2, donny34 - 2 x 2, RoB_the_SloB - 4 x 3, doubleyo7 - 5 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-5 ) .. there were 3, donny34 - 1 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 6 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-6 ) .. there were 4, donny34 - 6 x 1, RoB_the_SloB - 4 x 2, doubleyo7 - 5 x 3, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there was 1, donny34 - 6 x 2, RoB_the_SloB - 4 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 2, RoB_the_SloB - 3 x 2, doubleyo7 - 5 x 3, donny34 - 5 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-5 ) .. there were 4, RoB_the_SloB - 6 x 1, doubleyo7 - 6 x 2, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 5 x 1, doubleyo7 - 3 x 4, RoB_the_SloB - 3 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-3 ) .. there were 5, doubleyo7 - 1 x 2, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 3, doubleyo7 - 5 x 2, RoB_the_SloB - 2 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 2, RoB_the_SloB - 5 x 1, doubleyo7 - 1 x 2, RoB_the_SloB - 1 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-1 ) .. there were 3, doubleyo7 - 4 x 2, RoB_the_SloB - 4 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-4 ) .. there was 1",funnode-liars-dice-61440.txt,61440
+[Site www.FunNode.com],funnode-liars-dice-61441.txt,61441
+[P0 doubleyo7],funnode-liars-dice-61441.txt,61441
+[P0-Elo 0.0],funnode-liars-dice-61441.txt,61441
+[P1 donny34],funnode-liars-dice-61441.txt,61441
+[P1-Elo 0.0],funnode-liars-dice-61441.txt,61441
+[P2 RoB_the_SloB],funnode-liars-dice-61441.txt,61441
+[P2-Elo 0.0],funnode-liars-dice-61441.txt,61441
+[Timer Fischer],funnode-liars-dice-61441.txt,61441
+[Timers -1 + 0],funnode-liars-dice-61441.txt,61441
+[Re-roll false],funnode-liars-dice-61441.txt,61441
+[Spot On false],funnode-liars-dice-61441.txt,61441
+[Wild Ones false],funnode-liars-dice-61441.txt,61441
+[First to play loser],funnode-liars-dice-61441.txt,61441
+[Loser loses 1],funnode-liars-dice-61441.txt,61441
+"[Result RoB_the_SloB wins in 11 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-61441.txt,61441
+"doubleyo7 - 5 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-5 ) .. there were 2, doubleyo7 - 4 x 2, donny34 - 4 x 3, RoB_the_SloB - 5 x 3, doubleyo7 - 5 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-5 ) .. there were 2, doubleyo7 - 4 x 3, donny34 - 4 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-4 ) .. there were 3, donny34 - 6 x 2, RoB_the_SloB - 4 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 2, RoB_the_SloB - 6 x 2, doubleyo7 - 2 x 3, donny34 - 3 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-3 ) .. there was 1, donny34 - 6 x 2, RoB_the_SloB - 3 x 3, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 4, donny34 - 6 x 1, RoB_the_SloB - 3 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-3 ) .. there were 4, doubleyo7 - 4 x 2, donny34 - 4 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-4 ) .. there were 2, donny34 - 6 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 4 x 1, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 4, doubleyo7 - 4 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-4 ) .. there were 0",funnode-liars-dice-61441.txt,61441
+[Site www.FunNode.com],funnode-liars-dice-61442.txt,61442
+[P0 donny34],funnode-liars-dice-61442.txt,61442
+[P0-Elo 0.0],funnode-liars-dice-61442.txt,61442
+[P1 RoB_the_SloB],funnode-liars-dice-61442.txt,61442
+[P1-Elo 0.0],funnode-liars-dice-61442.txt,61442
+[P2 doubleyo7],funnode-liars-dice-61442.txt,61442
+[P2-Elo 0.0],funnode-liars-dice-61442.txt,61442
+[Timer Fischer],funnode-liars-dice-61442.txt,61442
+[Timers -1 + 0],funnode-liars-dice-61442.txt,61442
+[Re-roll false],funnode-liars-dice-61442.txt,61442
+[Spot On false],funnode-liars-dice-61442.txt,61442
+[Wild Ones false],funnode-liars-dice-61442.txt,61442
+[First to play loser],funnode-liars-dice-61442.txt,61442
+[Loser loses 1],funnode-liars-dice-61442.txt,61442
+"[Result doubleyo7 wins in 14 rounds. donny34, RoB_the_SloB lose]",funnode-liars-dice-61442.txt,61442
+"donny34 - 6 x 2, RoB_the_SloB - 2 x 3, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 3, donny34 - 5 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 1 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-1 ) .. there were 5, donny34 - 6 x 2, RoB_the_SloB - 3 x 3, doubleyo7 - 5 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-5 ) .. there were 5, donny34 - 6 x 2, RoB_the_SloB - 2 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 2, RoB_the_SloB - 4 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 3, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there was 1, doubleyo7 - 5 x 2, donny34 - 6 x 2, RoB_the_SloB - 5 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 2, RoB_the_SloB - 4 x 2, doubleyo7 - 6 x 2, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 2, donny34 - 6 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 4 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 0, RoB_the_SloB - 4 x 1, doubleyo7 - 4 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-4 ) .. there was 1, doubleyo7 - 5 x 1, RoB_the_SloB - 6 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-6 ) .. there was 1, doubleyo7 - 6 x 1, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 4 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-4 ) .. there were 0",funnode-liars-dice-61442.txt,61442
+[Site www.FunNode.com],funnode-liars-dice-61443.txt,61443
+[P0 doubleyo7],funnode-liars-dice-61443.txt,61443
+[P0-Elo 0.0],funnode-liars-dice-61443.txt,61443
+[P1 RoB_the_SloB],funnode-liars-dice-61443.txt,61443
+[P1-Elo 0.0],funnode-liars-dice-61443.txt,61443
+[P2 donny34],funnode-liars-dice-61443.txt,61443
+[P2-Elo 0.0],funnode-liars-dice-61443.txt,61443
+[Timer Fischer],funnode-liars-dice-61443.txt,61443
+[Timers -1 + 0],funnode-liars-dice-61443.txt,61443
+[Re-roll false],funnode-liars-dice-61443.txt,61443
+[Spot On false],funnode-liars-dice-61443.txt,61443
+[Wild Ones false],funnode-liars-dice-61443.txt,61443
+[First to play loser],funnode-liars-dice-61443.txt,61443
+[Loser loses 1],funnode-liars-dice-61443.txt,61443
+"[Result donny34 wins in 12 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61443.txt,61443
+"doubleyo7 - 4 x 3, RoB_the_SloB - 5 x 3, donny34 - 6 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-6 ) .. there was 1, donny34 - 1 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-1 ) .. there were 2, donny34 - 6 x 3, doubleyo7 - 6 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-6 ) .. there were 4, RoB_the_SloB - 4 x 2, donny34 - 2 x 3, doubleyo7 - 5 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-5 ) .. there were 3, doubleyo7 - 5 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-5 ) .. there were 3, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, doubleyo7 - 1 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-1 ) .. there were 2, doubleyo7 - 1 x 3, RoB_the_SloB - 5 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 2, RoB_the_SloB - 6 x 1, donny34 - 5 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-5 ) .. there were 2, doubleyo7 - 2 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-2 ) .. there were 2, doubleyo7 - 1 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-1 ) .. there were 2, RoB_the_SloB - 5 x 1, donny34 - 5 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-5 ) .. there were 2, RoB_the_SloB - 2 x 1, donny34 - 4 x 1, RoB_the_SloB - 6 x 1, donny34 - 6 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-6 ) .. there were 2",funnode-liars-dice-61443.txt,61443
+[Site www.FunNode.com],funnode-liars-dice-61445.txt,61445
+[P0 donny34],funnode-liars-dice-61445.txt,61445
+[P0-Elo 0.0],funnode-liars-dice-61445.txt,61445
+[P1 RoB_the_SloB],funnode-liars-dice-61445.txt,61445
+[P1-Elo 0.0],funnode-liars-dice-61445.txt,61445
+[P2 doubleyo7],funnode-liars-dice-61445.txt,61445
+[P2-Elo 0.0],funnode-liars-dice-61445.txt,61445
+[Timer Fischer],funnode-liars-dice-61445.txt,61445
+[Timers -1 + 0],funnode-liars-dice-61445.txt,61445
+[Re-roll false],funnode-liars-dice-61445.txt,61445
+[Spot On false],funnode-liars-dice-61445.txt,61445
+[Wild Ones false],funnode-liars-dice-61445.txt,61445
+[First to play loser],funnode-liars-dice-61445.txt,61445
+[Loser loses 1],funnode-liars-dice-61445.txt,61445
+"[Result donny34 wins in 14 rounds. RoB_the_SloB, doubleyo7 lose]",funnode-liars-dice-61445.txt,61445
+"donny34 - 2 x 3, RoB_the_SloB - 4 x 3, doubleyo7 - 4 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-4 ) .. there were 2, doubleyo7 - 3 x 3, donny34 - 5 x 3, RoB_the_SloB - 6 x 3, doubleyo7 - 3 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-3 ) .. there were 4, donny34 - 6 x 2, RoB_the_SloB - 2 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 2, RoB_the_SloB - 4 x 2, doubleyo7 - 3 x 3, donny34 - 6 x 3, RoB_the_SloB - 3 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 2, RoB_the_SloB - 5 x 2, doubleyo7 - 2 x 3, donny34 - 2 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-2 ) .. there were 5, RoB_the_SloB - 6 x 1, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there were 2, donny34 - 6 x 1, RoB_the_SloB - 1 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-1 ) .. there were 0, RoB_the_SloB - 6 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 0, doubleyo7 - 2 x 2, donny34 - 2 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-2 ) .. there were 3, doubleyo7 - 3 x 2, donny34 - 6 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-6 ) .. there was 1, donny34 - 4 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-4 ) .. there were 0, donny34 - 5 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-5 ) .. there was 1, doubleyo7 - 6 x 1, liar, donny34 accuses doubleyo7 ( 1 x d-6 ) .. there were 0, doubleyo7 - 2 x 1, donny34 - 3 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-3 ) .. there was 1",funnode-liars-dice-61445.txt,61445
+[Site www.FunNode.com],funnode-liars-dice-61446.txt,61446
+[P0 donny34],funnode-liars-dice-61446.txt,61446
+[P0-Elo 0.0],funnode-liars-dice-61446.txt,61446
+[P1 doubleyo7],funnode-liars-dice-61446.txt,61446
+[P1-Elo 0.0],funnode-liars-dice-61446.txt,61446
+[P2 RoB_the_SloB],funnode-liars-dice-61446.txt,61446
+[P2-Elo 0.0],funnode-liars-dice-61446.txt,61446
+[Timer Fischer],funnode-liars-dice-61446.txt,61446
+[Timers -1 + 0],funnode-liars-dice-61446.txt,61446
+[Re-roll false],funnode-liars-dice-61446.txt,61446
+[Spot On false],funnode-liars-dice-61446.txt,61446
+[Wild Ones false],funnode-liars-dice-61446.txt,61446
+[First to play loser],funnode-liars-dice-61446.txt,61446
+[Loser loses 1],funnode-liars-dice-61446.txt,61446
+"[Result donny34 wins in 14 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61446.txt,61446
+"donny34 - 5 x 2, doubleyo7 - 1 x 3, RoB_the_SloB - 4 x 3, donny34 - 5 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-5 ) .. there were 2, donny34 - 6 x 2, doubleyo7 - 3 x 3, RoB_the_SloB - 6 x 3, donny34 - 3 x 4, doubleyo7 - 3 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-3 ) .. there were 2, doubleyo7 - 5 x 3, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 3, RoB_the_SloB - 4 x 2, donny34 - 5 x 2, doubleyo7 - 5 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-5 ) .. there were 3, RoB_the_SloB - 4 x 3, donny34 - 4 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-4 ) .. there were 4, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 3, RoB_the_SloB - 3 x 2, donny34 - 3 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-3 ) .. there were 3, doubleyo7 - 4 x 2, RoB_the_SloB - 5 x 2, donny34 - 6 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-6 ) .. there were 2, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, donny34 - 5 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-5 ) .. there was 1, donny34 - 4 x 1, doubleyo7 - 3 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-3 ) .. there was 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 0, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 2, donny34 - 4 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-4 ) .. there were 0, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1",funnode-liars-dice-61446.txt,61446
+[Site www.FunNode.com],funnode-liars-dice-61447.txt,61447
+[P0 donny34],funnode-liars-dice-61447.txt,61447
+[P0-Elo 0.0],funnode-liars-dice-61447.txt,61447
+[P1 doubleyo7],funnode-liars-dice-61447.txt,61447
+[P1-Elo 0.0],funnode-liars-dice-61447.txt,61447
+[P2 RoB_the_SloB],funnode-liars-dice-61447.txt,61447
+[P2-Elo 0.0],funnode-liars-dice-61447.txt,61447
+[Timer Fischer],funnode-liars-dice-61447.txt,61447
+[Timers -1 + 0],funnode-liars-dice-61447.txt,61447
+[Re-roll false],funnode-liars-dice-61447.txt,61447
+[Spot On false],funnode-liars-dice-61447.txt,61447
+[Wild Ones false],funnode-liars-dice-61447.txt,61447
+[First to play loser],funnode-liars-dice-61447.txt,61447
+[Loser loses 1],funnode-liars-dice-61447.txt,61447
+"[Result RoB_the_SloB wins in 13 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-61447.txt,61447
+"donny34 - 2 x 3, doubleyo7 - 4 x 3, RoB_the_SloB - 5 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 3, donny34 - 6 x 2, doubleyo7 - 6 x 3, RoB_the_SloB - 6 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-6 ) .. there were 4, RoB_the_SloB - 6 x 3, donny34 - 6 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-6 ) .. there were 4, doubleyo7 - 6 x 3, RoB_the_SloB - 1 x 4, donny34 - 6 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-6 ) .. there were 5, doubleyo7 - 6 x 2, RoB_the_SloB - 2 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 3, donny34 - 1 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-1 ) .. there were 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 3, RoB_the_SloB - 4 x 2, donny34 - 1 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-1 ) .. there were 3, doubleyo7 - 4 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, donny34 - 5 x 1, doubleyo7 - 5 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-5 ) .. there was 1, RoB_the_SloB - 5 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-5 ) .. there were 0, RoB_the_SloB - 4 x 1, donny34 - 4 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-4 ) .. there was 1, donny34 - 3 x 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there was 1",funnode-liars-dice-61447.txt,61447
+[Site www.FunNode.com],funnode-liars-dice-61448.txt,61448
+[P0 donny34],funnode-liars-dice-61448.txt,61448
+[P0-Elo 0.0],funnode-liars-dice-61448.txt,61448
+[P1 RoB_the_SloB],funnode-liars-dice-61448.txt,61448
+[P1-Elo 0.0],funnode-liars-dice-61448.txt,61448
+[P2 doubleyo7],funnode-liars-dice-61448.txt,61448
+[P2-Elo 0.0],funnode-liars-dice-61448.txt,61448
+[Timer Fischer],funnode-liars-dice-61448.txt,61448
+[Timers -1 + 0],funnode-liars-dice-61448.txt,61448
+[Re-roll false],funnode-liars-dice-61448.txt,61448
+[Spot On false],funnode-liars-dice-61448.txt,61448
+[Wild Ones false],funnode-liars-dice-61448.txt,61448
+[First to play loser],funnode-liars-dice-61448.txt,61448
+[Loser loses 1],funnode-liars-dice-61448.txt,61448
+"[Result RoB_the_SloB wins in 14 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-61448.txt,61448
+"donny34 - 6 x 2, RoB_the_SloB - 1 x 3, doubleyo7 - 3 x 3, donny34 - 5 x 3, RoB_the_SloB - 5 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 4, doubleyo7 - 2 x 3, donny34 - 3 x 3, RoB_the_SloB - 2 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 5, doubleyo7 - 6 x 2, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 2, donny34 - 6 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-6 ) .. there were 2, RoB_the_SloB - 6 x 1, doubleyo7 - 5 x 2, donny34 - 1 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-1 ) .. there were 2, donny34 - 6 x 2, RoB_the_SloB - 2 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 2, RoB_the_SloB - 5 x 1, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there were 2, donny34 - 6 x 1, RoB_the_SloB - 2 x 2, doubleyo7 - 2 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-2 ) .. there were 4, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1, RoB_the_SloB - 6 x 1, doubleyo7 - 2 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-2 ) .. there were 3, RoB_the_SloB - 4 x 1, doubleyo7 - 4 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-4 ) .. there were 3, RoB_the_SloB - 3 x 1, doubleyo7 - 5 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-5 ) .. there were 0, doubleyo7 - 5 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-5 ) .. there was 1, doubleyo7 - 5 x 1, liar, RoB_the_SloB accuses doubleyo7 ( 1 x d-5 ) .. there were 0",funnode-liars-dice-61448.txt,61448
+[Site www.FunNode.com],funnode-liars-dice-61450.txt,61450
+[P0 donny34],funnode-liars-dice-61450.txt,61450
+[P0-Elo 0.0],funnode-liars-dice-61450.txt,61450
+[P1 RoB_the_SloB],funnode-liars-dice-61450.txt,61450
+[P1-Elo 0.0],funnode-liars-dice-61450.txt,61450
+[P2 doubleyo7],funnode-liars-dice-61450.txt,61450
+[P2-Elo 0.0],funnode-liars-dice-61450.txt,61450
+[Timer Fischer],funnode-liars-dice-61450.txt,61450
+[Timers -1 + 0],funnode-liars-dice-61450.txt,61450
+[Re-roll false],funnode-liars-dice-61450.txt,61450
+[Spot On false],funnode-liars-dice-61450.txt,61450
+[Wild Ones false],funnode-liars-dice-61450.txt,61450
+[First to play loser],funnode-liars-dice-61450.txt,61450
+[Loser loses 1],funnode-liars-dice-61450.txt,61450
+"[Result RoB_the_SloB wins in 11 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-61450.txt,61450
+"donny34 - 6 x 2, RoB_the_SloB - 5 x 3, doubleyo7 - 5 x 4, donny34 - 5 x 5, liar, RoB_the_SloB accuses donny34 ( 5 x d-5 ) .. there were 4, donny34 - 4 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 6 x 3, donny34 - 6 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-6 ) .. there were 3, donny34 - 6 x 2, RoB_the_SloB - 1 x 3, doubleyo7 - 3 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-3 ) .. there were 3, doubleyo7 - 6 x 2, donny34 - 4 x 3, RoB_the_SloB - 1 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-1 ) .. there were 4, doubleyo7 - 5 x 2, donny34 - 6 x 2, RoB_the_SloB - 5 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 4, doubleyo7 - 6 x 2, donny34 - 4 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-4 ) .. there were 3, RoB_the_SloB - 6 x 1, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there was 1, doubleyo7 - 5 x 2, donny34 - 5 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-5 ) .. there were 2, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there were 0, donny34 - 4 x 1, RoB_the_SloB - 6 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-6 ) .. there was 1, donny34 - 6 x 1, RoB_the_SloB - 3 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-3 ) .. there were 2",funnode-liars-dice-61450.txt,61450
+[Site www.FunNode.com],funnode-liars-dice-61452.txt,61452
+[P0 donny34],funnode-liars-dice-61452.txt,61452
+[P0-Elo 0.0],funnode-liars-dice-61452.txt,61452
+[P1 doubleyo7],funnode-liars-dice-61452.txt,61452
+[P1-Elo 0.0],funnode-liars-dice-61452.txt,61452
+[P2 RoB_the_SloB],funnode-liars-dice-61452.txt,61452
+[P2-Elo 0.0],funnode-liars-dice-61452.txt,61452
+[Timer Fischer],funnode-liars-dice-61452.txt,61452
+[Timers -1 + 0],funnode-liars-dice-61452.txt,61452
+[Re-roll false],funnode-liars-dice-61452.txt,61452
+[Spot On false],funnode-liars-dice-61452.txt,61452
+[Wild Ones false],funnode-liars-dice-61452.txt,61452
+[First to play loser],funnode-liars-dice-61452.txt,61452
+[Loser loses 1],funnode-liars-dice-61452.txt,61452
+"[Result RoB_the_SloB wins in 10 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-61452.txt,61452
+"donny34 - 6 x 2, doubleyo7 - 4 x 3, RoB_the_SloB - 5 x 3, donny34 - 5 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-5 ) .. there were 5, doubleyo7 - 5 x 3, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 4, donny34 - 5 x 2, doubleyo7 - 4 x 3, RoB_the_SloB - 6 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 5, donny34 - 6 x 2, doubleyo7 - 4 x 3, RoB_the_SloB - 4 x 4, donny34 - 4 x 5, liar, doubleyo7 accuses donny34 ( 5 x d-4 ) .. there were 5, doubleyo7 - 6 x 2, RoB_the_SloB - 3 x 3, donny34 - 5 x 3, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 3, doubleyo7 - 6 x 2, RoB_the_SloB - 5 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 5, donny34 - 6 x 1, doubleyo7 - 6 x 2, RoB_the_SloB - 2 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 3, donny34 - 5 x 1, doubleyo7 - 6 x 2, RoB_the_SloB - 2 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 3, doubleyo7 - 5 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-5 ) .. there were 0, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2",funnode-liars-dice-61452.txt,61452
+[Site www.FunNode.com],funnode-liars-dice-61454.txt,61454
+[P0 donny34],funnode-liars-dice-61454.txt,61454
+[P0-Elo 0.0],funnode-liars-dice-61454.txt,61454
+[P1 RoB_the_SloB],funnode-liars-dice-61454.txt,61454
+[P1-Elo 0.0],funnode-liars-dice-61454.txt,61454
+[P2 doubleyo7],funnode-liars-dice-61454.txt,61454
+[P2-Elo 0.0],funnode-liars-dice-61454.txt,61454
+[Timer Fischer],funnode-liars-dice-61454.txt,61454
+[Timers -1 + 0],funnode-liars-dice-61454.txt,61454
+[Re-roll false],funnode-liars-dice-61454.txt,61454
+[Spot On false],funnode-liars-dice-61454.txt,61454
+[Wild Ones false],funnode-liars-dice-61454.txt,61454
+[First to play loser],funnode-liars-dice-61454.txt,61454
+[Loser loses 1],funnode-liars-dice-61454.txt,61454
+"[Result RoB_the_SloB wins in 14 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-61454.txt,61454
+"donny34 - 5 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 6 x 3, donny34 - 6 x 4, RoB_the_SloB - 1 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-1 ) .. there were 4, RoB_the_SloB - 4 x 2, doubleyo7 - 4 x 3, donny34 - 4 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-4 ) .. there were 4, RoB_the_SloB - 3 x 2, doubleyo7 - 2 x 3, donny34 - 5 x 3, RoB_the_SloB - 2 x 4, doubleyo7 - 4 x 4, donny34 - 5 x 4, RoB_the_SloB - 5 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-5 ) .. there were 4, RoB_the_SloB - 4 x 2, doubleyo7 - 1 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-1 ) .. there were 6, donny34 - 5 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 4 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-4 ) .. there were 2, doubleyo7 - 4 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-4 ) .. there were 4, donny34 - 6 x 1, RoB_the_SloB - 1 x 2, doubleyo7 - 1 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-1 ) .. there were 3, donny34 - 3 x 1, RoB_the_SloB - 5 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-5 ) .. there was 1, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 3, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-6 ) .. there was 1, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there was 1, doubleyo7 - 3 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-3 ) .. there were 0, donny34 - 5 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-5 ) .. there was 1, RoB_the_SloB - 5 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-5 ) .. there was 1",funnode-liars-dice-61454.txt,61454
+[Site www.FunNode.com],funnode-liars-dice-61456.txt,61456
+[P0 RoB_the_SloB],funnode-liars-dice-61456.txt,61456
+[P0-Elo 0.0],funnode-liars-dice-61456.txt,61456
+[P1 donny34],funnode-liars-dice-61456.txt,61456
+[P1-Elo 0.0],funnode-liars-dice-61456.txt,61456
+[P2 doubleyo7],funnode-liars-dice-61456.txt,61456
+[P2-Elo 0.0],funnode-liars-dice-61456.txt,61456
+[Timer Fischer],funnode-liars-dice-61456.txt,61456
+[Timers -1 + 0],funnode-liars-dice-61456.txt,61456
+[Re-roll false],funnode-liars-dice-61456.txt,61456
+[Spot On false],funnode-liars-dice-61456.txt,61456
+[Wild Ones false],funnode-liars-dice-61456.txt,61456
+[First to play loser],funnode-liars-dice-61456.txt,61456
+[Loser loses 1],funnode-liars-dice-61456.txt,61456
+"[Result donny34 wins in 13 rounds. RoB_the_SloB, doubleyo7 lose]",funnode-liars-dice-61456.txt,61456
+"RoB_the_SloB - 2 x 4, donny34 - 4 x 4, doubleyo7 - 6 x 4, RoB_the_SloB - 2 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-2 ) .. there were 6, donny34 - 6 x 2, doubleyo7 - 6 x 3, RoB_the_SloB - 6 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 4, donny34 - 4 x 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 5 x 3, RoB_the_SloB - 4 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 3, RoB_the_SloB - 3 x 2, donny34 - 6 x 2, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 2, doubleyo7 - 6 x 2, RoB_the_SloB - 1 x 3, donny34 - 4 x 3, doubleyo7 - 5 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-5 ) .. there were 2, doubleyo7 - 6 x 2, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 2, RoB_the_SloB - 4 x 1, donny34 - 5 x 1, doubleyo7 - 3 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-3 ) .. there was 1, doubleyo7 - 1 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, donny34 - 6 x 1, doubleyo7 - 2 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-2 ) .. there was 1, RoB_the_SloB - 5 x 1, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1, RoB_the_SloB - 4 x 1, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1, RoB_the_SloB - 3 x 1, donny34 - 4 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-4 ) .. there was 1",funnode-liars-dice-61456.txt,61456
+[Site www.FunNode.com],funnode-liars-dice-61457.txt,61457
+[P0 donny34],funnode-liars-dice-61457.txt,61457
+[P0-Elo 0.0],funnode-liars-dice-61457.txt,61457
+[P1 RoB_the_SloB],funnode-liars-dice-61457.txt,61457
+[P1-Elo 0.0],funnode-liars-dice-61457.txt,61457
+[P2 doubleyo7],funnode-liars-dice-61457.txt,61457
+[P2-Elo 0.0],funnode-liars-dice-61457.txt,61457
+[Timer Fischer],funnode-liars-dice-61457.txt,61457
+[Timers -1 + 0],funnode-liars-dice-61457.txt,61457
+[Re-roll false],funnode-liars-dice-61457.txt,61457
+[Spot On false],funnode-liars-dice-61457.txt,61457
+[Wild Ones false],funnode-liars-dice-61457.txt,61457
+[First to play loser],funnode-liars-dice-61457.txt,61457
+[Loser loses 1],funnode-liars-dice-61457.txt,61457
+"[Result donny34 wins in 13 rounds. RoB_the_SloB, doubleyo7 lose]",funnode-liars-dice-61457.txt,61457
+"donny34 - 6 x 3, RoB_the_SloB - 1 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-1 ) .. there were 5, doubleyo7 - 6 x 2, donny34 - 3 x 3, RoB_the_SloB - 4 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 0, RoB_the_SloB - 3 x 2, doubleyo7 - 3 x 3, donny34 - 6 x 3, RoB_the_SloB - 2 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 5, doubleyo7 - 5 x 2, donny34 - 5 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-5 ) .. there were 3, RoB_the_SloB - 3 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-3 ) .. there was 1, RoB_the_SloB - 3 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-3 ) .. there were 0, RoB_the_SloB - 5 x 1, doubleyo7 - 6 x 1, donny34 - 6 x 2, RoB_the_SloB - 2 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 2, doubleyo7 - 5 x 2, donny34 - 5 x 3, doubleyo7 - 5 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-5 ) .. there were 4, donny34 - 6 x 1, doubleyo7 - 2 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-2 ) .. there were 3, donny34 - 4 x 1, doubleyo7 - 4 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-4 ) .. there were 3, donny34 - 6 x 1, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there was 1, doubleyo7 - 6 x 1, donny34 - 6 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-6 ) .. there were 2, doubleyo7 - 5 x 1, donny34 - 6 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-6 ) .. there was 1",funnode-liars-dice-61457.txt,61457
+[Site www.FunNode.com],funnode-liars-dice-61458.txt,61458
+[P0 doubleyo7],funnode-liars-dice-61458.txt,61458
+[P0-Elo 0.0],funnode-liars-dice-61458.txt,61458
+[P1 RoB_the_SloB],funnode-liars-dice-61458.txt,61458
+[P1-Elo 0.0],funnode-liars-dice-61458.txt,61458
+[P2 donny34],funnode-liars-dice-61458.txt,61458
+[P2-Elo 0.0],funnode-liars-dice-61458.txt,61458
+[Timer Fischer],funnode-liars-dice-61458.txt,61458
+[Timers -1 + 0],funnode-liars-dice-61458.txt,61458
+[Re-roll false],funnode-liars-dice-61458.txt,61458
+[Spot On false],funnode-liars-dice-61458.txt,61458
+[Wild Ones false],funnode-liars-dice-61458.txt,61458
+[First to play loser],funnode-liars-dice-61458.txt,61458
+[Loser loses 1],funnode-liars-dice-61458.txt,61458
+"[Result RoB_the_SloB wins in 10 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-61458.txt,61458
+"doubleyo7 - 5 x 3, RoB_the_SloB - 2 x 4, donny34 - 5 x 4, doubleyo7 - 1 x 5, RoB_the_SloB - 2 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-2 ) .. there were 5, donny34 - 6 x 2, doubleyo7 - 4 x 4, RoB_the_SloB - 4 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-4 ) .. there were 5, donny34 - 4 x 2, doubleyo7 - 5 x 4, RoB_the_SloB - 3 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-3 ) .. there were 5, donny34 - 1 x 3, doubleyo7 - 4 x 3, RoB_the_SloB - 1 x 4, donny34 - 4 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-4 ) .. there was 1, donny34 - 6 x 2, doubleyo7 - 5 x 3, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, doubleyo7 - 5 x 2, RoB_the_SloB - 1 x 3, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 3 x 2, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, doubleyo7 - 5 x 2, RoB_the_SloB - 4 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 3, doubleyo7 - 6 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-6 ) .. there was 1",funnode-liars-dice-61458.txt,61458
+[Site www.FunNode.com],funnode-liars-dice-61459.txt,61459
+[P0 doubleyo7],funnode-liars-dice-61459.txt,61459
+[P0-Elo 0.0],funnode-liars-dice-61459.txt,61459
+[P1 RoB_the_SloB],funnode-liars-dice-61459.txt,61459
+[P1-Elo 0.0],funnode-liars-dice-61459.txt,61459
+[P2 donny34],funnode-liars-dice-61459.txt,61459
+[P2-Elo 0.0],funnode-liars-dice-61459.txt,61459
+[Timer Fischer],funnode-liars-dice-61459.txt,61459
+[Timers -1 + 0],funnode-liars-dice-61459.txt,61459
+[Re-roll false],funnode-liars-dice-61459.txt,61459
+[Spot On false],funnode-liars-dice-61459.txt,61459
+[Wild Ones false],funnode-liars-dice-61459.txt,61459
+[First to play loser],funnode-liars-dice-61459.txt,61459
+[Loser loses 1],funnode-liars-dice-61459.txt,61459
+"[Result RoB_the_SloB wins in 11 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-61459.txt,61459
+"doubleyo7 - 6 x 3, RoB_the_SloB - 4 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 5, donny34 - 6 x 2, doubleyo7 - 5 x 3, RoB_the_SloB - 6 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 4, donny34 - 4 x 2, doubleyo7 - 4 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-4 ) .. there were 3, doubleyo7 - 5 x 2, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 4, donny34 - 6 x 2, doubleyo7 - 4 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-4 ) .. there were 2, doubleyo7 - 6 x 2, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 2, RoB_the_SloB - 1 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-1 ) .. there were 3, donny34 - 6 x 1, doubleyo7 - 6 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-6 ) .. there was 1, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-6 ) .. there were 4, doubleyo7 - 5 x 2, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 3, doubleyo7 - 6 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-6 ) .. there was 1",funnode-liars-dice-61459.txt,61459
+[Site www.FunNode.com],funnode-liars-dice-61460.txt,61460
+[P0 RoB_the_SloB],funnode-liars-dice-61460.txt,61460
+[P0-Elo 0.0],funnode-liars-dice-61460.txt,61460
+[P1 donny34],funnode-liars-dice-61460.txt,61460
+[P1-Elo 0.0],funnode-liars-dice-61460.txt,61460
+[P2 doubleyo7],funnode-liars-dice-61460.txt,61460
+[P2-Elo 0.0],funnode-liars-dice-61460.txt,61460
+[Timer Fischer],funnode-liars-dice-61460.txt,61460
+[Timers -1 + 0],funnode-liars-dice-61460.txt,61460
+[Re-roll false],funnode-liars-dice-61460.txt,61460
+[Spot On false],funnode-liars-dice-61460.txt,61460
+[Wild Ones false],funnode-liars-dice-61460.txt,61460
+[First to play loser],funnode-liars-dice-61460.txt,61460
+[Loser loses 1],funnode-liars-dice-61460.txt,61460
+"[Result doubleyo7 wins in 14 rounds. RoB_the_SloB, donny34 lose]",funnode-liars-dice-61460.txt,61460
+"RoB_the_SloB - 3 x 2, donny34 - 3 x 3, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 2, doubleyo7 - 2 x 3, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 2 x 2, donny34 - 5 x 2, doubleyo7 - 5 x 3, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there was 1, RoB_the_SloB - 6 x 3, donny34 - 2 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-2 ) .. there were 3, donny34 - 6 x 2, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 2, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, donny34 - 5 x 3, doubleyo7 - 5 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-5 ) .. there was 1, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-6 ) .. there were 2, donny34 - 4 x 1, doubleyo7 - 4 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-4 ) .. there was 1, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, donny34 - 6 x 1, doubleyo7 - 5 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-5 ) .. there were 3, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 2, donny34 - 6 x 1, doubleyo7 - 5 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-5 ) .. there were 2, RoB_the_SloB - 5 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-5 ) .. there were 2, doubleyo7 - 3 x 1, liar, RoB_the_SloB accuses doubleyo7 ( 1 x d-3 ) .. there was 1",funnode-liars-dice-61460.txt,61460
+[Site www.FunNode.com],funnode-liars-dice-61461.txt,61461
+[P0 RoB_the_SloB],funnode-liars-dice-61461.txt,61461
+[P0-Elo 0.0],funnode-liars-dice-61461.txt,61461
+[P1 donny34],funnode-liars-dice-61461.txt,61461
+[P1-Elo 0.0],funnode-liars-dice-61461.txt,61461
+[P2 doubleyo7],funnode-liars-dice-61461.txt,61461
+[P2-Elo 0.0],funnode-liars-dice-61461.txt,61461
+[Timer Fischer],funnode-liars-dice-61461.txt,61461
+[Timers -1 + 0],funnode-liars-dice-61461.txt,61461
+[Re-roll false],funnode-liars-dice-61461.txt,61461
+[Spot On false],funnode-liars-dice-61461.txt,61461
+[Wild Ones false],funnode-liars-dice-61461.txt,61461
+[First to play loser],funnode-liars-dice-61461.txt,61461
+[Loser loses 1],funnode-liars-dice-61461.txt,61461
+"[Result donny34 wins in 12 rounds. RoB_the_SloB, doubleyo7 lose]",funnode-liars-dice-61461.txt,61461
+"RoB_the_SloB - 5 x 2, donny34 - 6 x 2, doubleyo7 - 3 x 3, RoB_the_SloB - 3 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 4, donny34 - 6 x 2, doubleyo7 - 2 x 3, RoB_the_SloB - 3 x 3, donny34 - 3 x 4, doubleyo7 - 3 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-3 ) .. there were 5, RoB_the_SloB - 3 x 2, donny34 - 5 x 2, doubleyo7 - 3 x 4, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 2, RoB_the_SloB - 6 x 2, donny34 - 5 x 3, doubleyo7 - 2 x 5, RoB_the_SloB - 2 x 6, liar, donny34 accuses RoB_the_SloB ( 6 x d-2 ) .. there were 4, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, doubleyo7 - 5 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-5 ) .. there were 2, doubleyo7 - 5 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-5 ) .. there were 3, RoB_the_SloB - 3 x 2, donny34 - 3 x 3, doubleyo7 - 4 x 3, RoB_the_SloB - 4 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 4, donny34 - 5 x 1, doubleyo7 - 2 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-2 ) .. there were 2, doubleyo7 - 1 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-1 ) .. there were 3, donny34 - 4 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-4 ) .. there was 1, doubleyo7 - 6 x 1, donny34 - 1 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-1 ) .. there were 2, doubleyo7 - 5 x 1, donny34 - 6 x 1, doubleyo7 - 4 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-4 ) .. there was 1",funnode-liars-dice-61461.txt,61461
+[Site www.FunNode.com],funnode-liars-dice-61463.txt,61463
+[P0 RoB_the_SloB],funnode-liars-dice-61463.txt,61463
+[P0-Elo 0.0],funnode-liars-dice-61463.txt,61463
+[P1 donny34],funnode-liars-dice-61463.txt,61463
+[P1-Elo 0.0],funnode-liars-dice-61463.txt,61463
+[P2 doubleyo7],funnode-liars-dice-61463.txt,61463
+[P2-Elo 0.0],funnode-liars-dice-61463.txt,61463
+[Timer Fischer],funnode-liars-dice-61463.txt,61463
+[Timers -1 + 0],funnode-liars-dice-61463.txt,61463
+[Re-roll false],funnode-liars-dice-61463.txt,61463
+[Spot On false],funnode-liars-dice-61463.txt,61463
+[Wild Ones false],funnode-liars-dice-61463.txt,61463
+[First to play loser],funnode-liars-dice-61463.txt,61463
+[Loser loses 1],funnode-liars-dice-61463.txt,61463
+"[Result donny34 wins in 13 rounds. RoB_the_SloB, doubleyo7 lose]",funnode-liars-dice-61463.txt,61463
+"RoB_the_SloB - 6 x 3, donny34 - 1 x 4, doubleyo7 - 4 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-4 ) .. there were 3, doubleyo7 - 3 x 4, RoB_the_SloB - 6 x 4, donny34 - 1 x 5, liar, doubleyo7 accuses donny34 ( 5 x d-1 ) .. there were 5, doubleyo7 - 5 x 5, RoB_the_SloB - 5 x 6, liar, donny34 accuses RoB_the_SloB ( 6 x d-5 ) .. there were 5, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 0, RoB_the_SloB - 6 x 2, donny34 - 3 x 3, doubleyo7 - 1 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-1 ) .. there were 3, doubleyo7 - 5 x 1, RoB_the_SloB - 5 x 2, donny34 - 2 x 3, doubleyo7 - 2 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-2 ) .. there were 3, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, donny34 - 6 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-6 ) .. there was 1, RoB_the_SloB - 6 x 1, donny34 - 4 x 2, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 3, donny34 - 3 x 1, RoB_the_SloB - 4 x 1, donny34 - 6 x 1, RoB_the_SloB - 4 x 2, donny34 - 6 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-6 ) .. there were 2, RoB_the_SloB - 4 x 1, donny34 - 5 x 1, RoB_the_SloB - 5 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-5 ) .. there were 2, donny34 - 3 x 1, RoB_the_SloB - 3 x 2, donny34 - 3 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-3 ) .. there were 3, RoB_the_SloB - 6 x 1, donny34 - 4 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-4 ) .. there were 2",funnode-liars-dice-61463.txt,61463
+[Site www.FunNode.com],funnode-liars-dice-61464.txt,61464
+[P0 doubleyo7],funnode-liars-dice-61464.txt,61464
+[P0-Elo 0.0],funnode-liars-dice-61464.txt,61464
+[P1 RoB_the_SloB],funnode-liars-dice-61464.txt,61464
+[P1-Elo 0.0],funnode-liars-dice-61464.txt,61464
+[P2 donny34],funnode-liars-dice-61464.txt,61464
+[P2-Elo 0.0],funnode-liars-dice-61464.txt,61464
+[Timer Fischer],funnode-liars-dice-61464.txt,61464
+[Timers -1 + 0],funnode-liars-dice-61464.txt,61464
+[Re-roll false],funnode-liars-dice-61464.txt,61464
+[Spot On false],funnode-liars-dice-61464.txt,61464
+[Wild Ones false],funnode-liars-dice-61464.txt,61464
+[First to play loser],funnode-liars-dice-61464.txt,61464
+[Loser loses 1],funnode-liars-dice-61464.txt,61464
+"[Result donny34 wins in 14 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61464.txt,61464
+"doubleyo7 - 1 x 3, RoB_the_SloB - 4 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 3, RoB_the_SloB - 6 x 3, donny34 - 5 x 4, doubleyo7 - 4 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-4 ) .. there were 3, doubleyo7 - 3 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-3 ) .. there were 3, doubleyo7 - 5 x 3, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 2, RoB_the_SloB - 6 x 2, donny34 - 4 x 3, doubleyo7 - 5 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-5 ) .. there were 2, doubleyo7 - 5 x 2, RoB_the_SloB - 5 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 3, donny34 - 6 x 1, doubleyo7 - 1 x 3, RoB_the_SloB - 1 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-1 ) .. there were 4, donny34 - 5 x 1, doubleyo7 - 4 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 2, donny34 - 4 x 1, doubleyo7 - 6 x 1, liar, RoB_the_SloB accuses doubleyo7 ( 1 x d-6 ) .. there was 1, donny34 - 6 x 1, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there were 2, donny34 - 4 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-4 ) .. there was 1, doubleyo7 - 5 x 1, liar, donny34 accuses doubleyo7 ( 1 x d-5 ) .. there were 0",funnode-liars-dice-61464.txt,61464
+[Site www.FunNode.com],funnode-liars-dice-61467.txt,61467
+[P0 donny34],funnode-liars-dice-61467.txt,61467
+[P0-Elo 0.0],funnode-liars-dice-61467.txt,61467
+[P1 doubleyo7],funnode-liars-dice-61467.txt,61467
+[P1-Elo 0.0],funnode-liars-dice-61467.txt,61467
+[P2 RoB_the_SloB],funnode-liars-dice-61467.txt,61467
+[P2-Elo 0.0],funnode-liars-dice-61467.txt,61467
+[Timer Fischer],funnode-liars-dice-61467.txt,61467
+[Timers -1 + 0],funnode-liars-dice-61467.txt,61467
+[Re-roll false],funnode-liars-dice-61467.txt,61467
+[Spot On false],funnode-liars-dice-61467.txt,61467
+[Wild Ones false],funnode-liars-dice-61467.txt,61467
+[First to play loser],funnode-liars-dice-61467.txt,61467
+[Loser loses 1],funnode-liars-dice-61467.txt,61467
+"[Result donny34 wins in 12 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61467.txt,61467
+"donny34 - 4 x 2, doubleyo7 - 6 x 5, RoB_the_SloB - 6 x 6, liar, donny34 accuses RoB_the_SloB ( 6 x d-6 ) .. there were 4, RoB_the_SloB - 5 x 2, donny34 - 6 x 2, doubleyo7 - 5 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-5 ) .. there were 4, doubleyo7 - 1 x 4, RoB_the_SloB - 4 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 3, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, doubleyo7 - 4 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-4 ) .. there were 2, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, donny34 - 3 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-3 ) .. there were 2, donny34 - 6 x 1, doubleyo7 - 4 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-4 ) .. there were 2, doubleyo7 - 6 x 3, RoB_the_SloB - 6 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 3, RoB_the_SloB - 2 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-2 ) .. there were 3, donny34 - 3 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-3 ) .. there were 2, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 4 x 1, donny34 - 4 x 2, doubleyo7 - 4 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-4 ) .. there were 2, RoB_the_SloB - 6 x 1, donny34 - 5 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-5 ) .. there were 2",funnode-liars-dice-61467.txt,61467
+[Site www.FunNode.com],funnode-liars-dice-61469.txt,61469
+[P0 donny34],funnode-liars-dice-61469.txt,61469
+[P0-Elo 0.0],funnode-liars-dice-61469.txt,61469
+[P1 RoB_the_SloB],funnode-liars-dice-61469.txt,61469
+[P1-Elo 0.0],funnode-liars-dice-61469.txt,61469
+[P2 doubleyo7],funnode-liars-dice-61469.txt,61469
+[P2-Elo 0.0],funnode-liars-dice-61469.txt,61469
+[Timer Fischer],funnode-liars-dice-61469.txt,61469
+[Timers -1 + 0],funnode-liars-dice-61469.txt,61469
+[Re-roll false],funnode-liars-dice-61469.txt,61469
+[Spot On false],funnode-liars-dice-61469.txt,61469
+[Wild Ones false],funnode-liars-dice-61469.txt,61469
+[First to play loser],funnode-liars-dice-61469.txt,61469
+[Loser loses 1],funnode-liars-dice-61469.txt,61469
+"[Result RoB_the_SloB wins in 12 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-61469.txt,61469
+"donny34 - 2 x 3, RoB_the_SloB - 4 x 3, doubleyo7 - 3 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-3 ) .. there were 2, doubleyo7 - 5 x 2, donny34 - 5 x 3, RoB_the_SloB - 3 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 4, doubleyo7 - 6 x 2, donny34 - 1 x 3, RoB_the_SloB - 4 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 3, doubleyo7 - 4 x 2, donny34 - 3 x 3, RoB_the_SloB - 6 x 3, doubleyo7 - 3 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-3 ) .. there were 3, doubleyo7 - 6 x 2, donny34 - 3 x 3, RoB_the_SloB - 2 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 3, RoB_the_SloB - 6 x 1, doubleyo7 - 4 x 2, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 2, donny34 - 6 x 1, RoB_the_SloB - 1 x 2, doubleyo7 - 4 x 2, donny34 - 1 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-1 ) .. there were 4, RoB_the_SloB - 6 x 1, doubleyo7 - 2 x 2, donny34 - 4 x 2, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, donny34 - 4 x 1, RoB_the_SloB - 5 x 1, donny34 - 5 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, donny34 - 3 x 1, RoB_the_SloB - 6 x 1, donny34 - 4 x 2, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 3, donny34 - 6 x 1, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there was 1",funnode-liars-dice-61469.txt,61469
+[Site www.FunNode.com],funnode-liars-dice-61470.txt,61470
+[P0 doubleyo7],funnode-liars-dice-61470.txt,61470
+[P0-Elo 0.0],funnode-liars-dice-61470.txt,61470
+[P1 RoB_the_SloB],funnode-liars-dice-61470.txt,61470
+[P1-Elo 0.0],funnode-liars-dice-61470.txt,61470
+[P2 donny34],funnode-liars-dice-61470.txt,61470
+[P2-Elo 0.0],funnode-liars-dice-61470.txt,61470
+[Timer Fischer],funnode-liars-dice-61470.txt,61470
+[Timers -1 + 0],funnode-liars-dice-61470.txt,61470
+[Re-roll false],funnode-liars-dice-61470.txt,61470
+[Spot On false],funnode-liars-dice-61470.txt,61470
+[Wild Ones false],funnode-liars-dice-61470.txt,61470
+[First to play loser],funnode-liars-dice-61470.txt,61470
+[Loser loses 1],funnode-liars-dice-61470.txt,61470
+"[Result donny34 wins in 10 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61470.txt,61470
+"doubleyo7 - 1 x 4, RoB_the_SloB - 2 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 3, RoB_the_SloB - 5 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 2, RoB_the_SloB - 3 x 2, donny34 - 6 x 2, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 3, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 6 x 2, donny34 - 2 x 3, doubleyo7 - 2 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-2 ) .. there were 5, RoB_the_SloB - 6 x 1, donny34 - 2 x 3, doubleyo7 - 2 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-2 ) .. there were 5, donny34 - 6 x 1, doubleyo7 - 5 x 2, donny34 - 5 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-5 ) .. there were 3, doubleyo7 - 2 x 2, donny34 - 5 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-5 ) .. there were 3, doubleyo7 - 6 x 1, donny34 - 6 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-6 ) .. there were 3, doubleyo7 - 5 x 1, donny34 - 3 x 2, doubleyo7 - 1 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-1 ) .. there were 2",funnode-liars-dice-61470.txt,61470
+[Site www.FunNode.com],funnode-liars-dice-61472.txt,61472
+[P0 RoB_the_SloB],funnode-liars-dice-61472.txt,61472
+[P0-Elo 0.0],funnode-liars-dice-61472.txt,61472
+[P1 doubleyo7],funnode-liars-dice-61472.txt,61472
+[P1-Elo 0.0],funnode-liars-dice-61472.txt,61472
+[P2 donny34],funnode-liars-dice-61472.txt,61472
+[P2-Elo 0.0],funnode-liars-dice-61472.txt,61472
+[Timer Fischer],funnode-liars-dice-61472.txt,61472
+[Timers -1 + 0],funnode-liars-dice-61472.txt,61472
+[Re-roll false],funnode-liars-dice-61472.txt,61472
+[Spot On false],funnode-liars-dice-61472.txt,61472
+[Wild Ones false],funnode-liars-dice-61472.txt,61472
+[First to play loser],funnode-liars-dice-61472.txt,61472
+[Loser loses 1],funnode-liars-dice-61472.txt,61472
+"[Result donny34 wins in 13 rounds. RoB_the_SloB, doubleyo7 lose]",funnode-liars-dice-61472.txt,61472
+"RoB_the_SloB - 6 x 2, doubleyo7 - 1 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-1 ) .. there were 3, doubleyo7 - 3 x 4, donny34 - 4 x 4, RoB_the_SloB - 4 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-4 ) .. there were 0, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 3, doubleyo7 - 1 x 3, donny34 - 3 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-3 ) .. there were 2, donny34 - 5 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 4, donny34 - 5 x 2, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 5 x 1, doubleyo7 - 6 x 1, liar, donny34 accuses doubleyo7 ( 1 x d-6 ) .. there was 1, donny34 - 6 x 1, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 5 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-5 ) .. there was 1, doubleyo7 - 5 x 1, donny34 - 1 x 2, RoB_the_SloB - 3 x 2, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there was 1, doubleyo7 - 2 x 1, donny34 - 5 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-5 ) .. there were 2, doubleyo7 - 4 x 1, donny34 - 5 x 1, doubleyo7 - 6 x 1, liar, donny34 accuses doubleyo7 ( 1 x d-6 ) .. there were 0",funnode-liars-dice-61472.txt,61472
+[Site www.FunNode.com],funnode-liars-dice-61473.txt,61473
+[P0 doubleyo7],funnode-liars-dice-61473.txt,61473
+[P0-Elo 0.0],funnode-liars-dice-61473.txt,61473
+[P1 RoB_the_SloB],funnode-liars-dice-61473.txt,61473
+[P1-Elo 0.0],funnode-liars-dice-61473.txt,61473
+[P2 donny34],funnode-liars-dice-61473.txt,61473
+[P2-Elo 0.0],funnode-liars-dice-61473.txt,61473
+[Timer Fischer],funnode-liars-dice-61473.txt,61473
+[Timers -1 + 0],funnode-liars-dice-61473.txt,61473
+[Re-roll false],funnode-liars-dice-61473.txt,61473
+[Spot On false],funnode-liars-dice-61473.txt,61473
+[Wild Ones false],funnode-liars-dice-61473.txt,61473
+[First to play loser],funnode-liars-dice-61473.txt,61473
+[Loser loses 1],funnode-liars-dice-61473.txt,61473
+"[Result RoB_the_SloB wins in 11 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-61473.txt,61473
+"doubleyo7 - 2 x 3, RoB_the_SloB - 4 x 3, donny34 - 2 x 4, doubleyo7 - 4 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-4 ) .. there were 3, doubleyo7 - 1 x 3, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, donny34 - 6 x 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there was 1, doubleyo7 - 1 x 3, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 4, donny34 - 4 x 2, doubleyo7 - 4 x 3, RoB_the_SloB - 4 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 3, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-6 ) .. there were 2, donny34 - 6 x 1, doubleyo7 - 6 x 2, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 3, donny34 - 6 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-6 ) .. there was 1, doubleyo7 - 3 x 3, RoB_the_SloB - 3 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 5, doubleyo7 - 6 x 1, RoB_the_SloB - 4 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 2, doubleyo7 - 4 x 1, RoB_the_SloB - 6 x 1, doubleyo7 - 1 x 2, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2",funnode-liars-dice-61473.txt,61473
+[Site www.FunNode.com],funnode-liars-dice-61474.txt,61474
+[P0 donny34],funnode-liars-dice-61474.txt,61474
+[P0-Elo 0.0],funnode-liars-dice-61474.txt,61474
+[P1 RoB_the_SloB],funnode-liars-dice-61474.txt,61474
+[P1-Elo 0.0],funnode-liars-dice-61474.txt,61474
+[P2 doubleyo7],funnode-liars-dice-61474.txt,61474
+[P2-Elo 0.0],funnode-liars-dice-61474.txt,61474
+[Timer Fischer],funnode-liars-dice-61474.txt,61474
+[Timers -1 + 0],funnode-liars-dice-61474.txt,61474
+[Re-roll false],funnode-liars-dice-61474.txt,61474
+[Spot On false],funnode-liars-dice-61474.txt,61474
+[Wild Ones false],funnode-liars-dice-61474.txt,61474
+[First to play loser],funnode-liars-dice-61474.txt,61474
+[Loser loses 1],funnode-liars-dice-61474.txt,61474
+"[Result RoB_the_SloB wins in 10 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-61474.txt,61474
+"donny34 - 4 x 2, RoB_the_SloB - 5 x 2, doubleyo7 - 5 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-5 ) .. there were 4, donny34 - 6 x 2, RoB_the_SloB - 4 x 3, doubleyo7 - 6 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-6 ) .. there were 4, donny34 - 5 x 2, RoB_the_SloB - 1 x 3, doubleyo7 - 3 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-3 ) .. there were 4, donny34 - 6 x 2, RoB_the_SloB - 4 x 3, doubleyo7 - 5 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-5 ) .. there were 2, doubleyo7 - 2 x 3, donny34 - 4 x 3, RoB_the_SloB - 6 x 3, doubleyo7 - 2 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-2 ) .. there were 2, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there was 1, doubleyo7 - 6 x 2, donny34 - 6 x 3, RoB_the_SloB - 6 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 5, doubleyo7 - 5 x 1, donny34 - 1 x 2, RoB_the_SloB - 2 x 2, doubleyo7 - 2 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-2 ) .. there were 2, donny34 - 3 x 1, RoB_the_SloB - 6 x 1, donny34 - 6 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-6 ) .. there was 1, donny34 - 5 x 1, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2",funnode-liars-dice-61474.txt,61474
+[Site www.FunNode.com],funnode-liars-dice-61475.txt,61475
+[P0 donny34],funnode-liars-dice-61475.txt,61475
+[P0-Elo 0.0],funnode-liars-dice-61475.txt,61475
+[P1 doubleyo7],funnode-liars-dice-61475.txt,61475
+[P1-Elo 0.0],funnode-liars-dice-61475.txt,61475
+[P2 RoB_the_SloB],funnode-liars-dice-61475.txt,61475
+[P2-Elo 0.0],funnode-liars-dice-61475.txt,61475
+[Timer Fischer],funnode-liars-dice-61475.txt,61475
+[Timers -1 + 0],funnode-liars-dice-61475.txt,61475
+[Re-roll false],funnode-liars-dice-61475.txt,61475
+[Spot On false],funnode-liars-dice-61475.txt,61475
+[Wild Ones false],funnode-liars-dice-61475.txt,61475
+[First to play loser],funnode-liars-dice-61475.txt,61475
+[Loser loses 1],funnode-liars-dice-61475.txt,61475
+"[Result doubleyo7 wins in 11 rounds. donny34, RoB_the_SloB lose]",funnode-liars-dice-61475.txt,61475
+"donny34 - 5 x 2, doubleyo7 - 2 x 4, RoB_the_SloB - 2 x 5, donny34 - 6 x 5, liar, doubleyo7 accuses donny34 ( 5 x d-6 ) .. there were 4, donny34 - 2 x 3, doubleyo7 - 3 x 4, RoB_the_SloB - 3 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-3 ) .. there were 5, donny34 - 6 x 2, doubleyo7 - 5 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-5 ) .. there were 4, RoB_the_SloB - 1 x 4, donny34 - 1 x 5, doubleyo7 - 1 x 6, liar, RoB_the_SloB accuses doubleyo7 ( 6 x d-1 ) .. there were 7, RoB_the_SloB - 5 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 2, RoB_the_SloB - 6 x 1, donny34 - 6 x 2, doubleyo7 - 1 x 4, RoB_the_SloB - 1 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-1 ) .. there were 6, donny34 - 6 x 1, doubleyo7 - 6 x 2, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 3, donny34 - 6 x 1, doubleyo7 - 2 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-2 ) .. there were 5, RoB_the_SloB - 6 x 1, donny34 - 6 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-6 ) .. there were 2, doubleyo7 - 6 x 1, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, doubleyo7 - 4 x 2, RoB_the_SloB - 5 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-5 ) .. there was 1",funnode-liars-dice-61475.txt,61475
+[Site www.FunNode.com],funnode-liars-dice-61476.txt,61476
+[P0 doubleyo7],funnode-liars-dice-61476.txt,61476
+[P0-Elo 0.0],funnode-liars-dice-61476.txt,61476
+[P1 RoB_the_SloB],funnode-liars-dice-61476.txt,61476
+[P1-Elo 0.0],funnode-liars-dice-61476.txt,61476
+[P2 donny34],funnode-liars-dice-61476.txt,61476
+[P2-Elo 0.0],funnode-liars-dice-61476.txt,61476
+[Timer Fischer],funnode-liars-dice-61476.txt,61476
+[Timers -1 + 0],funnode-liars-dice-61476.txt,61476
+[Re-roll false],funnode-liars-dice-61476.txt,61476
+[Spot On false],funnode-liars-dice-61476.txt,61476
+[Wild Ones false],funnode-liars-dice-61476.txt,61476
+[First to play loser],funnode-liars-dice-61476.txt,61476
+[Loser loses 1],funnode-liars-dice-61476.txt,61476
+"[Result donny34 wins in 14 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61476.txt,61476
+"doubleyo7 - 4 x 4, RoB_the_SloB - 4 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-4 ) .. there were 4, RoB_the_SloB - 6 x 3, donny34 - 6 x 4, doubleyo7 - 5 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-5 ) .. there were 3, doubleyo7 - 2 x 3, RoB_the_SloB - 3 x 3, donny34 - 3 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-3 ) .. there were 4, doubleyo7 - 4 x 2, RoB_the_SloB - 4 x 3, donny34 - 4 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-4 ) .. there were 4, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, donny34 - 4 x 3, doubleyo7 - 5 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-5 ) .. there were 2, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, donny34 - 6 x 1, doubleyo7 - 3 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, donny34 - 4 x 1, doubleyo7 - 5 x 1, RoB_the_SloB - 2 x 2, donny34 - 3 x 2, doubleyo7 - 5 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-5 ) .. there was 1, RoB_the_SloB - 3 x 1, donny34 - 2 x 2, RoB_the_SloB - 5 x 2, donny34 - 5 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-5 ) .. there were 3, RoB_the_SloB - 1 x 1, donny34 - 6 x 1, RoB_the_SloB - 2 x 2, donny34 - 4 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-4 ) .. there was 1, donny34 - 2 x 2, RoB_the_SloB - 2 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 2, RoB_the_SloB - 5 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-5 ) .. there were 0, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 2, donny34 - 5 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-5 ) .. there was 1",funnode-liars-dice-61476.txt,61476
+[Site www.FunNode.com],funnode-liars-dice-61477.txt,61477
+[P0 donny34],funnode-liars-dice-61477.txt,61477
+[P0-Elo 0.0],funnode-liars-dice-61477.txt,61477
+[P1 doubleyo7],funnode-liars-dice-61477.txt,61477
+[P1-Elo 0.0],funnode-liars-dice-61477.txt,61477
+[P2 RoB_the_SloB],funnode-liars-dice-61477.txt,61477
+[P2-Elo 0.0],funnode-liars-dice-61477.txt,61477
+[Timer Fischer],funnode-liars-dice-61477.txt,61477
+[Timers -1 + 0],funnode-liars-dice-61477.txt,61477
+[Re-roll false],funnode-liars-dice-61477.txt,61477
+[Spot On false],funnode-liars-dice-61477.txt,61477
+[Wild Ones false],funnode-liars-dice-61477.txt,61477
+[First to play loser],funnode-liars-dice-61477.txt,61477
+[Loser loses 1],funnode-liars-dice-61477.txt,61477
+"[Result RoB_the_SloB wins in 13 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-61477.txt,61477
+"donny34 - 3 x 4, doubleyo7 - 4 x 5, RoB_the_SloB - 4 x 6, liar, donny34 accuses RoB_the_SloB ( 6 x d-4 ) .. there were 6, donny34 - 6 x 3, doubleyo7 - 2 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-2 ) .. there were 4, doubleyo7 - 6 x 2, RoB_the_SloB - 3 x 3, donny34 - 5 x 3, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 4 x 3, RoB_the_SloB - 2 x 4, donny34 - 4 x 4, doubleyo7 - 4 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-4 ) .. there were 4, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 3 x 2, RoB_the_SloB - 6 x 2, donny34 - 3 x 3, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 3, RoB_the_SloB - 5 x 1, donny34 - 5 x 2, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 3, RoB_the_SloB - 3 x 1, donny34 - 3 x 2, RoB_the_SloB - 5 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-5 ) .. there was 1, RoB_the_SloB - 3 x 1, donny34 - 6 x 1, RoB_the_SloB - 2 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-2 ) .. there were 2, donny34 - 5 x 1, RoB_the_SloB - 5 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-5 ) .. there were 2, donny34 - 6 x 1, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 6 x 1, donny34 - 6 x 2, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, donny34 - 4 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-4 ) .. there were 0",funnode-liars-dice-61477.txt,61477
+[Site www.FunNode.com],funnode-liars-dice-61478.txt,61478
+[P0 doubleyo7],funnode-liars-dice-61478.txt,61478
+[P0-Elo 0.0],funnode-liars-dice-61478.txt,61478
+[P1 donny34],funnode-liars-dice-61478.txt,61478
+[P1-Elo 0.0],funnode-liars-dice-61478.txt,61478
+[P2 RoB_the_SloB],funnode-liars-dice-61478.txt,61478
+[P2-Elo 0.0],funnode-liars-dice-61478.txt,61478
+[Timer Fischer],funnode-liars-dice-61478.txt,61478
+[Timers -1 + 0],funnode-liars-dice-61478.txt,61478
+[Re-roll false],funnode-liars-dice-61478.txt,61478
+[Spot On false],funnode-liars-dice-61478.txt,61478
+[Wild Ones false],funnode-liars-dice-61478.txt,61478
+[First to play loser],funnode-liars-dice-61478.txt,61478
+[Loser loses 1],funnode-liars-dice-61478.txt,61478
+"[Result RoB_the_SloB wins in 13 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-61478.txt,61478
+"doubleyo7 - 6 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-6 ) .. there were 3, doubleyo7 - 5 x 3, donny34 - 5 x 4, RoB_the_SloB - 5 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-5 ) .. there were 7, doubleyo7 - 4 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-4 ) .. there were 5, donny34 - 6 x 2, RoB_the_SloB - 2 x 3, doubleyo7 - 6 x 3, donny34 - 2 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-2 ) .. there were 2, donny34 - 5 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 4 x 3, donny34 - 4 x 4, RoB_the_SloB - 4 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-4 ) .. there were 5, doubleyo7 - 4 x 2, donny34 - 6 x 2, RoB_the_SloB - 3 x 3, doubleyo7 - 3 x 4, donny34 - 3 x 5, liar, RoB_the_SloB accuses donny34 ( 5 x d-3 ) .. there were 5, RoB_the_SloB - 6 x 2, doubleyo7 - 1 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-1 ) .. there were 3, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, doubleyo7 - 3 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-3 ) .. there were 5, donny34 - 6 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-6 ) .. there were 2, RoB_the_SloB - 3 x 1, doubleyo7 - 3 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-3 ) .. there were 3, RoB_the_SloB - 1 x 1, doubleyo7 - 6 x 1, RoB_the_SloB - 2 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-2 ) .. there were 2, doubleyo7 - 4 x 1, RoB_the_SloB - 3 x 2, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 3, RoB_the_SloB - 6 x 1, doubleyo7 - 4 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-4 ) .. there was 1",funnode-liars-dice-61478.txt,61478
+[Site www.FunNode.com],funnode-liars-dice-61479.txt,61479
+[P0 donny34],funnode-liars-dice-61479.txt,61479
+[P0-Elo 0.0],funnode-liars-dice-61479.txt,61479
+[P1 doubleyo7],funnode-liars-dice-61479.txt,61479
+[P1-Elo 0.0],funnode-liars-dice-61479.txt,61479
+[P2 RoB_the_SloB],funnode-liars-dice-61479.txt,61479
+[P2-Elo 0.0],funnode-liars-dice-61479.txt,61479
+[Timer Fischer],funnode-liars-dice-61479.txt,61479
+[Timers -1 + 0],funnode-liars-dice-61479.txt,61479
+[Re-roll false],funnode-liars-dice-61479.txt,61479
+[Spot On false],funnode-liars-dice-61479.txt,61479
+[Wild Ones false],funnode-liars-dice-61479.txt,61479
+[First to play loser],funnode-liars-dice-61479.txt,61479
+[Loser loses 1],funnode-liars-dice-61479.txt,61479
+"[Result doubleyo7 wins in 13 rounds. donny34, RoB_the_SloB lose]",funnode-liars-dice-61479.txt,61479
+"donny34 - 6 x 2, doubleyo7 - 3 x 4, RoB_the_SloB - 4 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 4, donny34 - 5 x 2, doubleyo7 - 6 x 3, RoB_the_SloB - 1 x 4, donny34 - 6 x 4, doubleyo7 - 6 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-6 ) .. there were 5, RoB_the_SloB - 5 x 2, donny34 - 2 x 3, doubleyo7 - 3 x 3, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, donny34 - 2 x 2, doubleyo7 - 5 x 4, RoB_the_SloB - 5 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-5 ) .. there were 7, donny34 - 6 x 2, doubleyo7 - 6 x 5, RoB_the_SloB - 6 x 6, liar, donny34 accuses RoB_the_SloB ( 6 x d-6 ) .. there were 5, RoB_the_SloB - 4 x 2, donny34 - 5 x 2, doubleyo7 - 4 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-4 ) .. there was 1, doubleyo7 - 5 x 3, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 4, donny34 - 6 x 1, doubleyo7 - 6 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-6 ) .. there were 2, doubleyo7 - 6 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-6 ) .. there were 2, RoB_the_SloB - 5 x 1, donny34 - 6 x 1, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 2 x 1, donny34 - 6 x 1, doubleyo7 - 6 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-6 ) .. there were 3, donny34 - 4 x 1, doubleyo7 - 2 x 2, donny34 - 2 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-2 ) .. there were 3, doubleyo7 - 5 x 1, liar, donny34 accuses doubleyo7 ( 1 x d-5 ) .. there was 1",funnode-liars-dice-61479.txt,61479
+[Site www.FunNode.com],funnode-liars-dice-61480.txt,61480
+[P0 doubleyo7],funnode-liars-dice-61480.txt,61480
+[P0-Elo 0.0],funnode-liars-dice-61480.txt,61480
+[P1 donny34],funnode-liars-dice-61480.txt,61480
+[P1-Elo 0.0],funnode-liars-dice-61480.txt,61480
+[P2 RoB_the_SloB],funnode-liars-dice-61480.txt,61480
+[P2-Elo 0.0],funnode-liars-dice-61480.txt,61480
+[Timer Fischer],funnode-liars-dice-61480.txt,61480
+[Timers -1 + 0],funnode-liars-dice-61480.txt,61480
+[Re-roll false],funnode-liars-dice-61480.txt,61480
+[Spot On false],funnode-liars-dice-61480.txt,61480
+[Wild Ones false],funnode-liars-dice-61480.txt,61480
+[First to play loser],funnode-liars-dice-61480.txt,61480
+[Loser loses 1],funnode-liars-dice-61480.txt,61480
+"[Result RoB_the_SloB wins in 10 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-61480.txt,61480
+"doubleyo7 - 6 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-6 ) .. there were 2, doubleyo7 - 5 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-5 ) .. there were 2, doubleyo7 - 3 x 3, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 2, donny34 - 6 x 2, RoB_the_SloB - 2 x 3, doubleyo7 - 1 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-1 ) .. there were 4, donny34 - 4 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 2 x 3, donny34 - 2 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-2 ) .. there were 3, donny34 - 6 x 1, RoB_the_SloB - 2 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-2 ) .. there were 4, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there was 1, doubleyo7 - 6 x 1, liar, donny34 accuses doubleyo7 ( 1 x d-6 ) .. there was 1, donny34 - 4 x 1, RoB_the_SloB - 3 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-3 ) .. there were 2, donny34 - 6 x 1, RoB_the_SloB - 4 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 2",funnode-liars-dice-61480.txt,61480
+[Site www.FunNode.com],funnode-liars-dice-61481.txt,61481
+[P0 doubleyo7],funnode-liars-dice-61481.txt,61481
+[P0-Elo 0.0],funnode-liars-dice-61481.txt,61481
+[P1 RoB_the_SloB],funnode-liars-dice-61481.txt,61481
+[P1-Elo 0.0],funnode-liars-dice-61481.txt,61481
+[P2 donny34],funnode-liars-dice-61481.txt,61481
+[P2-Elo 0.0],funnode-liars-dice-61481.txt,61481
+[Timer Fischer],funnode-liars-dice-61481.txt,61481
+[Timers -1 + 0],funnode-liars-dice-61481.txt,61481
+[Re-roll false],funnode-liars-dice-61481.txt,61481
+[Spot On false],funnode-liars-dice-61481.txt,61481
+[Wild Ones false],funnode-liars-dice-61481.txt,61481
+[First to play loser],funnode-liars-dice-61481.txt,61481
+[Loser loses 1],funnode-liars-dice-61481.txt,61481
+"[Result donny34 wins in 13 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61481.txt,61481
+"doubleyo7 - 5 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-5 ) .. there were 3, doubleyo7 - 3 x 4, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 3, RoB_the_SloB - 3 x 2, donny34 - 6 x 2, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 2, doubleyo7 - 5 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-5 ) .. there were 4, RoB_the_SloB - 3 x 2, donny34 - 6 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-6 ) .. there were 3, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 4, RoB_the_SloB - 5 x 1, donny34 - 6 x 1, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, donny34 - 4 x 1, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 3, RoB_the_SloB - 2 x 1, donny34 - 4 x 2, doubleyo7 - 5 x 2, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 4, donny34 - 6 x 1, liar, doubleyo7 accuses donny34 ( 1 x d-6 ) .. there was 1, doubleyo7 - 1 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-1 ) .. there was 1, RoB_the_SloB - 3 x 1, donny34 - 6 x 1, RoB_the_SloB - 4 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 2, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1",funnode-liars-dice-61481.txt,61481
+[Site www.FunNode.com],funnode-liars-dice-61482.txt,61482
+[P0 RoB_the_SloB],funnode-liars-dice-61482.txt,61482
+[P0-Elo 0.0],funnode-liars-dice-61482.txt,61482
+[P1 doubleyo7],funnode-liars-dice-61482.txt,61482
+[P1-Elo 0.0],funnode-liars-dice-61482.txt,61482
+[P2 donny34],funnode-liars-dice-61482.txt,61482
+[P2-Elo 0.0],funnode-liars-dice-61482.txt,61482
+[Timer Fischer],funnode-liars-dice-61482.txt,61482
+[Timers -1 + 0],funnode-liars-dice-61482.txt,61482
+[Re-roll false],funnode-liars-dice-61482.txt,61482
+[Spot On false],funnode-liars-dice-61482.txt,61482
+[Wild Ones false],funnode-liars-dice-61482.txt,61482
+[First to play loser],funnode-liars-dice-61482.txt,61482
+[Loser loses 1],funnode-liars-dice-61482.txt,61482
+"[Result donny34 wins in 12 rounds. RoB_the_SloB, doubleyo7 lose]",funnode-liars-dice-61482.txt,61482
+"RoB_the_SloB - 3 x 2, doubleyo7 - 2 x 3, donny34 - 2 x 4, RoB_the_SloB - 6 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 3, RoB_the_SloB - 5 x 2, doubleyo7 - 4 x 3, donny34 - 1 x 4, RoB_the_SloB - 1 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-1 ) .. there were 6, doubleyo7 - 4 x 3, donny34 - 6 x 3, RoB_the_SloB - 6 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 3, RoB_the_SloB - 1 x 2, doubleyo7 - 4 x 3, donny34 - 3 x 4, RoB_the_SloB - 3 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-3 ) .. there were 6, doubleyo7 - 3 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-3 ) .. there were 2, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there was 1, doubleyo7 - 5 x 2, donny34 - 5 x 4, RoB_the_SloB - 5 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-5 ) .. there were 5, donny34 - 5 x 1, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 0, RoB_the_SloB - 2 x 1, donny34 - 3 x 1, RoB_the_SloB - 4 x 1, donny34 - 3 x 2, RoB_the_SloB - 3 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-3 ) .. there were 3, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, donny34 - 2 x 2, RoB_the_SloB - 5 x 2, donny34 - 2 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-2 ) .. there were 3, RoB_the_SloB - 1 x 1, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, donny34 - 2 x 2, RoB_the_SloB - 2 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 3, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1",funnode-liars-dice-61482.txt,61482
+[Site www.FunNode.com],funnode-liars-dice-61483.txt,61483
+[P0 doubleyo7],funnode-liars-dice-61483.txt,61483
+[P0-Elo 0.0],funnode-liars-dice-61483.txt,61483
+[P1 donny34],funnode-liars-dice-61483.txt,61483
+[P1-Elo 0.0],funnode-liars-dice-61483.txt,61483
+[P2 RoB_the_SloB],funnode-liars-dice-61483.txt,61483
+[P2-Elo 0.0],funnode-liars-dice-61483.txt,61483
+[Timer Fischer],funnode-liars-dice-61483.txt,61483
+[Timers -1 + 0],funnode-liars-dice-61483.txt,61483
+[Re-roll false],funnode-liars-dice-61483.txt,61483
+[Spot On false],funnode-liars-dice-61483.txt,61483
+[Wild Ones false],funnode-liars-dice-61483.txt,61483
+[First to play loser],funnode-liars-dice-61483.txt,61483
+[Loser loses 1],funnode-liars-dice-61483.txt,61483
+"[Result RoB_the_SloB wins in 13 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-61483.txt,61483
+"doubleyo7 - 4 x 3, donny34 - 6 x 3, RoB_the_SloB - 6 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 4, doubleyo7 - 3 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-3 ) .. there were 3, doubleyo7 - 5 x 3, donny34 - 5 x 4, RoB_the_SloB - 5 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-5 ) .. there were 2, RoB_the_SloB - 4 x 2, doubleyo7 - 6 x 3, donny34 - 1 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-1 ) .. there were 3, donny34 - 6 x 2, RoB_the_SloB - 6 x 3, doubleyo7 - 4 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-4 ) .. there were 3, doubleyo7 - 4 x 2, donny34 - 2 x 3, RoB_the_SloB - 4 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 2, RoB_the_SloB - 1 x 2, doubleyo7 - 1 x 3, donny34 - 2 x 3, RoB_the_SloB - 2 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 4, doubleyo7 - 5 x 2, donny34 - 6 x 2, RoB_the_SloB - 2 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 3, donny34 - 5 x 1, RoB_the_SloB - 6 x 2, donny34 - 2 x 3, RoB_the_SloB - 2 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 4, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there were 0, donny34 - 5 x 1, RoB_the_SloB - 2 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-2 ) .. there were 2, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1, RoB_the_SloB - 4 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-4 ) .. there were 2",funnode-liars-dice-61483.txt,61483
+[Site www.FunNode.com],funnode-liars-dice-61484.txt,61484
+[P0 doubleyo7],funnode-liars-dice-61484.txt,61484
+[P0-Elo 0.0],funnode-liars-dice-61484.txt,61484
+[P1 donny34],funnode-liars-dice-61484.txt,61484
+[P1-Elo 0.0],funnode-liars-dice-61484.txt,61484
+[P2 RoB_the_SloB],funnode-liars-dice-61484.txt,61484
+[P2-Elo 0.0],funnode-liars-dice-61484.txt,61484
+[Timer Fischer],funnode-liars-dice-61484.txt,61484
+[Timers -1 + 0],funnode-liars-dice-61484.txt,61484
+[Re-roll false],funnode-liars-dice-61484.txt,61484
+[Spot On false],funnode-liars-dice-61484.txt,61484
+[Wild Ones false],funnode-liars-dice-61484.txt,61484
+[First to play loser],funnode-liars-dice-61484.txt,61484
+[Loser loses 1],funnode-liars-dice-61484.txt,61484
+"[Result RoB_the_SloB wins in 12 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-61484.txt,61484
+"doubleyo7 - 3 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-3 ) .. there were 4, doubleyo7 - 3 x 5, donny34 - 3 x 6, RoB_the_SloB - 3 x 7, liar, doubleyo7 accuses RoB_the_SloB ( 7 x d-3 ) .. there were 7, doubleyo7 - 5 x 3, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 2, donny34 - 3 x 2, RoB_the_SloB - 4 x 2, doubleyo7 - 3 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-3 ) .. there was 1, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 4 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-4 ) .. there were 2, donny34 - 6 x 1, RoB_the_SloB - 1 x 2, doubleyo7 - 1 x 3, donny34 - 1 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-1 ) .. there were 3, donny34 - 2 x 2, RoB_the_SloB - 3 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-3 ) .. there were 2, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 0, RoB_the_SloB - 3 x 1, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there was 1, donny34 - 4 x 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there was 1",funnode-liars-dice-61484.txt,61484
+[Site www.FunNode.com],funnode-liars-dice-61485.txt,61485
+[P0 doubleyo7],funnode-liars-dice-61485.txt,61485
+[P0-Elo 0.0],funnode-liars-dice-61485.txt,61485
+[P1 RoB_the_SloB],funnode-liars-dice-61485.txt,61485
+[P1-Elo 0.0],funnode-liars-dice-61485.txt,61485
+[P2 donny34],funnode-liars-dice-61485.txt,61485
+[P2-Elo 0.0],funnode-liars-dice-61485.txt,61485
+[Timer Fischer],funnode-liars-dice-61485.txt,61485
+[Timers -1 + 0],funnode-liars-dice-61485.txt,61485
+[Re-roll false],funnode-liars-dice-61485.txt,61485
+[Spot On false],funnode-liars-dice-61485.txt,61485
+[Wild Ones false],funnode-liars-dice-61485.txt,61485
+[First to play loser],funnode-liars-dice-61485.txt,61485
+[Loser loses 1],funnode-liars-dice-61485.txt,61485
+"[Result donny34 wins in 12 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61485.txt,61485
+"doubleyo7 - 2 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-2 ) .. there were 3, doubleyo7 - 3 x 3, RoB_the_SloB - 4 x 3, donny34 - 5 x 3, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 4, RoB_the_SloB - 5 x 2, donny34 - 5 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-5 ) .. there was 1, donny34 - 6 x 2, doubleyo7 - 6 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-6 ) .. there were 4, RoB_the_SloB - 5 x 2, donny34 - 6 x 2, doubleyo7 - 5 x 3, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 3 x 1, donny34 - 2 x 3, doubleyo7 - 6 x 3, RoB_the_SloB - 2 x 4, donny34 - 2 x 5, liar, doubleyo7 accuses donny34 ( 5 x d-2 ) .. there were 4, donny34 - 6 x 1, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 6 x 2, RoB_the_SloB - 3 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-3 ) .. there were 2, RoB_the_SloB - 2 x 1, donny34 - 2 x 2, doubleyo7 - 4 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-4 ) .. there were 2, donny34 - 4 x 1, doubleyo7 - 2 x 2, donny34 - 3 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-3 ) .. there were 2, doubleyo7 - 5 x 1, donny34 - 2 x 2, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there was 1",funnode-liars-dice-61485.txt,61485
+[Site www.FunNode.com],funnode-liars-dice-61486.txt,61486
+[P0 donny34],funnode-liars-dice-61486.txt,61486
+[P0-Elo 0.0],funnode-liars-dice-61486.txt,61486
+[P1 RoB_the_SloB],funnode-liars-dice-61486.txt,61486
+[P1-Elo 0.0],funnode-liars-dice-61486.txt,61486
+[P2 doubleyo7],funnode-liars-dice-61486.txt,61486
+[P2-Elo 0.0],funnode-liars-dice-61486.txt,61486
+[Timer Fischer],funnode-liars-dice-61486.txt,61486
+[Timers -1 + 0],funnode-liars-dice-61486.txt,61486
+[Re-roll false],funnode-liars-dice-61486.txt,61486
+[Spot On false],funnode-liars-dice-61486.txt,61486
+[Wild Ones false],funnode-liars-dice-61486.txt,61486
+[First to play loser],funnode-liars-dice-61486.txt,61486
+[Loser loses 1],funnode-liars-dice-61486.txt,61486
+"[Result RoB_the_SloB wins in 11 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-61486.txt,61486
+"donny34 - 6 x 2, RoB_the_SloB - 2 x 3, doubleyo7 - 2 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-2 ) .. there were 4, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 6 x 3, donny34 - 6 x 4, RoB_the_SloB - 6 x 5, doubleyo7 - 6 x 6, liar, donny34 accuses doubleyo7 ( 6 x d-6 ) .. there were 4, doubleyo7 - 6 x 2, donny34 - 1 x 3, RoB_the_SloB - 2 x 3, doubleyo7 - 5 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-5 ) .. there were 3, donny34 - 4 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 4 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-4 ) .. there were 2, doubleyo7 - 2 x 2, donny34 - 4 x 2, RoB_the_SloB - 4 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 5, donny34 - 6 x 1, RoB_the_SloB - 2 x 2, donny34 - 5 x 2, RoB_the_SloB - 1 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-1 ) .. there were 2, RoB_the_SloB - 6 x 1, donny34 - 2 x 2, RoB_the_SloB - 2 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 4, donny34 - 4 x 1, RoB_the_SloB - 5 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-5 ) .. there was 1, donny34 - 3 x 1, RoB_the_SloB - 4 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-4 ) .. there was 1, donny34 - 6 x 1, RoB_the_SloB - 4 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 2",funnode-liars-dice-61486.txt,61486
+[Site www.FunNode.com],funnode-liars-dice-61487.txt,61487
+[P0 doubleyo7],funnode-liars-dice-61487.txt,61487
+[P0-Elo 0.0],funnode-liars-dice-61487.txt,61487
+[P1 donny34],funnode-liars-dice-61487.txt,61487
+[P1-Elo 0.0],funnode-liars-dice-61487.txt,61487
+[P2 RoB_the_SloB],funnode-liars-dice-61487.txt,61487
+[P2-Elo 0.0],funnode-liars-dice-61487.txt,61487
+[Timer Fischer],funnode-liars-dice-61487.txt,61487
+[Timers -1 + 0],funnode-liars-dice-61487.txt,61487
+[Re-roll false],funnode-liars-dice-61487.txt,61487
+[Spot On false],funnode-liars-dice-61487.txt,61487
+[Wild Ones false],funnode-liars-dice-61487.txt,61487
+[First to play loser],funnode-liars-dice-61487.txt,61487
+[Loser loses 1],funnode-liars-dice-61487.txt,61487
+"[Result donny34 wins in 12 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61487.txt,61487
+"doubleyo7 - 5 x 4, donny34 - 5 x 5, RoB_the_SloB - 5 x 6, liar, doubleyo7 accuses RoB_the_SloB ( 6 x d-5 ) .. there were 6, doubleyo7 - 5 x 3, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 3, RoB_the_SloB - 4 x 2, doubleyo7 - 5 x 3, donny34 - 6 x 3, RoB_the_SloB - 5 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 3, RoB_the_SloB - 3 x 2, doubleyo7 - 3 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-3 ) .. there were 4, doubleyo7 - 5 x 2, donny34 - 6 x 2, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, doubleyo7 - 5 x 2, donny34 - 6 x 2, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 4 x 2, doubleyo7 - 2 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-2 ) .. there were 3, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there were 0, doubleyo7 - 2 x 2, donny34 - 6 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-6 ) .. there were 2, RoB_the_SloB - 6 x 1, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there was 1, donny34 - 5 x 1, RoB_the_SloB - 2 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-2 ) .. there were 2, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 0",funnode-liars-dice-61487.txt,61487
+[Site www.FunNode.com],funnode-liars-dice-61488.txt,61488
+[P0 doubleyo7],funnode-liars-dice-61488.txt,61488
+[P0-Elo 0.0],funnode-liars-dice-61488.txt,61488
+[P1 donny34],funnode-liars-dice-61488.txt,61488
+[P1-Elo 0.0],funnode-liars-dice-61488.txt,61488
+[P2 RoB_the_SloB],funnode-liars-dice-61488.txt,61488
+[P2-Elo 0.0],funnode-liars-dice-61488.txt,61488
+[Timer Fischer],funnode-liars-dice-61488.txt,61488
+[Timers -1 + 0],funnode-liars-dice-61488.txt,61488
+[Re-roll false],funnode-liars-dice-61488.txt,61488
+[Spot On false],funnode-liars-dice-61488.txt,61488
+[Wild Ones false],funnode-liars-dice-61488.txt,61488
+[First to play loser],funnode-liars-dice-61488.txt,61488
+[Loser loses 1],funnode-liars-dice-61488.txt,61488
+"[Result donny34 wins in 14 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61488.txt,61488
+"doubleyo7 - 6 x 3, donny34 - 1 x 4, RoB_the_SloB - 1 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-1 ) .. there were 5, doubleyo7 - 5 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-5 ) .. there were 2, doubleyo7 - 6 x 2, donny34 - 1 x 3, RoB_the_SloB - 5 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 3, doubleyo7 - 5 x 3, donny34 - 6 x 3, RoB_the_SloB - 2 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 5, doubleyo7 - 1 x 3, donny34 - 4 x 3, RoB_the_SloB - 4 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 5, donny34 - 5 x 2, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, RoB_the_SloB - 6 x 4, donny34 - 6 x 5, RoB_the_SloB - 6 x 6, liar, donny34 accuses RoB_the_SloB ( 6 x d-6 ) .. there were 4, RoB_the_SloB - 6 x 1, donny34 - 3 x 2, RoB_the_SloB - 4 x 2, donny34 - 6 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-6 ) .. there was 1, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, donny34 - 4 x 2, RoB_the_SloB - 4 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-4 ) .. there were 3, donny34 - 6 x 1, RoB_the_SloB - 2 x 2, donny34 - 2 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-2 ) .. there was 1, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1, RoB_the_SloB - 3 x 1, donny34 - 6 x 1, RoB_the_SloB - 1 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-1 ) .. there were 2, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1, RoB_the_SloB - 6 x 1, donny34 - 6 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-6 ) .. there were 2, RoB_the_SloB - 2 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-2 ) .. there were 0",funnode-liars-dice-61488.txt,61488
+[Site www.FunNode.com],funnode-liars-dice-61489.txt,61489
+[P0 doubleyo7],funnode-liars-dice-61489.txt,61489
+[P0-Elo 0.0],funnode-liars-dice-61489.txt,61489
+[P1 RoB_the_SloB],funnode-liars-dice-61489.txt,61489
+[P1-Elo 0.0],funnode-liars-dice-61489.txt,61489
+[P2 donny34],funnode-liars-dice-61489.txt,61489
+[P2-Elo 0.0],funnode-liars-dice-61489.txt,61489
+[Timer Fischer],funnode-liars-dice-61489.txt,61489
+[Timers -1 + 0],funnode-liars-dice-61489.txt,61489
+[Re-roll false],funnode-liars-dice-61489.txt,61489
+[Spot On false],funnode-liars-dice-61489.txt,61489
+[Wild Ones false],funnode-liars-dice-61489.txt,61489
+[First to play loser],funnode-liars-dice-61489.txt,61489
+[Loser loses 1],funnode-liars-dice-61489.txt,61489
+"[Result donny34 wins in 13 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61489.txt,61489
+"doubleyo7 - 1 x 4, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 2, RoB_the_SloB - 2 x 2, donny34 - 6 x 2, doubleyo7 - 4 x 4, RoB_the_SloB - 6 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 2, RoB_the_SloB - 5 x 2, donny34 - 1 x 3, doubleyo7 - 2 x 3, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 6 x 1, donny34 - 6 x 2, doubleyo7 - 1 x 3, RoB_the_SloB - 1 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-1 ) .. there were 5, donny34 - 5 x 2, doubleyo7 - 3 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-3 ) .. there were 3, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 3, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-6 ) .. there were 2, donny34 - 6 x 1, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 3 x 1, donny34 - 6 x 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 3, donny34 - 6 x 1, doubleyo7 - 1 x 2, donny34 - 2 x 2, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there were 2, donny34 - 4 x 1, doubleyo7 - 6 x 1, donny34 - 6 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-6 ) .. there were 2, doubleyo7 - 5 x 1, donny34 - 5 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-5 ) .. there were 2, doubleyo7 - 4 x 1, liar, donny34 accuses doubleyo7 ( 1 x d-4 ) .. there were 0",funnode-liars-dice-61489.txt,61489
+[Site www.FunNode.com],funnode-liars-dice-61490.txt,61490
+[P0 donny34],funnode-liars-dice-61490.txt,61490
+[P0-Elo 0.0],funnode-liars-dice-61490.txt,61490
+[P1 RoB_the_SloB],funnode-liars-dice-61490.txt,61490
+[P1-Elo 0.0],funnode-liars-dice-61490.txt,61490
+[P2 doubleyo7],funnode-liars-dice-61490.txt,61490
+[P2-Elo 0.0],funnode-liars-dice-61490.txt,61490
+[Timer Fischer],funnode-liars-dice-61490.txt,61490
+[Timers -1 + 0],funnode-liars-dice-61490.txt,61490
+[Re-roll false],funnode-liars-dice-61490.txt,61490
+[Spot On false],funnode-liars-dice-61490.txt,61490
+[Wild Ones false],funnode-liars-dice-61490.txt,61490
+[First to play loser],funnode-liars-dice-61490.txt,61490
+[Loser loses 1],funnode-liars-dice-61490.txt,61490
+"[Result RoB_the_SloB wins in 12 rounds. donny34, doubleyo7 lose]",funnode-liars-dice-61490.txt,61490
+"donny34 - 5 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 5 x 3, donny34 - 5 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-5 ) .. there were 3, donny34 - 6 x 2, RoB_the_SloB - 2 x 3, doubleyo7 - 2 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-2 ) .. there were 5, donny34 - 3 x 2, RoB_the_SloB - 4 x 2, doubleyo7 - 2 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-2 ) .. there were 3, donny34 - 4 x 2, RoB_the_SloB - 5 x 2, doubleyo7 - 4 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-4 ) .. there were 3, doubleyo7 - 6 x 2, donny34 - 6 x 3, RoB_the_SloB - 3 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 4, doubleyo7 - 3 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-3 ) .. there were 2, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there was 1, doubleyo7 - 4 x 2, donny34 - 4 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-4 ) .. there were 3, RoB_the_SloB - 4 x 1, doubleyo7 - 2 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-2 ) .. there were 2, donny34 - 6 x 1, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 6 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-6 ) .. there was 1, donny34 - 6 x 1, RoB_the_SloB - 4 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 2",funnode-liars-dice-61490.txt,61490
+[Site www.FunNode.com],funnode-liars-dice-61491.txt,61491
+[P0 donny34],funnode-liars-dice-61491.txt,61491
+[P0-Elo 0.0],funnode-liars-dice-61491.txt,61491
+[P1 doubleyo7],funnode-liars-dice-61491.txt,61491
+[P1-Elo 0.0],funnode-liars-dice-61491.txt,61491
+[P2 RoB_the_SloB],funnode-liars-dice-61491.txt,61491
+[P2-Elo 0.0],funnode-liars-dice-61491.txt,61491
+[Timer Fischer],funnode-liars-dice-61491.txt,61491
+[Timers -1 + 0],funnode-liars-dice-61491.txt,61491
+[Re-roll false],funnode-liars-dice-61491.txt,61491
+[Spot On false],funnode-liars-dice-61491.txt,61491
+[Wild Ones false],funnode-liars-dice-61491.txt,61491
+[First to play loser],funnode-liars-dice-61491.txt,61491
+[Loser loses 1],funnode-liars-dice-61491.txt,61491
+"[Result donny34 wins in 11 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61491.txt,61491
+"donny34 - 2 x 3, doubleyo7 - 6 x 3, RoB_the_SloB - 2 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 2, RoB_the_SloB - 5 x 2, donny34 - 2 x 3, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 4, RoB_the_SloB - 3 x 2, donny34 - 3 x 4, doubleyo7 - 3 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-3 ) .. there were 5, RoB_the_SloB - 3 x 2, donny34 - 5 x 2, doubleyo7 - 6 x 3, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there was 1, RoB_the_SloB - 2 x 1, donny34 - 6 x 2, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 3, donny34 - 5 x 2, doubleyo7 - 2 x 4, donny34 - 4 x 5, liar, doubleyo7 accuses donny34 ( 5 x d-4 ) .. there was 1, donny34 - 4 x 1, doubleyo7 - 6 x 2, donny34 - 6 x 3, doubleyo7 - 6 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-6 ) .. there were 3, doubleyo7 - 1 x 2, donny34 - 1 x 3, doubleyo7 - 5 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-5 ) .. there was 1, doubleyo7 - 6 x 1, donny34 - 6 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-6 ) .. there were 2, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there was 1, doubleyo7 - 4 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-4 ) .. there was 1",funnode-liars-dice-61491.txt,61491
+[Site www.FunNode.com],funnode-liars-dice-61492.txt,61492
+[P0 RoB_the_SloB],funnode-liars-dice-61492.txt,61492
+[P0-Elo 0.0],funnode-liars-dice-61492.txt,61492
+[P1 donny34],funnode-liars-dice-61492.txt,61492
+[P1-Elo 0.0],funnode-liars-dice-61492.txt,61492
+[P2 doubleyo7],funnode-liars-dice-61492.txt,61492
+[P2-Elo 0.0],funnode-liars-dice-61492.txt,61492
+[Timer Fischer],funnode-liars-dice-61492.txt,61492
+[Timers -1 + 0],funnode-liars-dice-61492.txt,61492
+[Re-roll false],funnode-liars-dice-61492.txt,61492
+[Spot On false],funnode-liars-dice-61492.txt,61492
+[Wild Ones false],funnode-liars-dice-61492.txt,61492
+[First to play loser],funnode-liars-dice-61492.txt,61492
+[Loser loses 1],funnode-liars-dice-61492.txt,61492
+"[Result donny34 wins in 13 rounds. RoB_the_SloB, doubleyo7 lose]",funnode-liars-dice-61492.txt,61492
+"RoB_the_SloB - 3 x 2, donny34 - 6 x 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 3, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 6, RoB_the_SloB - 1 x 3, donny34 - 6 x 3, doubleyo7 - 6 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-6 ) .. there were 4, RoB_the_SloB - 6 x 2, donny34 - 5 x 3, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 4, RoB_the_SloB - 6 x 1, donny34 - 4 x 2, doubleyo7 - 2 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-2 ) .. there were 3, donny34 - 6 x 1, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there were 2, donny34 - 2 x 1, doubleyo7 - 5 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-5 ) .. there were 3, donny34 - 6 x 1, doubleyo7 - 1 x 2, donny34 - 4 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-4 ) .. there were 2, doubleyo7 - 1 x 2, donny34 - 4 x 2, doubleyo7 - 4 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-4 ) .. there were 2, doubleyo7 - 6 x 1, donny34 - 3 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-3 ) .. there were 2, doubleyo7 - 6 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-6 ) .. there were 2, donny34 - 3 x 2, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there was 1, doubleyo7 - 5 x 1, donny34 - 6 x 1, doubleyo7 - 4 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-4 ) .. there was 1",funnode-liars-dice-61492.txt,61492
+[Site www.FunNode.com],funnode-liars-dice-61493.txt,61493
+[P0 doubleyo7],funnode-liars-dice-61493.txt,61493
+[P0-Elo 0.0],funnode-liars-dice-61493.txt,61493
+[P1 RoB_the_SloB],funnode-liars-dice-61493.txt,61493
+[P1-Elo 0.0],funnode-liars-dice-61493.txt,61493
+[P2 donny34],funnode-liars-dice-61493.txt,61493
+[P2-Elo 0.0],funnode-liars-dice-61493.txt,61493
+[Timer Fischer],funnode-liars-dice-61493.txt,61493
+[Timers -1 + 0],funnode-liars-dice-61493.txt,61493
+[Re-roll false],funnode-liars-dice-61493.txt,61493
+[Spot On false],funnode-liars-dice-61493.txt,61493
+[Wild Ones false],funnode-liars-dice-61493.txt,61493
+[First to play loser],funnode-liars-dice-61493.txt,61493
+[Loser loses 1],funnode-liars-dice-61493.txt,61493
+"[Result RoB_the_SloB wins in 12 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-61493.txt,61493
+"doubleyo7 - 4 x 4, RoB_the_SloB - 4 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-4 ) .. there were 5, donny34 - 5 x 3, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 3, doubleyo7 - 5 x 3, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 4, donny34 - 6 x 2, doubleyo7 - 5 x 3, RoB_the_SloB - 5 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-5 ) .. there were 4, donny34 - 6 x 1, doubleyo7 - 1 x 3, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, donny34 - 2 x 1, doubleyo7 - 3 x 3, RoB_the_SloB - 5 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 2, RoB_the_SloB - 3 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-3 ) .. there were 2, doubleyo7 - 2 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-2 ) .. there were 3, RoB_the_SloB - 6 x 1, doubleyo7 - 6 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-6 ) .. there was 1, doubleyo7 - 4 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-4 ) .. there was 1, doubleyo7 - 4 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-4 ) .. there was 1, doubleyo7 - 6 x 1, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2",funnode-liars-dice-61493.txt,61493
+[Site www.FunNode.com],funnode-liars-dice-61494.txt,61494
+[P0 donny34],funnode-liars-dice-61494.txt,61494
+[P0-Elo 0.0],funnode-liars-dice-61494.txt,61494
+[P1 doubleyo7],funnode-liars-dice-61494.txt,61494
+[P1-Elo 0.0],funnode-liars-dice-61494.txt,61494
+[P2 RoB_the_SloB],funnode-liars-dice-61494.txt,61494
+[P2-Elo 0.0],funnode-liars-dice-61494.txt,61494
+[Timer Fischer],funnode-liars-dice-61494.txt,61494
+[Timers -1 + 0],funnode-liars-dice-61494.txt,61494
+[Re-roll false],funnode-liars-dice-61494.txt,61494
+[Spot On false],funnode-liars-dice-61494.txt,61494
+[Wild Ones false],funnode-liars-dice-61494.txt,61494
+[First to play loser],funnode-liars-dice-61494.txt,61494
+[Loser loses 1],funnode-liars-dice-61494.txt,61494
+"[Result donny34 wins in 11 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61494.txt,61494
+"donny34 - 5 x 3, doubleyo7 - 4 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-4 ) .. there were 3, doubleyo7 - 5 x 3, RoB_the_SloB - 4 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 3, RoB_the_SloB - 4 x 2, donny34 - 6 x 2, doubleyo7 - 4 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-4 ) .. there were 4, RoB_the_SloB - 3 x 2, donny34 - 3 x 3, doubleyo7 - 3 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-3 ) .. there were 3, doubleyo7 - 5 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-5 ) .. there were 4, RoB_the_SloB - 5 x 1, donny34 - 6 x 1, doubleyo7 - 6 x 2, RoB_the_SloB - 6 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 2 x 1, donny34 - 6 x 2, doubleyo7 - 6 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-6 ) .. there were 3, donny34 - 6 x 1, doubleyo7 - 6 x 2, donny34 - 6 x 3, doubleyo7 - 6 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-6 ) .. there were 3, doubleyo7 - 6 x 1, donny34 - 1 x 2, doubleyo7 - 2 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-2 ) .. there were 2, donny34 - 6 x 1, doubleyo7 - 1 x 2, donny34 - 2 x 2, doubleyo7 - 1 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-1 ) .. there were 2, doubleyo7 - 5 x 1, donny34 - 1 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-1 ) .. there were 2",funnode-liars-dice-61494.txt,61494
+[Site www.FunNode.com],funnode-liars-dice-61495.txt,61495
+[P0 doubleyo7],funnode-liars-dice-61495.txt,61495
+[P0-Elo 0.0],funnode-liars-dice-61495.txt,61495
+[P1 donny34],funnode-liars-dice-61495.txt,61495
+[P1-Elo 0.0],funnode-liars-dice-61495.txt,61495
+[P2 RoB_the_SloB],funnode-liars-dice-61495.txt,61495
+[P2-Elo 0.0],funnode-liars-dice-61495.txt,61495
+[Timer Fischer],funnode-liars-dice-61495.txt,61495
+[Timers -1 + 0],funnode-liars-dice-61495.txt,61495
+[Re-roll false],funnode-liars-dice-61495.txt,61495
+[Spot On false],funnode-liars-dice-61495.txt,61495
+[Wild Ones false],funnode-liars-dice-61495.txt,61495
+[First to play loser],funnode-liars-dice-61495.txt,61495
+[Loser loses 1],funnode-liars-dice-61495.txt,61495
+"[Result donny34 wins in 13 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61495.txt,61495
+"doubleyo7 - 4 x 4, donny34 - 4 x 5, liar, RoB_the_SloB accuses donny34 ( 5 x d-4 ) .. there were 5, RoB_the_SloB - 3 x 2, doubleyo7 - 6 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-6 ) .. there were 6, donny34 - 4 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 6 x 3, donny34 - 6 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-6 ) .. there were 4, RoB_the_SloB - 2 x 2, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 4 x 2, donny34 - 1 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-1 ) .. there were 3, RoB_the_SloB - 6 x 1, doubleyo7 - 1 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-1 ) .. there were 2, doubleyo7 - 5 x 2, donny34 - 6 x 2, RoB_the_SloB - 2 x 3, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 3, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, doubleyo7 - 6 x 2, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 2, donny34 - 5 x 2, RoB_the_SloB - 5 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 3, doubleyo7 - 5 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-5 ) .. there was 1, doubleyo7 - 5 x 2, donny34 - 5 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-5 ) .. there were 4, RoB_the_SloB - 5 x 1, doubleyo7 - 3 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-3 ) .. there was 1, donny34 - 5 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-5 ) .. there were 2",funnode-liars-dice-61495.txt,61495
+[Site www.FunNode.com],funnode-liars-dice-61496.txt,61496
+[P0 doubleyo7],funnode-liars-dice-61496.txt,61496
+[P0-Elo 0.0],funnode-liars-dice-61496.txt,61496
+[P1 RoB_the_SloB],funnode-liars-dice-61496.txt,61496
+[P1-Elo 0.0],funnode-liars-dice-61496.txt,61496
+[P2 donny34],funnode-liars-dice-61496.txt,61496
+[P2-Elo 0.0],funnode-liars-dice-61496.txt,61496
+[Timer Fischer],funnode-liars-dice-61496.txt,61496
+[Timers -1 + 0],funnode-liars-dice-61496.txt,61496
+[Re-roll false],funnode-liars-dice-61496.txt,61496
+[Spot On false],funnode-liars-dice-61496.txt,61496
+[Wild Ones false],funnode-liars-dice-61496.txt,61496
+[First to play loser],funnode-liars-dice-61496.txt,61496
+[Loser loses 1],funnode-liars-dice-61496.txt,61496
+"[Result donny34 wins in 11 rounds. doubleyo7, RoB_the_SloB lose]",funnode-liars-dice-61496.txt,61496
+"doubleyo7 - 1 x 4, RoB_the_SloB - 6 x 4, donny34 - 6 x 5, liar, doubleyo7 accuses donny34 ( 5 x d-6 ) .. there were 5, doubleyo7 - 5 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-5 ) .. there were 4, RoB_the_SloB - 4 x 2, donny34 - 6 x 2, doubleyo7 - 4 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-4 ) .. there were 2, doubleyo7 - 3 x 3, RoB_the_SloB - 4 x 3, donny34 - 4 x 4, doubleyo7 - 4 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-4 ) .. there were 5, RoB_the_SloB - 3 x 2, donny34 - 4 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-4 ) .. there were 3, doubleyo7 - 6 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-6 ) .. there were 2, RoB_the_SloB - 2 x 2, donny34 - 2 x 3, doubleyo7 - 2 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-2 ) .. there were 4, RoB_the_SloB - 6 x 1, donny34 - 5 x 3, doubleyo7 - 2 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-2 ) .. there was 1, doubleyo7 - 4 x 2, RoB_the_SloB - 4 x 3, donny34 - 4 x 4, liar, doubleyo7 accuses donny34 ( 4 x d-4 ) .. there were 3, donny34 - 6 x 1, doubleyo7 - 6 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-6 ) .. there were 2, donny34 - 5 x 1, doubleyo7 - 4 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-4 ) .. there was 1",funnode-liars-dice-61496.txt,61496
+[Site www.FunNode.com],funnode-liars-dice-61497.txt,61497
+[P0 doubleyo7],funnode-liars-dice-61497.txt,61497
+[P0-Elo 0.0],funnode-liars-dice-61497.txt,61497
+[P1 RoB_the_SloB],funnode-liars-dice-61497.txt,61497
+[P1-Elo 0.0],funnode-liars-dice-61497.txt,61497
+[P2 donny34],funnode-liars-dice-61497.txt,61497
+[P2-Elo 0.0],funnode-liars-dice-61497.txt,61497
+[Timer Fischer],funnode-liars-dice-61497.txt,61497
+[Timers -1 + 0],funnode-liars-dice-61497.txt,61497
+[Re-roll false],funnode-liars-dice-61497.txt,61497
+[Spot On false],funnode-liars-dice-61497.txt,61497
+[Wild Ones false],funnode-liars-dice-61497.txt,61497
+[First to play loser],funnode-liars-dice-61497.txt,61497
+[Loser loses 1],funnode-liars-dice-61497.txt,61497
+"[Result RoB_the_SloB wins in 13 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-61497.txt,61497
+"doubleyo7 - 4 x 4, RoB_the_SloB - 6 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 3, RoB_the_SloB - 1 x 2, donny34 - 1 x 3, doubleyo7 - 1 x 4, RoB_the_SloB - 3 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 5, donny34 - 5 x 2, doubleyo7 - 5 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-5 ) .. there were 3, doubleyo7 - 4 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-4 ) .. there were 3, doubleyo7 - 5 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-5 ) .. there were 2, doubleyo7 - 4 x 2, RoB_the_SloB - 3 x 3, donny34 - 4 x 3, doubleyo7 - 4 x 4, liar, RoB_the_SloB accuses doubleyo7 ( 4 x d-4 ) .. there were 4, RoB_the_SloB - 1 x 1, donny34 - 6 x 2, liar, doubleyo7 accuses donny34 ( 2 x d-6 ) .. there were 2, doubleyo7 - 4 x 2, RoB_the_SloB - 2 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-2 ) .. there were 3, donny34 - 5 x 1, doubleyo7 - 1 x 2, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, liar, doubleyo7 accuses donny34 ( 3 x d-6 ) .. there were 3, RoB_the_SloB - 6 x 1, donny34 - 6 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-6 ) .. there were 2, donny34 - 4 x 1, RoB_the_SloB - 5 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-5 ) .. there were 0, RoB_the_SloB - 4 x 1, donny34 - 4 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-4 ) .. there was 1, donny34 - 5 x 1, RoB_the_SloB - 5 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-5 ) .. there were 2",funnode-liars-dice-61497.txt,61497
+[Site www.FunNode.com],funnode-liars-dice-61498.txt,61498
+[P0 RoB_the_SloB],funnode-liars-dice-61498.txt,61498
+[P0-Elo 0.0],funnode-liars-dice-61498.txt,61498
+[P1 doubleyo7],funnode-liars-dice-61498.txt,61498
+[P1-Elo 0.0],funnode-liars-dice-61498.txt,61498
+[P2 donny34],funnode-liars-dice-61498.txt,61498
+[P2-Elo 0.0],funnode-liars-dice-61498.txt,61498
+[Timer Fischer],funnode-liars-dice-61498.txt,61498
+[Timers -1 + 0],funnode-liars-dice-61498.txt,61498
+[Re-roll false],funnode-liars-dice-61498.txt,61498
+[Spot On false],funnode-liars-dice-61498.txt,61498
+[Wild Ones false],funnode-liars-dice-61498.txt,61498
+[First to play loser],funnode-liars-dice-61498.txt,61498
+[Loser loses 1],funnode-liars-dice-61498.txt,61498
+"[Result RoB_the_SloB wins in 12 rounds. doubleyo7, donny34 lose]",funnode-liars-dice-61498.txt,61498
+"RoB_the_SloB - 4 x 2, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 2, doubleyo7 - 6 x 3, donny34 - 6 x 4, RoB_the_SloB - 6 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-6 ) .. there were 5, doubleyo7 - 6 x 3, donny34 - 6 x 4, RoB_the_SloB - 6 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-6 ) .. there were 4, RoB_the_SloB - 4 x 2, doubleyo7 - 4 x 3, donny34 - 5 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-5 ) .. there were 3, RoB_the_SloB - 3 x 2, doubleyo7 - 4 x 2, donny34 - 6 x 2, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, doubleyo7 - 2 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-2 ) .. there were 2, donny34 - 4 x 1, RoB_the_SloB - 5 x 1, donny34 - 5 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-5 ) .. there were 2, donny34 - 2 x 1, RoB_the_SloB - 3 x 1, donny34 - 5 x 2, RoB_the_SloB - 5 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-5 ) .. there were 3, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there were 0, donny34 - 6 x 1, RoB_the_SloB - 5 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-5 ) .. there were 2, donny34 - 2 x 1, RoB_the_SloB - 3 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-3 ) .. there were 2",funnode-liars-dice-61498.txt,61498
+[Site www.FunNode.com],funnode-liars-dice-61543.txt,61543
+[P0 donny34],funnode-liars-dice-61543.txt,61543
+[P0-Elo 0.0],funnode-liars-dice-61543.txt,61543
+[P1 briantran],funnode-liars-dice-61543.txt,61543
+[P1-Elo 0.0],funnode-liars-dice-61543.txt,61543
+[P2 rachel],funnode-liars-dice-61543.txt,61543
+[P2-Elo 0.0],funnode-liars-dice-61543.txt,61543
+[P3 RoB_the_SloB],funnode-liars-dice-61543.txt,61543
+[P3-Elo 0.0],funnode-liars-dice-61543.txt,61543
+[P4 doubleyo7],funnode-liars-dice-61543.txt,61543
+[P4-Elo 0.0],funnode-liars-dice-61543.txt,61543
+[Timer Fischer],funnode-liars-dice-61543.txt,61543
+[Timers -1 + 0],funnode-liars-dice-61543.txt,61543
+[Re-roll false],funnode-liars-dice-61543.txt,61543
+[Spot On false],funnode-liars-dice-61543.txt,61543
+[Wild Ones false],funnode-liars-dice-61543.txt,61543
+[First to play loser],funnode-liars-dice-61543.txt,61543
+[Loser loses 1],funnode-liars-dice-61543.txt,61543
+"[Result doubleyo7 wins in 22 rounds. donny34, briantran, rachel, RoB_the_SloB lose]",funnode-liars-dice-61543.txt,61543
+"donny34 - 4 x 4, briantran - 4 x 5, rachel - 1 x 6, RoB_the_SloB - 4 x 6, liar, doubleyo7 accuses RoB_the_SloB ( 6 x d-4 ) .. there were 2, RoB_the_SloB - 2 x 4, doubleyo7 - 4 x 4, donny34 - 6 x 4, briantran - 5 x 5, rachel - 6 x 5, liar, RoB_the_SloB accuses rachel ( 5 x d-6 ) .. there were 6, RoB_the_SloB - 6 x 3, doubleyo7 - 5 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-5 ) .. there were 6, donny34 - 1 x 4, liar, briantran accuses donny34 ( 4 x d-1 ) .. there were 4, briantran - 1 x 4, rachel - 1 x 5, liar, RoB_the_SloB accuses rachel ( 5 x d-1 ) .. there were 6, RoB_the_SloB - 6 x 4, doubleyo7 - 6 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-6 ) .. there were 4, doubleyo7 - 5 x 4, donny34 - 5 x 5, briantran - 6 x 5, rachel - 4 x 6, liar, RoB_the_SloB accuses rachel ( 6 x d-4 ) .. there were 2, rachel - 2 x 1, RoB_the_SloB - 3 x 1, doubleyo7 - 6 x 3, donny34 - 6 x 4, liar, briantran accuses donny34 ( 4 x d-6 ) .. there were 4, briantran - 3 x 3, rachel - 2 x 5, liar, RoB_the_SloB accuses rachel ( 5 x d-2 ) .. there were 4, rachel - 4 x 2, RoB_the_SloB - 5 x 2, doubleyo7 - 6 x 3, donny34 - 6 x 4, briantran - 6 x 5, liar, rachel accuses briantran ( 5 x d-6 ) .. there were 4, briantran - 4 x 3, rachel - 2 x 4, RoB_the_SloB - 4 x 4, doubleyo7 - 6 x 4, donny34 - 6 x 5, liar, briantran accuses donny34 ( 5 x d-6 ) .. there were 4, donny34 - 3 x 3, briantran - 3 x 4, liar, rachel accuses briantran ( 4 x d-3 ) .. there were 3, briantran - 2 x 2, liar, rachel accuses briantran ( 2 x d-2 ) .. there were 4, rachel - 3 x 1, RoB_the_SloB - 4 x 1, doubleyo7 - 4 x 2, donny34 - 5 x 2, briantran - 4 x 3, liar, rachel accuses briantran ( 3 x d-4 ) .. there were 4, rachel - 4 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 5 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-5 ) .. there were 4, donny34 - 3 x 2, briantran - 3 x 3, liar, rachel accuses briantran ( 3 x d-3 ) .. there were 4, RoB_the_SloB - 6 x 1, doubleyo7 - 1 x 2, donny34 - 6 x 2, briantran - 4 x 3, liar, RoB_the_SloB accuses briantran ( 3 x d-4 ) .. there were 2, RoB_the_SloB - 6 x 2, doubleyo7 - 3 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-3 ) .. there were 3, donny34 - 6 x 1, RoB_the_SloB - 1 x 2, doubleyo7 - 1 x 3, donny34 - 1 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-1 ) .. there were 4, RoB_the_SloB - 5 x 1, doubleyo7 - 4 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-4 ) .. there was 1, doubleyo7 - 3 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-3 ) .. there were 2, RoB_the_SloB - 4 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-4 ) .. there were 0",funnode-liars-dice-61543.txt,61543
+[Site www.FunNode.com],funnode-liars-dice-61544.txt,61544
+[P0 briantran],funnode-liars-dice-61544.txt,61544
+[P0-Elo 0.0],funnode-liars-dice-61544.txt,61544
+[P1 doubleyo7],funnode-liars-dice-61544.txt,61544
+[P1-Elo 0.0],funnode-liars-dice-61544.txt,61544
+[P2 RoB_the_SloB],funnode-liars-dice-61544.txt,61544
+[P2-Elo 0.0],funnode-liars-dice-61544.txt,61544
+[P3 rachel],funnode-liars-dice-61544.txt,61544
+[P3-Elo 0.0],funnode-liars-dice-61544.txt,61544
+[P4 donny34],funnode-liars-dice-61544.txt,61544
+[P4-Elo 0.0],funnode-liars-dice-61544.txt,61544
+[Timer Fischer],funnode-liars-dice-61544.txt,61544
+[Timers -1 + 0],funnode-liars-dice-61544.txt,61544
+[Re-roll false],funnode-liars-dice-61544.txt,61544
+[Spot On false],funnode-liars-dice-61544.txt,61544
+[Wild Ones false],funnode-liars-dice-61544.txt,61544
+[First to play loser],funnode-liars-dice-61544.txt,61544
+[Loser loses 1],funnode-liars-dice-61544.txt,61544
+"[Result RoB_the_SloB wins in 23 rounds. briantran, doubleyo7, rachel, donny34 lose]",funnode-liars-dice-61544.txt,61544
+"briantran - 2 x 2, doubleyo7 - 5 x 4, RoB_the_SloB - 3 x 5, rachel - 2 x 6, liar, donny34 accuses rachel ( 6 x d-2 ) .. there were 8, donny34 - 6 x 4, briantran - 6 x 5, liar, doubleyo7 accuses briantran ( 5 x d-6 ) .. there were 4, briantran - 2 x 4, doubleyo7 - 5 x 5, liar, RoB_the_SloB accuses doubleyo7 ( 5 x d-5 ) .. there were 6, RoB_the_SloB - 6 x 2, rachel - 6 x 3, donny34 - 5 x 4, briantran - 5 x 5, doubleyo7 - 6 x 6, liar, RoB_the_SloB accuses doubleyo7 ( 6 x d-6 ) .. there were 7, RoB_the_SloB - 4 x 3, rachel - 6 x 4, donny34 - 4 x 5, briantran - 6 x 5, doubleyo7 - 4 x 6, liar, RoB_the_SloB accuses doubleyo7 ( 6 x d-4 ) .. there were 5, doubleyo7 - 6 x 4, RoB_the_SloB - 6 x 5, rachel - 1 x 6, liar, donny34 accuses rachel ( 6 x d-1 ) .. there were 3, rachel - 5 x 5, liar, donny34 accuses rachel ( 5 x d-5 ) .. there were 5, donny34 - 6 x 2, briantran - 6 x 3, doubleyo7 - 6 x 4, RoB_the_SloB - 4 x 5, rachel - 4 x 6, liar, donny34 accuses rachel ( 6 x d-4 ) .. there were 6, donny34 - 6 x 3, briantran - 6 x 4, liar, doubleyo7 accuses briantran ( 4 x d-6 ) .. there were 7, doubleyo7 - 4 x 4, RoB_the_SloB - 4 x 5, rachel - 2 x 6, liar, donny34 accuses rachel ( 6 x d-2 ) .. there were 5, rachel - 3 x 4, liar, donny34 accuses rachel ( 4 x d-3 ) .. there were 5, donny34 - 6 x 2, briantran - 6 x 3, liar, doubleyo7 accuses briantran ( 3 x d-6 ) .. there was 1, briantran - 1 x 2, doubleyo7 - 5 x 3, RoB_the_SloB - 6 x 3, liar, rachel accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 6 x 2, rachel - 1 x 3, donny34 - 6 x 3, liar, briantran accuses donny34 ( 3 x d-6 ) .. there were 3, briantran - 1 x 2, doubleyo7 - 3 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-3 ) .. there were 2, doubleyo7 - 3 x 2, RoB_the_SloB - 6 x 2, rachel - 6 x 3, liar, donny34 accuses rachel ( 3 x d-6 ) .. there were 2, rachel - 6 x 2, liar, donny34 accuses rachel ( 2 x d-6 ) .. there were 2, briantran - 2 x 1, doubleyo7 - 2 x 2, RoB_the_SloB - 4 x 2, rachel - 4 x 3, liar, briantran accuses rachel ( 3 x d-4 ) .. there were 2, rachel - 5 x 2, liar, briantran accuses rachel ( 2 x d-5 ) .. there were 2, briantran - 5 x 2, liar, doubleyo7 accuses briantran ( 2 x d-5 ) .. there were 3, doubleyo7 - 2 x 2, RoB_the_SloB - 3 x 2, liar, rachel accuses RoB_the_SloB ( 2 x d-3 ) .. there were 2, briantran - 2 x 1, doubleyo7 - 2 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-2 ) .. there was 1, RoB_the_SloB - 6 x 1, briantran - 1 x 2, liar, RoB_the_SloB accuses briantran ( 2 x d-1 ) .. there was 1",funnode-liars-dice-61544.txt,61544
+[Site www.FunNode.com],funnode-liars-dice-61545.txt,61545
+[P0 rachel],funnode-liars-dice-61545.txt,61545
+[P0-Elo 0.0],funnode-liars-dice-61545.txt,61545
+[P1 briantran],funnode-liars-dice-61545.txt,61545
+[P1-Elo 0.0],funnode-liars-dice-61545.txt,61545
+[P2 RoB_the_SloB],funnode-liars-dice-61545.txt,61545
+[P2-Elo 0.0],funnode-liars-dice-61545.txt,61545
+[P3 doubleyo7],funnode-liars-dice-61545.txt,61545
+[P3-Elo 0.0],funnode-liars-dice-61545.txt,61545
+[P4 donny34],funnode-liars-dice-61545.txt,61545
+[P4-Elo 0.0],funnode-liars-dice-61545.txt,61545
+[Timer Fischer],funnode-liars-dice-61545.txt,61545
+[Timers -1 + 0],funnode-liars-dice-61545.txt,61545
+[Re-roll false],funnode-liars-dice-61545.txt,61545
+[Spot On false],funnode-liars-dice-61545.txt,61545
+[Wild Ones false],funnode-liars-dice-61545.txt,61545
+[First to play loser],funnode-liars-dice-61545.txt,61545
+[Loser loses 1],funnode-liars-dice-61545.txt,61545
+"[Result RoB_the_SloB wins in 24 rounds. rachel, briantran, doubleyo7, donny34 lose]",funnode-liars-dice-61545.txt,61545
+"rachel - 2 x 4, briantran - 2 x 5, RoB_the_SloB - 5 x 5, doubleyo7 - 6 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-6 ) .. there were 3, doubleyo7 - 6 x 5, donny34 - 6 x 6, liar, rachel accuses donny34 ( 6 x d-6 ) .. there were 5, donny34 - 4 x 4, rachel - 6 x 4, briantran - 4 x 5, liar, RoB_the_SloB accuses briantran ( 5 x d-4 ) .. there were 2, briantran - 5 x 4, RoB_the_SloB - 6 x 4, doubleyo7 - 4 x 5, donny34 - 6 x 5, liar, rachel accuses donny34 ( 5 x d-6 ) .. there were 4, donny34 - 6 x 3, rachel - 3 x 4, briantran - 5 x 4, RoB_the_SloB - 3 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-3 ) .. there were 5, doubleyo7 - 6 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-6 ) .. there were 8, donny34 - 6 x 3, liar, rachel accuses donny34 ( 3 x d-6 ) .. there were 6, rachel - 3 x 3, briantran - 2 x 4, liar, RoB_the_SloB accuses briantran ( 4 x d-2 ) .. there were 4, RoB_the_SloB - 6 x 2, doubleyo7 - 6 x 3, liar, donny34 accuses doubleyo7 ( 3 x d-6 ) .. there were 3, donny34 - 5 x 2, liar, rachel accuses donny34 ( 2 x d-5 ) .. there was 1, rachel - 1 x 3, briantran - 2 x 3, liar, RoB_the_SloB accuses briantran ( 3 x d-2 ) .. there were 2, briantran - 4 x 2, RoB_the_SloB - 6 x 2, doubleyo7 - 2 x 3, rachel - 6 x 3, liar, briantran accuses rachel ( 3 x d-6 ) .. there were 3, briantran - 4 x 2, RoB_the_SloB - 5 x 2, doubleyo7 - 1 x 3, liar, rachel accuses doubleyo7 ( 3 x d-1 ) .. there were 4, rachel - 5 x 2, briantran - 6 x 2, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 2, RoB_the_SloB - 3 x 2, doubleyo7 - 6 x 3, liar, rachel accuses doubleyo7 ( 3 x d-6 ) .. there were 3, rachel - 5 x 2, liar, briantran accuses rachel ( 2 x d-5 ) .. there were 2, briantran - 2 x 1, RoB_the_SloB - 6 x 1, doubleyo7 - 4 x 2, rachel - 2 x 3, liar, briantran accuses rachel ( 3 x d-2 ) .. there were 3, RoB_the_SloB - 6 x 1, doubleyo7 - 2 x 2, rachel - 3 x 2, RoB_the_SloB - 2 x 3, doubleyo7 - 2 x 4, liar, rachel accuses doubleyo7 ( 4 x d-2 ) .. there were 4, rachel - 6 x 1, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, doubleyo7 - 6 x 1, liar, rachel accuses doubleyo7 ( 1 x d-6 ) .. there were 2, RoB_the_SloB - 1 x 1, doubleyo7 - 6 x 1, RoB_the_SloB - 2 x 2, doubleyo7 - 2 x 3, liar, RoB_the_SloB accuses doubleyo7 ( 3 x d-2 ) .. there were 3, RoB_the_SloB - 6 x 1, doubleyo7 - 5 x 2, RoB_the_SloB - 6 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 3, doubleyo7 - 4 x 1, RoB_the_SloB - 4 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-4 ) .. there was 1, RoB_the_SloB - 4 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-4 ) .. there was 1",funnode-liars-dice-61545.txt,61545
+[Site www.FunNode.com],funnode-liars-dice-61546.txt,61546
+[P0 rachel],funnode-liars-dice-61546.txt,61546
+[P0-Elo 0.0],funnode-liars-dice-61546.txt,61546
+[P1 doubleyo7],funnode-liars-dice-61546.txt,61546
+[P1-Elo 0.0],funnode-liars-dice-61546.txt,61546
+[P2 briantran],funnode-liars-dice-61546.txt,61546
+[P2-Elo 0.0],funnode-liars-dice-61546.txt,61546
+[P3 RoB_the_SloB],funnode-liars-dice-61546.txt,61546
+[P3-Elo 0.0],funnode-liars-dice-61546.txt,61546
+[P4 donny34],funnode-liars-dice-61546.txt,61546
+[P4-Elo 0.0],funnode-liars-dice-61546.txt,61546
+[Timer Fischer],funnode-liars-dice-61546.txt,61546
+[Timers -1 + 0],funnode-liars-dice-61546.txt,61546
+[Re-roll false],funnode-liars-dice-61546.txt,61546
+[Spot On false],funnode-liars-dice-61546.txt,61546
+[Wild Ones false],funnode-liars-dice-61546.txt,61546
+[First to play loser],funnode-liars-dice-61546.txt,61546
+[Loser loses 1],funnode-liars-dice-61546.txt,61546
+"[Result donny34 wins in 22 rounds. rachel, doubleyo7, briantran, RoB_the_SloB lose]",funnode-liars-dice-61546.txt,61546
+"rachel - 6 x 3, doubleyo7 - 6 x 4, briantran - 5 x 5, RoB_the_SloB - 1 x 6, liar, donny34 accuses RoB_the_SloB ( 6 x d-1 ) .. there were 7, donny34 - 6 x 3, rachel - 6 x 4, doubleyo7 - 1 x 5, briantran - 5 x 5, liar, RoB_the_SloB accuses briantran ( 5 x d-5 ) .. there were 5, RoB_the_SloB - 6 x 3, donny34 - 1 x 4, rachel - 5 x 5, doubleyo7 - 5 x 6, briantran - 5 x 7, liar, RoB_the_SloB accuses briantran ( 7 x d-5 ) .. there were 8, RoB_the_SloB - 6 x 2, donny34 - 5 x 3, rachel - 6 x 5, liar, doubleyo7 accuses rachel ( 5 x d-6 ) .. there were 6, doubleyo7 - 2 x 5, briantran - 4 x 5, liar, RoB_the_SloB accuses briantran ( 5 x d-4 ) .. there were 3, briantran - 6 x 4, RoB_the_SloB - 3 x 5, donny34 - 6 x 5, rachel - 2 x 6, liar, doubleyo7 accuses rachel ( 6 x d-2 ) .. there were 5, rachel - 6 x 4, doubleyo7 - 5 x 5, liar, briantran accuses doubleyo7 ( 5 x d-5 ) .. there were 3, doubleyo7 - 4 x 3, briantran - 4 x 4, RoB_the_SloB - 2 x 5, donny34 - 4 x 5, liar, rachel accuses donny34 ( 5 x d-4 ) .. there were 4, donny34 - 6 x 2, rachel - 1 x 3, doubleyo7 - 5 x 3, briantran - 6 x 3, liar, RoB_the_SloB accuses briantran ( 3 x d-6 ) .. there were 2, briantran - 6 x 3, RoB_the_SloB - 6 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 3, RoB_the_SloB - 6 x 2, donny34 - 2 x 3, rachel - 5 x 3, doubleyo7 - 6 x 3, liar, briantran accuses doubleyo7 ( 3 x d-6 ) .. there were 3, briantran - 3 x 2, RoB_the_SloB - 6 x 2, donny34 - 1 x 3, rachel - 4 x 3, doubleyo7 - 3 x 4, liar, briantran accuses doubleyo7 ( 4 x d-3 ) .. there were 3, doubleyo7 - 6 x 2, briantran - 3 x 3, liar, RoB_the_SloB accuses briantran ( 3 x d-3 ) .. there were 3, RoB_the_SloB - 6 x 2, donny34 - 6 x 3, rachel - 2 x 4, liar, doubleyo7 accuses rachel ( 4 x d-2 ) .. there were 2, rachel - 6 x 1, doubleyo7 - 5 x 2, briantran - 6 x 3, liar, RoB_the_SloB accuses briantran ( 3 x d-6 ) .. there were 3, donny34 - 5 x 2, rachel - 3 x 3, doubleyo7 - 4 x 3, briantran - 6 x 3, liar, donny34 accuses briantran ( 3 x d-6 ) .. there was 1, briantran - 6 x 1, donny34 - 3 x 2, rachel - 4 x 2, doubleyo7 - 5 x 2, briantran - 6 x 2, liar, donny34 accuses briantran ( 2 x d-6 ) .. there was 1, donny34 - 5 x 1, liar, rachel accuses donny34 ( 1 x d-5 ) .. there were 2, rachel - 2 x 1, doubleyo7 - 6 x 2, donny34 - 6 x 3, liar, rachel accuses donny34 ( 3 x d-6 ) .. there were 3, rachel - 6 x 1, doubleyo7 - 4 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-4 ) .. there were 0, doubleyo7 - 6 x 2, donny34 - 6 x 3, rachel - 6 x 4, liar, doubleyo7 accuses rachel ( 4 x d-6 ) .. there were 3, doubleyo7 - 3 x 1, donny34 - 1 x 2, doubleyo7 - 3 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-3 ) .. there was 1",funnode-liars-dice-61546.txt,61546
+[Site www.FunNode.com],funnode-liars-dice-61547.txt,61547
+[P0 donny34],funnode-liars-dice-61547.txt,61547
+[P0-Elo 0.0],funnode-liars-dice-61547.txt,61547
+[P1 rachel],funnode-liars-dice-61547.txt,61547
+[P1-Elo 0.0],funnode-liars-dice-61547.txt,61547
+[P2 RoB_the_SloB],funnode-liars-dice-61547.txt,61547
+[P2-Elo 0.0],funnode-liars-dice-61547.txt,61547
+[P3 doubleyo7],funnode-liars-dice-61547.txt,61547
+[P3-Elo 0.0],funnode-liars-dice-61547.txt,61547
+[P4 briantran],funnode-liars-dice-61547.txt,61547
+[P4-Elo 0.0],funnode-liars-dice-61547.txt,61547
+[Timer Fischer],funnode-liars-dice-61547.txt,61547
+[Timers -1 + 0],funnode-liars-dice-61547.txt,61547
+[Re-roll false],funnode-liars-dice-61547.txt,61547
+[Spot On false],funnode-liars-dice-61547.txt,61547
+[Wild Ones false],funnode-liars-dice-61547.txt,61547
+[First to play loser],funnode-liars-dice-61547.txt,61547
+[Loser loses 1],funnode-liars-dice-61547.txt,61547
+"[Result RoB_the_SloB wins in 22 rounds. donny34, rachel, doubleyo7, briantran lose]",funnode-liars-dice-61547.txt,61547
+"donny34 - 4 x 4, rachel - 4 x 5, RoB_the_SloB - 6 x 5, doubleyo7 - 6 x 6, liar, briantran accuses doubleyo7 ( 6 x d-6 ) .. there were 8, briantran - 6 x 4, donny34 - 3 x 5, rachel - 5 x 5, RoB_the_SloB - 5 x 6, liar, doubleyo7 accuses RoB_the_SloB ( 6 x d-5 ) .. there were 6, doubleyo7 - 4 x 5, briantran - 6 x 5, donny34 - 6 x 6, liar, rachel accuses donny34 ( 6 x d-6 ) .. there were 6, rachel - 3 x 3, RoB_the_SloB - 6 x 3, doubleyo7 - 1 x 5, briantran - 1 x 6, donny34 - 6 x 6, liar, rachel accuses donny34 ( 6 x d-6 ) .. there were 5, donny34 - 5 x 3, rachel - 6 x 4, RoB_the_SloB - 5 x 5, doubleyo7 - 6 x 5, liar, briantran accuses doubleyo7 ( 5 x d-6 ) .. there were 5, briantran - 5 x 3, donny34 - 2 x 4, rachel - 2 x 5, liar, RoB_the_SloB accuses rachel ( 5 x d-2 ) .. there were 6, RoB_the_SloB - 6 x 2, doubleyo7 - 1 x 4, briantran - 4 x 4, donny34 - 5 x 4, rachel - 5 x 5, RoB_the_SloB - 5 x 6, liar, doubleyo7 accuses RoB_the_SloB ( 6 x d-5 ) .. there were 6, doubleyo7 - 2 x 4, liar, briantran accuses doubleyo7 ( 4 x d-2 ) .. there were 6, briantran - 2 x 1, donny34 - 6 x 3, rachel - 2 x 4, liar, RoB_the_SloB accuses rachel ( 4 x d-2 ) .. there were 3, rachel - 6 x 4, RoB_the_SloB - 6 x 5, doubleyo7 - 6 x 6, liar, briantran accuses doubleyo7 ( 6 x d-6 ) .. there were 5, doubleyo7 - 6 x 3, liar, briantran accuses doubleyo7 ( 3 x d-6 ) .. there were 3, briantran - 1 x 1, donny34 - 6 x 2, rachel - 1 x 3, RoB_the_SloB - 2 x 3, doubleyo7 - 6 x 3, liar, briantran accuses doubleyo7 ( 3 x d-6 ) .. there were 3, donny34 - 4 x 2, rachel - 1 x 3, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 5, doubleyo7 - 4 x 2, donny34 - 6 x 2, rachel - 4 x 3, RoB_the_SloB - 4 x 4, doubleyo7 - 4 x 5, liar, donny34 accuses doubleyo7 ( 5 x d-4 ) .. there were 3, donny34 - 6 x 2, rachel - 5 x 3, liar, RoB_the_SloB accuses rachel ( 3 x d-5 ) .. there were 2, rachel - 3 x 2, RoB_the_SloB - 3 x 3, liar, donny34 accuses RoB_the_SloB ( 3 x d-3 ) .. there were 4, donny34 - 4 x 2, rachel - 3 x 3, liar, RoB_the_SloB accuses rachel ( 3 x d-3 ) .. there were 2, rachel - 3 x 1, RoB_the_SloB - 4 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 2, donny34 - 1 x 2, liar, rachel accuses donny34 ( 2 x d-1 ) .. there were 4, RoB_the_SloB - 3 x 1, donny34 - 3 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-3 ) .. there was 1, donny34 - 6 x 1, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there was 1",funnode-liars-dice-61547.txt,61547
+[Site www.FunNode.com],funnode-liars-dice-61548.txt,61548
+[P0 RoB_the_SloB],funnode-liars-dice-61548.txt,61548
+[P0-Elo 0.0],funnode-liars-dice-61548.txt,61548
+[P1 rachel],funnode-liars-dice-61548.txt,61548
+[P1-Elo 0.0],funnode-liars-dice-61548.txt,61548
+[P2 doubleyo7],funnode-liars-dice-61548.txt,61548
+[P2-Elo 0.0],funnode-liars-dice-61548.txt,61548
+[P3 briantran],funnode-liars-dice-61548.txt,61548
+[P3-Elo 0.0],funnode-liars-dice-61548.txt,61548
+[P4 donny34],funnode-liars-dice-61548.txt,61548
+[P4-Elo 0.0],funnode-liars-dice-61548.txt,61548
+[Timer Fischer],funnode-liars-dice-61548.txt,61548
+[Timers -1 + 0],funnode-liars-dice-61548.txt,61548
+[Re-roll false],funnode-liars-dice-61548.txt,61548
+[Spot On false],funnode-liars-dice-61548.txt,61548
+[Wild Ones false],funnode-liars-dice-61548.txt,61548
+[First to play loser],funnode-liars-dice-61548.txt,61548
+[Loser loses 1],funnode-liars-dice-61548.txt,61548
+"[Result RoB_the_SloB wins in 24 rounds. rachel, doubleyo7, briantran, donny34 lose]",funnode-liars-dice-61548.txt,61548
+"RoB_the_SloB - 6 x 3, rachel - 1 x 4, doubleyo7 - 5 x 4, briantran - 6 x 4, donny34 - 6 x 5, RoB_the_SloB - 2 x 6, liar, rachel accuses RoB_the_SloB ( 6 x d-2 ) .. there were 7, rachel - 1 x 4, doubleyo7 - 5 x 5, briantran - 6 x 5, donny34 - 2 x 6, RoB_the_SloB - 2 x 7, liar, rachel accuses RoB_the_SloB ( 7 x d-2 ) .. there were 5, RoB_the_SloB - 6 x 2, rachel - 6 x 4, doubleyo7 - 6 x 5, briantran - 2 x 6, liar, donny34 accuses briantran ( 6 x d-2 ) .. there were 5, briantran - 3 x 4, donny34 - 4 x 4, RoB_the_SloB - 5 x 4, rachel - 1 x 5, doubleyo7 - 4 x 5, liar, briantran accuses doubleyo7 ( 5 x d-4 ) .. there were 8, briantran - 3 x 3, donny34 - 6 x 3, RoB_the_SloB - 4 x 4, rachel - 6 x 4, doubleyo7 - 2 x 5, liar, briantran accuses doubleyo7 ( 5 x d-2 ) .. there were 5, briantran - 6 x 2, donny34 - 6 x 3, RoB_the_SloB - 1 x 4, rachel - 6 x 4, doubleyo7 - 6 x 5, liar, briantran accuses doubleyo7 ( 5 x d-6 ) .. there were 4, doubleyo7 - 4 x 3, briantran - 4 x 4, donny34 - 4 x 5, RoB_the_SloB - 4 x 6, liar, rachel accuses RoB_the_SloB ( 6 x d-4 ) .. there were 6, rachel - 5 x 2, doubleyo7 - 6 x 3, briantran - 6 x 4, liar, donny34 accuses briantran ( 4 x d-6 ) .. there were 2, briantran - 4 x 3, donny34 - 2 x 4, RoB_the_SloB - 3 x 4, rachel - 4 x 4, doubleyo7 - 4 x 5, liar, briantran accuses doubleyo7 ( 5 x d-4 ) .. there were 5, donny34 - 6 x 3, RoB_the_SloB - 4 x 4, liar, rachel accuses RoB_the_SloB ( 4 x d-4 ) .. there were 5, rachel - 5 x 2, doubleyo7 - 4 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-4 ) .. there were 2, doubleyo7 - 6 x 3, donny34 - 6 x 4, liar, RoB_the_SloB accuses donny34 ( 4 x d-6 ) .. there were 3, donny34 - 4 x 2, RoB_the_SloB - 3 x 3, liar, rachel accuses RoB_the_SloB ( 3 x d-3 ) .. there were 4, rachel - 6 x 1, doubleyo7 - 5 x 2, donny34 - 1 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-1 ) .. there were 2, donny34 - 5 x 2, RoB_the_SloB - 6 x 2, liar, rachel accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, doubleyo7 - 6 x 2, donny34 - 2 x 3, RoB_the_SloB - 6 x 3, doubleyo7 - 6 x 4, liar, donny34 accuses doubleyo7 ( 4 x d-6 ) .. there were 3, doubleyo7 - 5 x 2, donny34 - 6 x 2, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, doubleyo7 - 5 x 2, donny34 - 5 x 3, liar, RoB_the_SloB accuses donny34 ( 3 x d-5 ) .. there were 3, RoB_the_SloB - 6 x 1, doubleyo7 - 2 x 2, donny34 - 2 x 3, RoB_the_SloB - 2 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-2 ) .. there were 4, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 0, RoB_the_SloB - 6 x 1, donny34 - 1 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, donny34 - 6 x 1, RoB_the_SloB - 2 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-2 ) .. there were 2, donny34 - 6 x 1, liar, RoB_the_SloB accuses donny34 ( 1 x d-6 ) .. there was 1, RoB_the_SloB - 1 x 1, donny34 - 1 x 2, liar, RoB_the_SloB accuses donny34 ( 2 x d-1 ) .. there was 1",funnode-liars-dice-61548.txt,61548
+[Site www.FunNode.com],funnode-liars-dice-61549.txt,61549
+[P0 donny34],funnode-liars-dice-61549.txt,61549
+[P0-Elo 0.0],funnode-liars-dice-61549.txt,61549
+[P1 rachel],funnode-liars-dice-61549.txt,61549
+[P1-Elo 0.0],funnode-liars-dice-61549.txt,61549
+[P2 RoB_the_SloB],funnode-liars-dice-61549.txt,61549
+[P2-Elo 0.0],funnode-liars-dice-61549.txt,61549
+[P3 doubleyo7],funnode-liars-dice-61549.txt,61549
+[P3-Elo 0.0],funnode-liars-dice-61549.txt,61549
+[P4 briantran],funnode-liars-dice-61549.txt,61549
+[P4-Elo 0.0],funnode-liars-dice-61549.txt,61549
+[Timer Fischer],funnode-liars-dice-61549.txt,61549
+[Timers -1 + 0],funnode-liars-dice-61549.txt,61549
+[Re-roll false],funnode-liars-dice-61549.txt,61549
+[Spot On false],funnode-liars-dice-61549.txt,61549
+[Wild Ones false],funnode-liars-dice-61549.txt,61549
+[First to play loser],funnode-liars-dice-61549.txt,61549
+[Loser loses 1],funnode-liars-dice-61549.txt,61549
+"[Result RoB_the_SloB wins in 21 rounds. donny34, rachel, doubleyo7, briantran lose]",funnode-liars-dice-61549.txt,61549
+"donny34 - 4 x 4, rachel - 5 x 4, RoB_the_SloB - 3 x 5, doubleyo7 - 1 x 6, briantran - 1 x 7, liar, donny34 accuses briantran ( 7 x d-1 ) .. there were 5, briantran - 4 x 4, donny34 - 4 x 5, rachel - 6 x 5, RoB_the_SloB - 6 x 6, doubleyo7 - 6 x 7, liar, briantran accuses doubleyo7 ( 7 x d-6 ) .. there were 5, doubleyo7 - 6 x 4, briantran - 6 x 5, donny34 - 6 x 6, rachel - 6 x 7, RoB_the_SloB - 6 x 8, liar, doubleyo7 accuses RoB_the_SloB ( 8 x d-6 ) .. there were 5, RoB_the_SloB - 6 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-6 ) .. there were 5, doubleyo7 - 4 x 5, briantran - 6 x 5, liar, donny34 accuses briantran ( 5 x d-6 ) .. there were 2, briantran - 2 x 5, liar, donny34 accuses briantran ( 5 x d-2 ) .. there were 6, donny34 - 6 x 3, rachel - 6 x 4, liar, RoB_the_SloB accuses rachel ( 4 x d-6 ) .. there were 3, rachel - 4 x 4, RoB_the_SloB - 5 x 4, doubleyo7 - 5 x 5, liar, briantran accuses doubleyo7 ( 5 x d-5 ) .. there were 2, doubleyo7 - 6 x 3, briantran - 4 x 4, donny34 - 4 x 5, rachel - 5 x 5, liar, RoB_the_SloB accuses rachel ( 5 x d-5 ) .. there were 4, rachel - 6 x 6, liar, RoB_the_SloB accuses rachel ( 6 x d-6 ) .. there were 4, rachel - 5 x 5, liar, RoB_the_SloB accuses rachel ( 5 x d-5 ) .. there were 2, rachel - 6 x 9, liar, RoB_the_SloB accuses rachel ( 9 x d-6 ) .. there were 3, RoB_the_SloB - 6 x 2, doubleyo7 - 4 x 4, briantran - 6 x 4, liar, donny34 accuses briantran ( 4 x d-6 ) .. there were 2, briantran - 4 x 1, donny34 - 6 x 2, RoB_the_SloB - 1 x 3, doubleyo7 - 4 x 3, liar, briantran accuses doubleyo7 ( 3 x d-4 ) .. there were 3, briantran - 3 x 1, donny34 - 6 x 2, RoB_the_SloB - 3 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-3 ) .. there were 4, doubleyo7 - 5 x 2, briantran - 6 x 2, liar, donny34 accuses briantran ( 2 x d-6 ) .. there was 1, donny34 - 6 x 1, RoB_the_SloB - 1 x 2, doubleyo7 - 2 x 2, liar, donny34 accuses doubleyo7 ( 2 x d-2 ) .. there was 1, donny34 - 5 x 1, RoB_the_SloB - 1 x 2, donny34 - 3 x 2, RoB_the_SloB - 6 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, donny34 - 6 x 1, RoB_the_SloB - 2 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-2 ) .. there were 2, donny34 - 3 x 1, RoB_the_SloB - 4 x 1, donny34 - 5 x 1, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 2, donny34 - 4 x 1, RoB_the_SloB - 4 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-4 ) .. there were 2",funnode-liars-dice-61549.txt,61549
+[Site www.FunNode.com],funnode-liars-dice-61550.txt,61550
+[P0 briantran],funnode-liars-dice-61550.txt,61550
+[P0-Elo 0.0],funnode-liars-dice-61550.txt,61550
+[P1 RoB_the_SloB],funnode-liars-dice-61550.txt,61550
+[P1-Elo 0.0],funnode-liars-dice-61550.txt,61550
+[P2 donny34],funnode-liars-dice-61550.txt,61550
+[P2-Elo 0.0],funnode-liars-dice-61550.txt,61550
+[P3 rachel],funnode-liars-dice-61550.txt,61550
+[P3-Elo 0.0],funnode-liars-dice-61550.txt,61550
+[P4 doubleyo7],funnode-liars-dice-61550.txt,61550
+[P4-Elo 0.0],funnode-liars-dice-61550.txt,61550
+[Timer Fischer],funnode-liars-dice-61550.txt,61550
+[Timers -1 + 0],funnode-liars-dice-61550.txt,61550
+[Re-roll false],funnode-liars-dice-61550.txt,61550
+[Spot On false],funnode-liars-dice-61550.txt,61550
+[Wild Ones false],funnode-liars-dice-61550.txt,61550
+[First to play loser],funnode-liars-dice-61550.txt,61550
+[Loser loses 1],funnode-liars-dice-61550.txt,61550
+"[Result doubleyo7 wins in 23 rounds. briantran, RoB_the_SloB, donny34, rachel lose]",funnode-liars-dice-61550.txt,61550
+"briantran - 5 x 8, liar, RoB_the_SloB accuses briantran ( 8 x d-5 ) .. there were 4, briantran - 1 x 6, liar, RoB_the_SloB accuses briantran ( 6 x d-1 ) .. there were 10, RoB_the_SloB - 6 x 2, donny34 - 6 x 5, rachel - 6 x 6, liar, doubleyo7 accuses rachel ( 6 x d-6 ) .. there were 5, rachel - 6 x 5, liar, doubleyo7 accuses rachel ( 5 x d-6 ) .. there were 4, rachel - 6 x 3, doubleyo7 - 6 x 4, briantran - 3 x 5, liar, RoB_the_SloB accuses briantran ( 5 x d-3 ) .. there were 4, briantran - 5 x 5, liar, RoB_the_SloB accuses briantran ( 5 x d-5 ) .. there were 4, briantran - 5 x 3, RoB_the_SloB - 6 x 3, donny34 - 6 x 4, liar, rachel accuses donny34 ( 4 x d-6 ) .. there were 2, donny34 - 6 x 3, liar, rachel accuses donny34 ( 3 x d-6 ) .. there were 6, rachel - 4 x 5, liar, doubleyo7 accuses rachel ( 5 x d-4 ) .. there were 4, rachel - 1 x 16, liar, doubleyo7 accuses rachel ( 16 x d-1 ) .. there was 1, doubleyo7 - 2 x 4, liar, briantran accuses doubleyo7 ( 4 x d-2 ) .. there were 2, doubleyo7 - 6 x 4, liar, briantran accuses doubleyo7 ( 4 x d-6 ) .. there were 4, briantran - 6 x 4, RoB_the_SloB - 6 x 5, liar, donny34 accuses RoB_the_SloB ( 5 x d-6 ) .. there were 5, donny34 - 6 x 2, doubleyo7 - 2 x 3, briantran - 6 x 3, liar, RoB_the_SloB accuses briantran ( 3 x d-6 ) .. there were 3, RoB_the_SloB - 6 x 2, donny34 - 4 x 3, doubleyo7 - 5 x 3, briantran - 5 x 4, liar, RoB_the_SloB accuses briantran ( 4 x d-5 ) .. there were 4, RoB_the_SloB - 6 x 1, donny34 - 6 x 2, doubleyo7 - 6 x 3, liar, briantran accuses doubleyo7 ( 3 x d-6 ) .. there were 3, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 2, donny34 - 6 x 1, doubleyo7 - 6 x 2, liar, RoB_the_SloB accuses doubleyo7 ( 2 x d-6 ) .. there was 1, doubleyo7 - 3 x 3, RoB_the_SloB - 3 x 4, liar, donny34 accuses RoB_the_SloB ( 4 x d-3 ) .. there were 3, RoB_the_SloB - 6 x 1, liar, donny34 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 2, donny34 - 6 x 1, doubleyo7 - 2 x 2, RoB_the_SloB - 3 x 2, liar, donny34 accuses RoB_the_SloB ( 2 x d-3 ) .. there were 2, doubleyo7 - 3 x 2, RoB_the_SloB - 5 x 2, liar, doubleyo7 accuses RoB_the_SloB ( 2 x d-5 ) .. there were 2, doubleyo7 - 5 x 1, RoB_the_SloB - 6 x 1, liar, doubleyo7 accuses RoB_the_SloB ( 1 x d-6 ) .. there were 0",funnode-liars-dice-61550.txt,61550
+[Site www.FunNode.com],funnode-liars-dice-62799.txt,62799
+[P0 donny34],funnode-liars-dice-62799.txt,62799
+[P0-Elo 0.0],funnode-liars-dice-62799.txt,62799
+[P1 RoB_the_SloB],funnode-liars-dice-62799.txt,62799
+[P1-Elo 0.0],funnode-liars-dice-62799.txt,62799
+[P2 doubleyo7],funnode-liars-dice-62799.txt,62799
+[P2-Elo 0.0],funnode-liars-dice-62799.txt,62799
+[P3 Petey],funnode-liars-dice-62799.txt,62799
+[P3-Elo 0.0],funnode-liars-dice-62799.txt,62799
+[P4 briantran],funnode-liars-dice-62799.txt,62799
+[P4-Elo 0.0],funnode-liars-dice-62799.txt,62799
+[P5 rachel],funnode-liars-dice-62799.txt,62799
+[P5-Elo 0.0],funnode-liars-dice-62799.txt,62799
+[Timer Fischer],funnode-liars-dice-62799.txt,62799
+[Timers -1 + 0],funnode-liars-dice-62799.txt,62799
+[Re-roll false],funnode-liars-dice-62799.txt,62799
+[Spot On false],funnode-liars-dice-62799.txt,62799
+[Wild Ones false],funnode-liars-dice-62799.txt,62799
+[First to play loser],funnode-liars-dice-62799.txt,62799
+[Loser loses 1],funnode-liars-dice-62799.txt,62799
+"[Result RoB_the_SloB wins in 27 rounds. donny34, doubleyo7, Petey, briantran, rachel lose]",funnode-liars-dice-62799.txt,62799
+"donny34 - 3 x 5, RoB_the_SloB - 2 x 6, doubleyo7 - 3 x 6, Petey - 2 x 7, liar, briantran accuses Petey ( 7 x d-2 ) .. there were 6, Petey - 6 x 5, briantran - 2 x 6, rachel - 4 x 6, donny34 - 6 x 6, RoB_the_SloB - 6 x 7, doubleyo7 - 6 x 8, liar, Petey accuses doubleyo7 ( 8 x d-6 ) .. there were 6, doubleyo7 - 1 x 5, Petey - 1 x 6, briantran - 3 x 6, rachel - 4 x 6, liar, donny34 accuses rachel ( 6 x d-4 ) .. there were 6, donny34 - 6 x 4, RoB_the_SloB - 6 x 5, doubleyo7 - 6 x 6, Petey - 3 x 7, liar, briantran accuses Petey ( 7 x d-3 ) .. there were 7, briantran - 3 x 3, rachel - 6 x 6, liar, donny34 accuses rachel ( 6 x d-6 ) .. there were 5, rachel - 1 x 5, donny34 - 4 x 5, RoB_the_SloB - 3 x 6, doubleyo7 - 4 x 6, Petey - 6 x 6, briantran - 5 x 7, liar, rachel accuses briantran ( 7 x d-5 ) .. there were 4, briantran - 6 x 3, rachel - 4 x 4, donny34 - 6 x 4, RoB_the_SloB - 5 x 5, doubleyo7 - 6 x 5, Petey - 6 x 6, liar, briantran accuses Petey ( 6 x d-6 ) .. there were 5, Petey - 1 x 5, liar, briantran accuses Petey ( 5 x d-1 ) .. there were 5, briantran - 6 x 5, rachel - 3 x 6, liar, donny34 accuses rachel ( 6 x d-3 ) .. there were 8, donny34 - 6 x 3, RoB_the_SloB - 4 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-4 ) .. there were 5, doubleyo7 - 4 x 6, Petey - 3 x 7, liar, briantran accuses Petey ( 7 x d-3 ) .. there were 4, Petey - 1 x 3, briantran - 1 x 4, rachel - 2 x 4, donny34 - 1 x 5, RoB_the_SloB - 2 x 5, liar, doubleyo7 accuses RoB_the_SloB ( 5 x d-2 ) .. there were 5, doubleyo7 - 2 x 5, Petey - 6 x 5, liar, briantran accuses Petey ( 5 x d-6 ) .. there were 3, Petey - 1 x 4, briantran - 5 x 4, rachel - 6 x 4, liar, donny34 accuses rachel ( 4 x d-6 ) .. there were 5, donny34 - 5 x 3, RoB_the_SloB - 1 x 4, liar, doubleyo7 accuses RoB_the_SloB ( 4 x d-1 ) .. there were 3, RoB_the_SloB - 6 x 3, liar, doubleyo7 accuses RoB_the_SloB ( 3 x d-6 ) .. there were 3, doubleyo7 - 2 x 4, liar, Petey accuses doubleyo7 ( 4 x d-2 ) .. there were 3, Petey - 1 x 3, briantran - 3 x 3, rachel - 5 x 3, liar, donny34 accuses rachel ( 3 x d-5 ) .. there were 4, donny34 - 5 x 2, RoB_the_SloB - 1 x 3, liar, Petey accuses RoB_the_SloB ( 3 x d-1 ) .. there were 5, briantran - 4 x 3, rachel - 6 x 3, liar, donny34 accuses rachel ( 3 x d-6 ) .. there was 1, rachel - 4 x 4, liar, donny34 accuses rachel ( 4 x d-4 ) .. there were 3, rachel - 1 x 1, donny34 - 6 x 1, RoB_the_SloB - 4 x 2, briantran - 5 x 2, liar, rachel accuses briantran ( 2 x d-5 ) .. there were 2, rachel - 5 x 8, liar, donny34 accuses rachel ( 8 x d-5 ) .. there were 2, donny34 - 6 x 1, RoB_the_SloB - 5 x 2, briantran - 5 x 3, liar, donny34 accuses briantran ( 3 x d-5 ) .. there were 3, RoB_the_SloB - 5 x 1, briantran - 6 x 1, RoB_the_SloB - 6 x 2, liar, briantran accuses RoB_the_SloB ( 2 x d-6 ) .. there was 1, RoB_the_SloB - 5 x 1, briantran - 6 x 1, RoB_the_SloB - 6 x 2, liar, briantran accuses RoB_the_SloB ( 2 x d-6 ) .. there were 2, briantran - 2 x 1, RoB_the_SloB - 3 x 1, briantran - 4 x 1, RoB_the_SloB - 6 x 1, liar, briantran accuses RoB_the_SloB ( 1 x d-6 ) .. there was 1",funnode-liars-dice-62799.txt,62799

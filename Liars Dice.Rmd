@@ -1,0 +1,753 @@
+---
+title: "Liars Dice"
+runtime: shiny
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r libraries ,include=FALSE}
+## Be sure to run the ESPN Scrape before running this
+
+library(flexdashboard)
+library(htmlwidgets)
+library(jsonlite)
+library(gridExtra)
+library(readr)
+library(ggthemes)
+library(scales)
+library(zoo)
+library(knitr)
+library(kableExtra)
+library(RColorBrewer)
+library(shiny)
+library(DT)
+library(rsconnect)
+library(httr)
+library(tidyverse)
+library(writexl)
+
+options(dplyr.summarise.inform=F)
+
+```
+
+
+```{r ,include=FALSE}
+# ## Data Path
+# file_path <- "C:/Users/riese/Desktop/Liars Dice/Text Files"
+# file_vector <- list.files(file_path)
+# path_vector <- str_c(file_path ,"/" ,file_vector)
+# 
+# ## Reading in the text files
+# data <- NULL
+```
+
+```{r ,include=FALSE}
+# for (i in 1:length(path_vector)) {
+#   temp <- read_tsv(path_vector[i] ,show_col_types = FALSE) %>% 
+#     mutate(source    = file_vector[i]
+#            ,game_num = str_extract(source ,pattern = "[0-9]{5,6}")
+#            )
+#   colnames(temp)[1] <- c("info")
+#   data <- bind_rows(data ,temp)
+# }
+
+data <- read_csv("text data.csv")
+
+```
+
+```{r ,include=FALSE}
+## Going to separate into two datasets
+## One with the high level detail
+## The other with the information at the game level
+data <- data %>% 
+  select(source ,game_num ,info)
+
+game_summary <- data %>% 
+  filter(str_detect(info ,pattern = "Result")) %>% 
+  mutate(winner         = str_sub(info 
+                                  ,start = str_locate(info ,"Result ")[,"end"]+1
+                                  ,end   = str_locate(info ," wins ")[,"start"]-1
+                                  )
+         ,num_of_rounds = str_sub(info 
+                                  ,start = str_locate(info ,"in ")[,"end"]+1
+                                  ,end   = str_locate(info ," rounds")[,"start"]-1
+                                  )
+         )
+
+
+round_detail <- data[which(as.numeric(str_detect(data$info ,pattern = "Result")) %in% 1) + 1,] %>% 
+  mutate(detail = str_split(info ,pattern = ", ")) %>% 
+  unnest(detail) %>% 
+  mutate(player      = coalesce(str_sub(detail 
+                                        ,start = 1
+                                        ,end   = str_locate(detail ," - ")[,"start"]-1
+                                        )
+                                ,str_sub(detail 
+                                        ,start = 1
+                                        ,end   = str_locate(detail ," accuses ")[,"start"]-1
+                                        )
+                                )
+         ,bid        = str_sub(detail 
+                               ,start = str_locate(detail ," - ")[,"end"]+1
+                               ,end   = -1
+                               )
+         ,die        = str_sub(bid 
+                               ,start = 1
+                               ,end   = str_locate(bid ," x ")[,"start"]-1
+                               )
+         ,number     = str_sub(bid 
+                               ,start = str_locate(bid ," x ")[,"end"]+1
+                               ,end   = -1
+                               )
+         ,accusation = as.numeric(detail == "liar") %>% lag()
+         ,accused    = str_sub(detail
+                               ,start = str_locate(detail ," accuses ")[,"end"]+1
+                               ,end   = str_locate(detail ," \\( ")[,"start"]-1
+                               )
+         ,actual_num = str_sub(detail
+                               ,start = str_locate(detail ," were | was ")[,"end"]+1
+                               ,end   = -1
+                               )
+         ) %>% # write_xlsx("C:/Users/riese/Desktop/Liars Dice/liars_test.xlsx")
+  filter(detail != "liar") %>% 
+  group_by(game_num) %>% 
+  mutate(next_player    = ifelse(accusation == 1, NA ,lead(player))
+         ,row_num       = row_number()
+         ,temp_num      = ifelse((coalesce(lag(accusation),0)==1|row_num==1) ,1 ,0)
+         ,round_num     = cumsum(temp_num)
+         ,turn_num      = accumulate(temp_num ,~if(.y==0) .x+1 else .y)
+         ,lie_ind       = ifelse(lag(number) > actual_num ,"Y" ,"N")
+         ,exact_bid_ind = ifelse(lag(number) == actual_num ,"Y" ,"N")
+         ,round_loser   = ifelse(lie_ind == "Y" ,accused ,player)
+         ) %>% 
+  ungroup() %>% 
+  select(source ,game_num ,round_num ,turn_num ,everything() ,-row_num ,-temp_num)
+
+round_loser <- round_detail %>% 
+  filter(is.na(bid)) %>% 
+  select(game_num ,round_num ,round_loser)
+
+dice_count_by_round_and_player <- round_detail %>% 
+  select(game_num ,round_num ,player) %>% 
+  distinct() %>% 
+  left_join(round_loser ,by = c("game_num" ,"round_num")) %>%
+  arrange(game_num ,player ,round_num) %>% 
+  group_by(game_num ,player) %>% 
+  mutate(lost_round_ind                  = as.numeric(player==round_loser)
+         ,dice_remaining_at_end_of_round = 5-cumsum(lost_round_ind)
+         ) %>% 
+  ungroup() %>% 
+  select(-lost_round_ind ,-round_loser) %>% 
+  arrange(game_num ,round_num ,player)
+
+players_by_game <- round_detail %>% 
+  select(game_num ,player) %>% 
+  distinct()
+
+player_count_by_game <- players_by_game %>% 
+  group_by(game_num) %>% 
+  summarise(player_count = n()) %>% 
+  ungroup() %>% 
+  mutate(player_count = str_c(player_count ," Player"))
+
+eliminator_by_round <- round_detail %>% 
+  mutate(eliminator = if_else(round_loser == accused ,player ,accused)) %>%
+  filter(is.na(bid)) %>% 
+  select(game_num ,round_num ,turn_num ,player ,accused ,exact_bid_ind ,round_loser ,eliminator) %>%
+  rename(accuser = player)
+
+round_eliminated_by_game <- dice_count_by_round_and_player %>%
+  filter(dice_remaining_at_end_of_round == 0) %>% 
+  group_by(game_num ,player) %>% 
+  summarise(round_eliminated = min(round_num)) %>% 
+  ungroup()
+
+final_round_by_game <- dice_count_by_round_and_player %>% 
+  group_by(game_num) %>% 
+  mutate(max_round_num = max(round_num)) %>% 
+  ungroup() %>% 
+  filter(round_num == max_round_num)
+
+BestPlayer <- game_summary %>% 
+  group_by(winner) %>% 
+  summarise(n = n()) %>% 
+  arrange(desc(n) ,winner) %>% 
+  slice(1) %>% 
+  select(winner) %>% 
+  pull()
+
+PlayerCounts <- unique(player_count_by_game$player_count)
+PlayerList <- unique(players_by_game$player)
+
+```
+
+Summary
+=======================================================================
+
+Sidebar {data-width=200 .sidebar}
+-----------------------------------------------------------------------
+
+### Filters
+
+```{r}
+
+
+selectInput("PlayerCountInput"
+            ,"Select player count:"
+            ,choices = PlayerCounts
+            ,selected = "3 Player"
+            ,multiple = FALSE)
+
+```
+
+
+Column {data-width=450}
+-----------------------------------------------------------------------
+
+### Total Wins
+
+```{r}
+
+renderPlot({
+  players_by_game %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>% 
+    left_join(game_summary %>% select(game_num ,winner) ,by = c("game_num")) %>% 
+    filter(player_count == input$PlayerCountInput) %>% 
+    group_by(player) %>% 
+    summarise(wins = sum(as.numeric(player == winner))) %>% 
+    ggplot(aes(x = reorder(player ,wins) ,y = wins ,fill = wins)) +
+      geom_col() +
+      coord_flip() +
+      scale_y_continuous(labels = comma_format(accuracy = 1) ,breaks = pretty_breaks()) +
+      scale_fill_gradientn(colors = c("darkred", "tomato1","palegreen", "darkgreen")) +
+      guides(fill ="none") +
+      geom_hline(yintercept = reactive_games() / as.numeric(str_extract(input$PlayerCountInput ,pattern = "[0-9]{1,2}"))
+                 ,linetype = "longdash") + 
+      theme_fivethirtyeight()
+})
+
+
+
+```
+
+### Total Dice Eliminated
+
+```{r}
+
+renderPlot({
+  eliminator_by_round %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>%
+    filter(player_count == input$PlayerCountInput) %>% 
+    group_by(eliminator) %>% 
+    summarise(dice_eliminated = n()) %>% 
+    ungroup() %>% 
+    ggplot(aes(x = reorder(eliminator ,dice_eliminated) ,y = dice_eliminated)) +
+      geom_col() +
+      coord_flip() +
+      theme_fivethirtyeight()
+})
+  
+
+```
+
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Games Played
+
+```{r}
+
+reactive_games <- reactive({
+  game_summary %>%
+    left_join(player_count_by_game ,by = c("game_num")) %>%
+    filter(player_count == input$PlayerCountInput) %>% 
+    summarise(n = n_distinct(game_num)) %>% 
+    pull()
+})
+
+renderValueBox({
+  valueBox(reactive_games()
+           ,icon = "fa-dice"
+           )
+})
+
+```
+
+### Total Rounds Played
+
+```{r}
+
+renderPlot({
+  players_by_game %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>% 
+    left_join(game_summary %>% select(game_num ,winner ,num_of_rounds) ,by = c("game_num")) %>% 
+    left_join(round_eliminated_by_game ,by = c("game_num" ,"player")) %>% 
+    filter(player_count == input$PlayerCountInput) %>% 
+    mutate(total_potential_rounds = as.numeric(str_extract(player_count ,pattern = "[0-9]{1,2}")) * 5
+           ,rounds_potential      = coalesce(round_eliminated ,total_potential_rounds) %>% as.numeric()
+           ,rounds_actual         = coalesce(round_eliminated ,as.numeric(num_of_rounds))) %>% 
+    group_by(player) %>% 
+    arrange(game_num) %>% 
+    mutate(game_count = row_number()) %>% 
+    arrange(player ,game_num) %>% 
+    group_by(player) %>% 
+    mutate(cum_rounds_potential = cumsum(rounds_potential)
+           ,cum_rounds_actual   = cumsum(rounds_actual)
+           ) %>% 
+    ungroup() %>% 
+    select(game_count ,player ,contains("cum_rounds")) %>% 
+    pivot_longer(names_to = "type" ,values_to = "rounds" ,-c(game_count ,player)) %>% 
+    mutate(type2 = if_else(type == "cum_rounds_actual" ,"Actual" ,"Plus Remaining Dice")) %>% 
+    group_by(player ,type2) %>% 
+    summarise(rounds = max(rounds)) %>% 
+    ungroup() %>% 
+    ggplot(aes(x = reorder(player ,rounds) ,y = rounds)) +
+      geom_col() +
+      coord_flip() +
+      facet_wrap(. ~ type2) +
+      scale_y_continuous(labels = comma_format(accuracy = 1) ,breaks = pretty_breaks()) +
+      theme_fivethirtyeight()
+})
+
+```
+
+### Dice Remaining over Time
+
+```{r}
+
+renderPlot({
+  players_by_game %>% 
+    left_join(final_round_by_game %>% select(game_num ,player ,dice_remaining_at_end_of_round) 
+              ,by = c("game_num" ,"player")) %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>% 
+    filter(player_count == input$PlayerCountInput) %>% 
+    mutate(dice_remaining_at_end_of_round = coalesce(dice_remaining_at_end_of_round ,0)) %>% 
+    arrange(player ,game_num) %>% 
+    group_by(player) %>% 
+    mutate(cumulative_dice_remaining = cumsum(dice_remaining_at_end_of_round)
+           ,game_count               = row_number()
+           ) %>% 
+    ungroup() %>%
+    ggplot(aes(x = game_count ,y = cumulative_dice_remaining ,color = player)) +
+      geom_line(size = 0.71) +
+      scale_y_continuous(labels = comma_format(accuracy = 1) ,breaks = pretty_breaks()) +
+      theme_fivethirtyeight()
+})
+
+```
+
+Other Stats
+=======================================================================
+
+Sidebar {data-width=200 .sidebar}
+-----------------------------------------------------------------------
+
+### Filters
+
+```{r}
+
+selectInput("PlayerCountInputPage2"
+            ,"Select player count:"
+            ,choices = PlayerCounts
+            ,selected = "3 Player"
+            ,multiple = FALSE)
+
+```
+
+Column {data-width=450}
+-----------------------------------------------------------------------
+
+### Turns Played
+
+```{r}
+
+reactive_turns <- reactive({
+  round_detail %>% 
+    filter(is.na(bid)) %>% 
+    select(game_num ,round_num ,turn_num) %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>%
+    filter(player_count == input$PlayerCountInputPage2) %>% 
+    summarise(total_turns = sum(turn_num)) %>% 
+    pull() %>% 
+    prettyNum(big.mark = ",")
+})
+
+renderValueBox({
+  valueBox(reactive_turns()
+           ,icon = "fa-clock"
+           )
+})
+
+```
+
+### Win Streak
+
+```{r}
+
+renderPlot({
+  players_by_game %>% 
+    left_join(game_summary %>% select(game_num ,winner) ,by = c("game_num")) %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>% 
+    filter(player_count == input$PlayerCountInputPage2) %>% 
+    mutate(win = as.numeric(player == winner)) %>% 
+    arrange(player ,game_num) %>% 
+    group_by(player) %>%
+    summarise(LongestLoseStreak  = max(rle(win)$lengths[rle(win)$values==0])
+              ,LongestWinStreak  = max(rle(win)$lengths[rle(win)$values==1])
+              ,CurrentLoseStreak = ifelse(rle(win)$values[length(rle(win)$values)]==0 ,rle(win)$lengths[rle(win)$values==0][length(rle(win)$lengths[rle(win)$values==0])] ,0)
+              ,CurrentWinStreak  = ifelse(rle(win)$values[length(rle(win)$values)]==1 ,rle(win)$lengths[rle(win)$values==1][length(rle(win)$lengths[rle(win)$values==1])] ,0)
+                ) %>%
+    ungroup() %>% 
+    select(player ,contains("Win")) %>% 
+    pivot_longer(names_to = "streak_type" ,values_to = "streak" ,-player) %>% 
+    mutate(streak_type2 = factor(if_else(streak_type == "LongestWinStreak" ,"Longest" ,"Active")
+                                 ,levels = c("Longest" ,"Active"))) %>%
+    ggplot(aes(x = reorder(player ,streak) ,y = streak)) +
+      geom_col() +
+      coord_flip() +
+      facet_wrap(. ~ streak_type2) +
+      theme_fivethirtyeight()
+})
+
+```
+
+### Lose Streak
+
+```{r}
+
+renderPlot({
+  players_by_game %>% 
+    left_join(game_summary %>% select(game_num ,winner) ,by = c("game_num")) %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>% 
+    filter(player_count == input$PlayerCountInputPage2) %>% 
+    mutate(win = as.numeric(player == winner)) %>% 
+    arrange(player ,game_num) %>% 
+    group_by(player) %>%
+    summarise(LongestLoseStreak  = max(rle(win)$lengths[rle(win)$values==0])
+              ,LongestwinStreak  = max(rle(win)$lengths[rle(win)$values==1])
+              ,CurrentLoseStreak = ifelse(rle(win)$values[length(rle(win)$values)]==0 ,rle(win)$lengths[rle(win)$values==0][length(rle(win)$lengths[rle(win)$values==0])] ,0)
+              ,CurrentwinStreak  = ifelse(rle(win)$values[length(rle(win)$values)]==1 ,rle(win)$lengths[rle(win)$values==1][length(rle(win)$lengths[rle(win)$values==1])] ,0)
+                ) %>%
+    ungroup() %>% 
+    select(player ,contains("Lose")) %>% 
+    pivot_longer(names_to = "streak_type" ,values_to = "streak" ,-player) %>% 
+    mutate(streak_type2 = factor(if_else(streak_type == "LongestLoseStreak" ,"Longest" ,"Active")
+                                 ,levels = c("Longest" ,"Active"))) %>% 
+    ggplot(aes(x = reorder(player ,streak) ,y = streak)) +
+      geom_col() +
+      coord_flip() +
+      facet_wrap(. ~ streak_type2) +
+      theme_fivethirtyeight()
+})
+
+```
+
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Lies Called
+
+```{r}
+
+renderPlot({
+eliminator_by_round %>% 
+  left_join(player_count_by_game ,by = c("game_num")) %>% 
+  select(game_num ,round_num ,accuser ,accused ,player_count) %>% 
+  pivot_longer(names_to = "accusation_type" ,values_to = "player" ,c(accuser ,accused)) %>%
+  filter(player_count == input$PlayerCountInputPage2) %>% 
+  group_by(player ,accusation_type) %>% 
+  summarise(accusations = n()) %>% 
+  ungroup() %>% 
+  mutate(accusation_type2 = factor(if_else(accusation_type == "accuser" ,"Lies Called" ,"Called Liar")
+                                   ,levels = c("Lies Called" ,"Called Liar"))
+         ) %>% 
+  filter(accusation_type2 == "Lies Called") %>% 
+  ggplot(aes(x = reorder(player ,accusations) ,y = accusations)) +
+    geom_col() +
+    coord_flip() +
+    theme_fivethirtyeight()
+}) 
+
+```
+
+### Called Liar
+
+```{r}
+
+renderPlot({
+eliminator_by_round %>% 
+  left_join(player_count_by_game ,by = c("game_num")) %>% 
+  select(game_num ,round_num ,accuser ,accused ,player_count) %>% 
+  pivot_longer(names_to = "accusation_type" ,values_to = "player" ,c(accuser ,accused)) %>%
+  filter(player_count == input$PlayerCountInputPage2) %>% 
+  group_by(player ,accusation_type) %>% 
+  summarise(accusations = n()) %>% 
+  ungroup() %>% 
+  mutate(accusation_type2 = factor(if_else(accusation_type == "accuser" ,"Lies Called" ,"Called Liar")
+                                   ,levels = c("Lies Called" ,"Called Liar"))
+         ) %>% 
+  filter(accusation_type2 == "Called Liar") %>% 
+  ggplot(aes(x = reorder(player ,accusations) ,y = accusations)) +
+    geom_col() +
+    coord_flip() +
+    theme_fivethirtyeight()
+}) 
+
+```
+
+
+### Honesty Percent when Called Liar
+
+```{r}
+
+renderPlot({
+  eliminator_by_round %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>% 
+    filter(player_count == input$PlayerCountInputPage2) %>%
+    select(game_num ,round_num ,accuser ,accused ,round_loser ,player_count) %>% 
+    mutate(honest_bid_ind = if_else(accused == round_loser ,"N" ,"Y")) %>% 
+    group_by(accused) %>% 
+    summarise(honest_bids  = sum(as.numeric(honest_bid_ind == "Y"))
+              ,honesty_pct = honest_bids / n()) %>% 
+    ungroup() %>% 
+    ggplot(aes(x = reorder(accused ,honesty_pct) ,y = honesty_pct)) +
+      geom_col() +
+      coord_flip() +
+      scale_y_continuous(labels = percent ,limits = c(0 ,1)) +
+      geom_hline(yintercept = 0.5 ,linetype = "longdash") +
+      theme_fivethirtyeight()
+}) 
+
+```
+
+
+Player Page
+=======================================================================
+
+Sidebar {data-width=200 .sidebar}
+-----------------------------------------------------------------------
+
+### Filters
+
+```{r}
+
+selectInput("PlayerInput"
+            ,"Select player:"
+            ,choices = PlayerList
+            ,selected = BestPlayer
+            ,multiple = FALSE)
+
+selectInput("PlayerCountInputPage3"
+            ,"Select player count:"
+            ,choices = PlayerCounts
+            ,selected = "3 Player"
+            ,multiple = FALSE)
+
+```
+
+Column {data-width=450}
+-----------------------------------------------------------------------
+
+### Perfect Bids Made
+
+```{r}
+
+reactive_perfect_bids <- reactive({
+  round_detail %>% 
+    filter(is.na(bid)) %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>% 
+    filter(player_count == input$PlayerCountInputPage3) %>%    
+    select(game_num ,round_num ,player ,accused ,exact_bid_ind) %>% 
+    group_by(accused) %>% 
+    summarise(exact_bids = sum(as.numeric(exact_bid_ind == "Y"))) %>% 
+    ungroup() %>% 
+    filter(accused == input$PlayerInput) %>% 
+    select(exact_bids) %>% 
+    pull() %>% 
+    prettyNum(big.mark = ",")
+})
+
+renderValueBox({
+  valueBox(reactive_perfect_bids()
+           ,icon = "fa-trophy"
+           )
+})
+
+```
+
+### Perfect Bids Against
+
+```{r}
+
+reactive_perfect_bids_against <- reactive({
+  round_detail %>% 
+    filter(is.na(bid)) %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>% 
+    filter(player_count == input$PlayerCountInputPage3) %>%    
+    select(game_num ,round_num ,player ,accused ,exact_bid_ind) %>% 
+    group_by(player) %>% 
+    summarise(exact_bids_against = sum(as.numeric(exact_bid_ind == "Y"))) %>% 
+    ungroup() %>% 
+    filter(player == input$PlayerInput) %>% 
+    select(exact_bids_against) %>% 
+    pull() %>% 
+    prettyNum(big.mark = ",")
+})
+
+renderValueBox({
+  valueBox(reactive_perfect_bids_against()
+           ,icon = "fa-thumbs-down"
+           )
+})
+
+```
+
+### Dice Eliminated by Opponent
+
+```{r}
+
+renderPlot({
+  eliminator_by_round %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>%
+    filter(player_count == input$PlayerCountInputPage3) %>% 
+    group_by(eliminator ,round_loser) %>% 
+    summarise(dice_eliminated = n()) %>% 
+    ungroup() %>% 
+    filter(eliminator == input$PlayerInput) %>%
+    ggplot(aes(x = reorder(round_loser ,dice_eliminated) ,y = dice_eliminated)) +
+      geom_col() +
+      coord_flip() +
+      theme_fivethirtyeight()
+})
+
+```
+
+### Dice Eliminated by Method
+
+```{r}
+
+renderPlot({
+  eliminator_by_round %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>% 
+    select(game_num ,round_num ,accuser ,accused ,round_loser ,player_count) %>% 
+    pivot_longer(names_to = "accusation_type" ,values_to = "player" ,c(accuser ,accused)) %>%
+    filter(player_count == input$PlayerCountInputPage3) %>% 
+    filter(player == input$PlayerInput) %>% 
+    group_by(player ,round_loser ,accusation_type) %>% 
+    summarise(accusations      = n()
+              ,dice_eliminated = sum(as.numeric(player != round_loser))
+              ) %>% 
+    ungroup() %>% 
+    mutate(accusation_type2 = factor(if_else(accusation_type == "accuser" ,"Lies Called" ,"Called Liar")
+                                     ,levels = c("Lies Called" ,"Called Liar"))
+           ) %>% 
+    filter(player != round_loser) %>%
+    group_by(player ,accusation_type2) %>% 
+    summarise(dice_eliminated = sum(dice_eliminated)) %>% 
+    ungroup() %>% 
+    ggplot(aes(x = reorder(accusation_type2 ,dice_eliminated) ,y = dice_eliminated)) +
+      geom_col() +
+      coord_flip() +
+      theme_fivethirtyeight()
+})
+
+```
+
+
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Win Percent
+
+```{r}
+
+reactive_win_pct <- reactive({
+  players_by_game %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>% 
+    left_join(game_summary %>% select(game_num ,winner) ,by = c("game_num")) %>% 
+    filter(player_count == input$PlayerCountInputPage3) %>% 
+    group_by(player) %>% 
+    summarise(wins                = sum(as.numeric(player == winner))
+              ,total_games_played = n_distinct(game_num)
+              ,win_pct            = round((wins / total_games_played) ,3) * 100
+              ) %>% 
+    ungroup() %>% 
+    filter(player == input$PlayerInput) %>% 
+    select(win_pct) %>% 
+    pull()
+})
+
+renderGauge({
+  gauge(reactive_win_pct()
+        ,min = 0 
+        ,max = 100 
+        ,symbol = '%'
+        ,sectors = gaugeSectors(success = c(38 ,100) ,warning = c(25 ,37.9) ,danger = c(0 ,24.9)))
+})
+  
+```
+
+### Dice Bid Distribution
+
+```{r}
+
+renderPlot({
+  round_detail %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>%
+    filter(player_count == input$PlayerCountInputPage3) %>% 
+    filter(player == input$PlayerInput) %>% 
+    filter(!is.na(bid)) %>% 
+    mutate(die = factor(die)) %>% 
+    group_by(player ,die) %>% 
+    summarise(n = n()) %>%
+    ggplot(aes(x = die ,y = n)) +
+      geom_col() +
+      coord_flip() +
+      scale_y_continuous(labels = comma_format(accuracy = 1) ,breaks = pretty_breaks()) +
+      theme_fivethirtyeight()
+})
+
+```
+
+
+### Success Rate by Method & Opponent
+
+```{r}
+
+renderPlot({
+  eliminator_by_round %>% 
+    left_join(player_count_by_game ,by = c("game_num")) %>% 
+    select(game_num ,round_num ,accuser ,accused ,round_loser ,eliminator ,player_count) %>% 
+    filter(player_count == input$PlayerCountInputPage3) %>% 
+    pivot_longer(names_to = "accusation_type" ,values_to = "player" ,c(accuser ,accused)) %>%
+    mutate(accusation_type2 = factor(if_else(accusation_type == "accuser" ,"Lies Called" ,"Called Liar")
+                                     ,levels = c("Lies Called" ,"Called Liar"))
+           ,opponent        = if_else(player == round_loser ,eliminator ,round_loser)
+           ) %>%     
+    group_by(player ,opponent ,accusation_type2) %>% 
+    summarise(success_count = sum(as.numeric(player != round_loser))
+              ,total        = n()
+              ,success_rate = success_count / total
+              ) %>% 
+    ungroup() %>% 
+    filter(player == input$PlayerInput) %>%
+    ggplot(aes(x = reorder(opponent ,success_rate) ,y = success_rate)) +
+      geom_col() +
+      coord_flip() +
+      facet_wrap(. ~ accusation_type2) +
+      geom_hline(yintercept = .5 ,linetype = "longdash") +
+      scale_y_continuous(labels = percent ,limits = c(0 ,1)) +
+      theme_fivethirtyeight()
+})
+
+```
+
+
+
+
+
