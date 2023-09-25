@@ -34,30 +34,9 @@ options(dplyr.summarise.inform=F)
 
 
 ```{r ,include=FALSE}
-# ## Data Path
-# file_path <- "C:/Users/riese/Desktop/Liars Dice/Text Files"
-# file_vector <- list.files(file_path)
-# path_vector <- str_c(file_path ,"/" ,file_vector)
-# 
-# ## Reading in the text files
-# data <- NULL
-```
-
-```{r ,include=FALSE}
-# for (i in 1:length(path_vector)) {
-#   temp <- read_tsv(path_vector[i] ,show_col_types = FALSE) %>% 
-#     mutate(source    = file_vector[i]
-#            ,game_num = str_extract(source ,pattern = "[0-9]{5,6}")
-#            )
-#   colnames(temp)[1] <- c("info")
-#   data <- bind_rows(data ,temp)
-# }
-
+## Starting point - need to run the Liar's Dice Text Script first
 data <- read_csv("text data.csv")
 
-```
-
-```{r ,include=FALSE}
 ## Going to separate into two datasets
 ## One with the high level detail
 ## The other with the information at the game level
@@ -606,58 +585,41 @@ renderValueBox({
 
 ```
 
-### Dice Eliminated by Opponent
-
-```{r}
-
-renderPlot({
-  eliminator_by_round %>% 
-    left_join(player_count_by_game ,by = c("game_num")) %>%
-    filter(player_count == input$PlayerCountInputPage3) %>% 
-    group_by(eliminator ,round_loser) %>% 
-    summarise(dice_eliminated = n()) %>% 
-    ungroup() %>% 
-    filter(eliminator == input$PlayerInput) %>%
-    ggplot(aes(x = reorder(round_loser ,dice_eliminated) ,y = dice_eliminated)) +
-      geom_col() +
-      coord_flip() +
-      theme_fivethirtyeight()
-})
-
-```
-
-### Dice Eliminated by Method
+### Accusations by Opponent & Method
 
 ```{r}
 
 renderPlot({
   eliminator_by_round %>% 
     left_join(player_count_by_game ,by = c("game_num")) %>% 
-    select(game_num ,round_num ,accuser ,accused ,round_loser ,player_count) %>% 
-    pivot_longer(names_to = "accusation_type" ,values_to = "player" ,c(accuser ,accused)) %>%
+    select(game_num ,round_num ,accuser ,accused ,round_loser ,eliminator ,player_count) %>% 
     filter(player_count == input$PlayerCountInputPage3) %>% 
-    filter(player == input$PlayerInput) %>% 
-    group_by(player ,round_loser ,accusation_type) %>% 
-    summarise(accusations      = n()
-              ,dice_eliminated = sum(as.numeric(player != round_loser))
-              ) %>% 
-    ungroup() %>% 
+    pivot_longer(names_to = "accusation_type" ,values_to = "player" ,c(accuser ,accused)) %>%
     mutate(accusation_type2 = factor(if_else(accusation_type == "accuser" ,"Lies Called" ,"Called Liar")
                                      ,levels = c("Lies Called" ,"Called Liar"))
-           ) %>% 
-    filter(player != round_loser) %>%
-    group_by(player ,accusation_type2) %>% 
-    summarise(dice_eliminated = sum(dice_eliminated)) %>% 
+           ,opponent        = if_else(player == round_loser ,eliminator ,round_loser)
+           ) %>%     
+    group_by(player ,opponent ,accusation_type2) %>% 
+    summarise(success_count = sum(as.numeric(player != round_loser))
+              ,total        = n()
+              ,success_rate = success_count / total
+              ) %>% 
     ungroup() %>% 
-    ggplot(aes(x = reorder(accusation_type2 ,dice_eliminated) ,y = dice_eliminated)) +
-      geom_col() +
+    pivot_longer(names_to = "result" ,values_to = "count" ,c(success_count ,total)) %>% 
+    mutate(result = str_replace_all(result ,pattern = "success_count" ,"successful")) %>% 
+    filter(player == input$PlayerInput) %>%
+    ggplot(aes(x = reorder(opponent ,count) ,y = count ,fill = result)) +
+      geom_col(position = "dodge") +
       coord_flip() +
+      scale_fill_manual(values = c("#4DAF4A" ,"#377EB8")) +
+      # scale_fill_brewer(palette = "Set1") +
+      facet_wrap(. ~ accusation_type2) +
+      scale_y_continuous(labels = comma ,breaks = pretty_breaks()) +
       theme_fivethirtyeight()
 })
 
+
 ```
-
-
 
 Column {data-width=350}
 -----------------------------------------------------------------------
@@ -715,7 +677,7 @@ renderPlot({
 ```
 
 
-### Success Rate by Method & Opponent
+### Success Rate by Opponent & Method
 
 ```{r}
 
@@ -736,7 +698,7 @@ renderPlot({
               ) %>% 
     ungroup() %>% 
     filter(player == input$PlayerInput) %>%
-    ggplot(aes(x = reorder(opponent ,success_rate) ,y = success_rate)) +
+    ggplot(aes(x = reorder(opponent ,total) ,y = success_rate)) +
       geom_col() +
       coord_flip() +
       facet_wrap(. ~ accusation_type2) +
